@@ -1,0 +1,28 @@
+تونس 11 Tunis
+أريانة 12 Ariana
+بن عروس 13 Ben Arous
+منوبة 14 Mannouba
+نابل 15 Nabeul
+زغوان 16 Zaghouan
+بنزرت 17 Bizerte
+باجة 21 Beja
+جندوبة 22 Jendouba
+الكاف 23 el Kef
+سليانة 24 Siliana
+سوسة 31 Sousse
+المنستير 32 Monastir
+المهدية 33 Mahdia
+صفاقس 34 Sfax
+القيروان 41 Kairouan
+القصرين 42 Kasserine
+سيدي بوزيد 43 Sidi Bouzid
+قابس 51 Gabes
+مدنين 52 Medenine
+تطاوين 53 Tataouine
+قفصة 61 Gafsa
+توزر 62 Tozeur
+قبلي 63 Kebili
+
+
+References
+2013, CLASSIFICATION NATIONALE DES UNITES ADMINISTRATIVES, CODE GEOGRAPHIQUE TUNISIEN
