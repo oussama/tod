@@ -1,0 +1,2753 @@
+سيدي بوسعيد 51 51 11 Saïd Bou Sidi
+أميلكار 52 51 11 Amilcar
+قرطاج بيرصا 53 51 11 Byrsa Carthage
+قرطاج الشاطىء 54 51 11 Plage Carthage
+الياسمينة 55 51 11 Jasmin Le
+حي محمد علي 56 51 11 Ali Mohamed Cité
+المدينة 51 52 11 Medina La
+الحفصية 52 52 11 Hafsia El
+باب البنات 53 52 11 Bénat Bab
+سوق النحاس 54 52 11 Nhes El Souk
+األسواق 55 52 11 Assouak El
+باب المنارة 56 52 11 Mnara Bab
+تربة الباي 57 52 11 Bey El Tourbet
+الزرارعية 58 52 11 Zraria El
+سيدي علي عزوز 59 52 11 Azouz Ali Sidi
+التوفيق 60 52 11 Taoufik El
+الصباغين 61 52 11 Sabaghine El
+سيدي بومنديل 62 52 11 Boumendil Sidi
+باب البحر 51 53 11 Bhar El Bab
+الحدائق 52 53 11 Jardins Les
+بحيرة تونس 53 53 11 Tunis de Lac
+المنجي سليم 54 53 11 Slim Mongi
+الحبيب ثامر 55 53 11 Thameur Habib
+الطيب المهيري 56 53 11 hiri’M El Taïeb
+الهادي شاكر 57 53 11 Chaker Hédi
+سيدي البحري 58 53 11 Bahri El Sidi
+ترنجة 51 54 11 Tronja
+باب الخضراء 52 54 11 Khadra El Bab
+باب سعدون 53 54 11 Sâadoun Bab
+برج زوارة 54 54 11 Zouara Borj
+باب العسل 55 54 11 Assel El Bab
+الحلفاوين 56 54 11 Halfaouine El
+باب سويقة 57 54 11 Souika Bab
+باب سيدي عبد السالم 58 54 11 Abdessalem Sidi Bab
+الزاوية البكرية 59 54 11 Bekria El Zaouiet
+حمام الرميمي 60 54 11 Rmimi El Hammam
+سيدي الجبالي 61 54 11 Djebali Sidi
+معتمدية العمران Omrane El Delegation
+العمران 51 55 11 Omrane El
+الجبل األحمر 52 55 11 Ahmar El Djebel
+حي الزياتين 53 55 11 Oliviers des Cité
+رأس الطابية 54 55 11 Tabia Ras
+بئر عتيق 55 55 11 Atig Bir
+وادي السبعي 56 55 11 Sebai El Oued
+حي بن خلدون األول 51 56 11 I Khaldoun Ibn Cité
+الرمانة 52 56 11 Romana El
+حي بن خلدون الثاني 53 56 11 II Khaldoun Ibn Cité
+حي بن خلدون السادس 54 56 11 VI Khaldoun Ibn Cité
+حي اإلنطالقة 55 56 11 Intilaka El Cité
+العمران األعلى 56 56 11 Supérieur Omrane El
+النسيم 57 56 11 Nassim El
+أحمد التليلي 58 56 11 Tlili Ahmed
+الصديق 59 56 11 Sadique-Es
+التحرير األول 51 57 11) 1 (Ettahrir
+التحرير الثاني 52 57 11) 2 (Ettahrir
+التحرير الثالث 53 57 11) 3 (Ettahrir
+التحرير العلوي 54 57 11 Superieur Ettahrir
+الحديقة 55 57 11 Hadika El
+غرة جوان 51 58 11 Juin 1er
+المنزه 52 58 11 Menzah El
+الفتح 53 58 11 Fath El
+المنار 54 58 11 Manar El
+المنار)1 )55 58 11) 1 (Manar El
+حي الخضراء 51 59 11 Khadra El Cité
+حي الحدائق 52 59 11 Jardin Cité
+الشرقية 53 59 11 Charguia-Ech
+خير الدين باشا 54 59 11 Pacha Khéreiddine
+علي بلهوان 55 59 11 Belhouane Ali
+فرحات حشاد 56 59 11 Hached Farhat
+البحيرة 57 59 11 Bouhaira El
+حي السالم 58 59 11 Essalem Cité
+باردو 51 60 11 Bardo Le
+باردو الشمالي 52 60 11 Nord Bardo Le
+باردو الجنوبي 53 60 11 Sud Bardo Le
+الحديقة 54 60 11 Hadika El
+بوشوشة 55 60 11 Choucha-Bou
+اإلقامة الطيبة 56 60 11 Residence Bonne
+خزندار 57 60 11 Khaznadar
+الفتح 58 60 11 Fath El
+قصر السعيد 59 60 11 Saïd-Ksar
+قصر السعيد الثاني 60 60 11 II Saïd-Ksar
+البساتين 61 60 11 Bassatine El
+السعادة 62 60 11 Säada-Es
+قصر البرطال 63 60 11 Bortal El-Ksar
+إبن سيناء 64 60 11 Sina Ibn
+حي هالل 51 61 11 Helel Cité
+علي البلهوان 52 61 11 Belhouane Ali
+النجاح 53 61 11 Najah-En
+حي الشهداء 54 61 11 Martyrs des CIté
+بئر عنيبة 55 61 11 anniba Bir
+المالسين 56 61 11 Mellassine
+الزهور 51 62 11 Ezzouhour
+الزهور الرابع 52 62 11 IV Ezzouhour
+السعادة 53 62 11 Säada-Es
+السمران 54 62 11 Soumrane-Es
+حي الطيران 55 62 11 Tayarane Cité
+باش حانبة 56 62 11 Hamba-Bach
+الحرايرية 51 63 11 Hraïria-El
+الزهور الخامس 52 63 11 V Ezzouhour
+العقبة 53 63 11 Akba El
+العقبة العليا 54 63 11 Supérieur Akba El
+غدير القلة 55 63 11 Golla El Ghédir
+العنتيت 56 63 11 Antit El
+الفلة 57 63 11 Foula El
+طارق بن زياد 58 63 11 Ziad Ibn Tarak
+الزهروني 59 63 11 Ezzahrouni
+معتمدية سيدي حسين Hassine Sidi Delegation
+برج شاكير 51 64 11 Chakir-Borj
+سيدي حسين 52 64 11 Hassine Sidi
+الجيارة 53 64 11 Jaïara El
+عطار 54 64 11 Attar
+20 مارس 55 64 11 Mars 20
+بيرين 56 64 11 Byrine
+المغيرة إنزال 57 64 11 Inzel Meghiret
+25جويلية 58 64 11 juillet 25
+14 جانفي 59 64 11 Janvier 14
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+36
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية الوردية ouardia Delegation
+الوردية 51 65 11 Ouardia El
+بوقطفة 52 65 11 Gatfa-Bou
+الطاهر صفر 53 65 11 Sfar Tahar
+حي اإلزدهار 54 65 11 Izdihar El Cité
+حي محمد علي 55 65 11 Ali Mohamed Cité
+سيدي بلحسن 56 65 11 Belhassen Sidi
+معتمدية الكبارية Kabaria El Delegation
+الكبارية )1 )51 66 11) 1 (Kabaria El
+الكبارية )2 )52 66 11) 2 (Kabaria
+الكبارية )3 )53 66 11) 3 (Kabaria El
+الكبارية )4 )54 66 11) 4 (Kabaria El
+حي النور 55 66 11 Ennour Cité
+إبن سينا )1 )56 66 11) 1 (Sina Ibn
+إبن سينا )2 )57 66 11) 2 (Sina Ibn
+المروج )2 )58 66 11) 2 (Mourouj El
+معتمدية سيدي البشير Bechir El sidi Delegation
+سيدي البشير 51 67 11 Béchir El Sidi
+سيدي منصور 52 67 11 Mansour Sidi
+معقل الزعيم 53 67 11 Ezzaïm Mâakel
+فرحات حشاد 54 67 11 Hached Farhat
+أبو القاسم الشابي 55 67 11 chebbi-Ech Abulkacem
+السيدة المنوبية 56 67 11 Manoubia Saïda
+معتمدية جبل الجلود Djeloud Djebel Delegation
+سيدي فتح هللا 51 68 11 Fathallah Sidi
+علي باش حانبة 52 68 11 Hamba-Bach Ali
+القرجومة 53 68 11 Garjouma El
+حي الفتح 54 68 11 Fath El Cité
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+37
+السبخاء 55 68 11 Sebkha-Es
+األفران 56 68 11 Afrane El
+جبل الجلود 57 68 11 Djeloud Djebel
+معتمدية حلق الوادي Goulette Le Delegation
+حلق الوادي 51 69 11 Goulette La
+حلق الوادي كازينو 52 69 11 Casino Goulette La
+خير الدين 53 69 11 Khéireddine
+الطيب المهيري 54 69 11 Mhiri Taîeb
+حي السالمة 55 69 11 Essalama Cité
+معتمدية الكرم Kram El Delegation
+الكرم الشرقي 51 70 11 Est Kram Le
+الرياض 52 70 11 Erriadh
+البحيرة 53 70 11 Bouhaïra El
+سيدي فرج 54 70 11 Fredj Sidi
+الكرم الغربي 55 70 11 Ouest Kram Le
+سيدي عمر 56 70 11 Amor Sidi
+بئر الحلو 57 70 11 Helou El Bir
+معتمدية المرسى Marsa La Delegation
+المرسى الشاطيء 51 71 11 Plage Marsa La
+المرسى المدينة 52 71 11 Medina Marsa La
+المرسى الحدائق 53 71 11 Hadayek Marsa La
+المرسى الرياض 54 71 11 Erriadh Marsa La
+الرميلة 55 71 11 Rmila-Er
+المرسى المنتزه 56 71 11 Montazeh El Marsa La
+قمرت 57 71 11 Gammarth
+قمرت العليا 58 71 11 Supérieur Gammarth
+سيدي داود 59 71 11 Daoued Sidi
+البحر األزرق 60 71 11 Azrak El Bahr El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+38
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+والية أريـــــــانة Ariana’L de Gouvernorat
+رمز المنطقة
+معتمدية أريانة المدينة secteur Code Ville ariana’L Delegation
+اريانة الجديدة 51 51 12 Ariana nouvelle La
+أريانة العليا 52 51 12 supérieur Ariana
+اريانة المدينة 53 51 12 Ville Ariana’L
+المنزه الخامس 54 51 12 V Menzah El
+المنزه السادس 55 51 12 VI Menzah El
+التعمير 56 51 12 Etâamir
+الياسمينة 57 51 12 Yasmina El
+النصر 1 58 51 12 1 Ennasr
+النصر 2 59 51 12 2 Ennasr
+معتمدية سكرة Soukra Delegation
+سكرة 51 52 12 Soukra
+دار فضال 52 52 12 Fadhal Dar
+البساتين 53 52 12 Bessatine El
+شطرانة 54 52 12 Chotrana
+برج الوزير 55 52 12 Ouzir El Borj
+النسيم 56 52 12 Ennasim
+التعمير 57 52 12 Ettaamir
+ّ معتمدية رواد Raoued Delegation
+جعفر 51 53 12 Jaafer
+النخيالت 52 53 12 Enkhilet
+المدينة الفاضلة 53 53 12 Fadhila El Medina El
+الغزالة 54 53 12 Ghazala El
+ّرواد 55 53 12 Raoued
+برج الطويل 56 53 12 Ettouil Bourj
+سيدي عمر بوخطيوة 57 53 12 Khtioua Bou Amor Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+39
+معتمدية قلعة االندلس Andalous El Kalaat Delegation
+قلعة االندلس الشرقية 51 54 12 Est Andalous El Kalaat
+قلعة االندلس الغربية 52 54 12 Ouest Andalous El Kalaat
+قنطرة بنزرت 53 54 12 Bizerte de Pont
+بوحنش 54 54 12 Hanach Bou
+الحسيان 55 54 12 Hessiane El
+النحلي 56 54 12 Ennahli
+معتمدية سيدي ثابت Thabet Sidi Delegation
+سيدي ثابت 51 55 12 Thabet Sidi
+بجاوة 52 55 12 Bejaoua
+المنجي سليم 53 55 12 Slim Mongi
+سبالة بن عمار 54 55 12 Ammar Ben Cebalet
+شرفش 55 55 12 Chorfech
+معتمدية حي التضامن Ettadhamen Cite Delegation
+حي التضامن 51 56 12 Ettadhamen Cité
+ابن خلدون 52 56 12 khaldoun Ibn
+9 افريل 53 56 12 Avril 09
+18 جانفي 54 56 12 Janvier 18
+2 مارس 55 56 12 mars 20
+منجي سليم 56 56 12 Slim Mongi
+7 نوفمبر 57 56 12 Novembre 7
+ابو القاسم الشابي 58 56 12 Chebbi-Ech Abulkassem
+خير الدين باشا 59 56 12 Pacha Khaireddine
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+40
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية المنيهلة Mnihla El Delegation
+المنيهلة 51 57 12 Mnihla El
+الرفاهة 52 57 12 Errafaha
+النصر 53 57 12 Nasr-En
+البساتين 54 57 12 Bassatine-El
+15 أكتوبر 55 57 12 octobre 15
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+41
+واليــة بن عروس Arous Ben de Gouvernorat
+رمز المنطقة
+معتمدية بن عروس secteur Code Arous Ben Delegation
+بن عروس الشرقية 51 51 13 Est Arous Ben
+حي ابن عرفة 52 51 13 Arafa Ibn Cité
+المهيري 53 51 13 Mehiri El
+بن عروس الغربية 54 51 13 Ouest Arous Ben
+سيدي بن عروس 55 51 13 Arous Ben Sidi
+حي االسكان 56 51 13 Iskane El Cité
+معتمدية المدينة الجديدة Nouvelle La Delegation
+Medina
+المدينة الجديدة )1 )51 52 13) 1(Medina Nouvelle La
+المدينة الجديدة)2 )52 52 13) 2(Medina Nouvelle La
+سيدي مصباح 53 52 13 Mosbah Sidi
+الياسمينات 54 52 13 Yasminet El
+الرابطة 55 52 13 Errabta
+معتمدية المروج Mourouj El Delegation
+المروج )1 )51 53 13) 1 (Mourouj El
+المروج )3 )52 53 13) 3 (Mourouj El
+المروج )4 )53 53 13) 4 (Mourouj El
+المروج )5 )54 53 13) 5 (Mourouj El
+بئر القصعة 55 53 13 Kassaa Bir
+فرحات حشاد 56 53 13 Hached Farhat
+معتمدية حمام االنف Lif Hammam Delegation
+حمام االنف المدينة 51 54 13 Ville Lif Hammam
+حمام االنف المدينة 2 52 54 13 2 Ville Lif Hammem
+حمام االنف بوقرنين 53 54 13 Kornine Bou Lif Hammem
+فرحات حشاد 54 54 13 Hached Farhat
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+42
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+حمام االنف الملعب 55 54 13 Malaab El Lif Hammam
+حي محمد علي 56 54 13 Ali Mohamed Cité
+معتمدية حمام الشط Chatt Hammem Delegation
+بئر الباي 51 55 13 Bey El Bir
+برج السدرية 52 55 13 Cedria Borj
+حمام الشط 53 55 13 Chatt Hammem
+معتمدية بومهل البساتين El Mhel Bou Delegation
+Bassatine
+بومهل 51 56 13 Mhel Bou
+البساتين 52 56 13 Bassatine El
+شالة 53 56 13 Chêla
+البساتين الغربية 54 56 13 Ouest Bassatine El
+معتمدية الزهراء zahra-Ez Delegation
+الزهراء المدينة 51 57 13 Ville Zahra-Ez
+حي الحبيب 52 57 13 Habib El Cité
+18 جانفي 53 57 13 Janvier 18
+برج الوزير 54 57 13 Louzir El Borj
+معتمدية رادس Rades Delegation
+رادس المدينة 51 58 13 Ville Rades
+رادس المالحة 52 58 13 Mellaha Rades
+الطيب المهيري 53 58 13 Mehiri Taieb
+رادس رمادة 54 58 13 Remada Rades
+المنجي سليم 55 58 13 Slim Mongi
+رادس الغابة 56 58 13 Foret Rades
+رادس مليان 57 58 13 Meliane Rades
+نوبو 58 58 13 Noubou
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+43
+معتمدية مقرين Megrine Delegation
+مقرين العليا 51 59 13 Superieure Megrine
+مقرين الرياض 52 59 13 Riadh Megrine
+جوهرة 53 59 13 Jawhara
+منزل مبروك 54 59 13 Mabrouk Menzel
+مقرين شاكر 55 59 13 Chaker Megrine
+مقرين شاكر)2 )56 59 13) 2(Chaker Megrine
+سيدي رزيق 57 59 13 Rezig Sidi
+سيدي رزيق )2 )58 59 13) 2 (Rezig Sidi
+معتمدية المحمدية Mohamedia Delegation
+المحمدية 51 60 13 Mohamedia
+المنجي سليم 52 60 13 Selim Mongi
+حي السعادة 53 60 13 Saada-Es Cité
+حي النسيم 54 60 13 Nassim El Cité
+سيدي فرج 55 60 13 Frej Sidi
+معتمدية فوشانة Fouchana Delegation
+فوشانة 51 61 13 Fouchana
+حي المستقبل 52 61 13 Mostakbel El Cité
+الهضاب 53 61 13 Hidhab El
+المغيرة 54 61 13 Moghira El
+نعسان 55 61 13 Nâassen
+ّشبدة 56 61 13 Chebeda
+دوار الحوش 57 61 13 ElHouch Douar
+معتمدية مرناق Mornag Delegation
+مرناق 51 62 13 Mornag
+مرناق الغربية 52 62 13 Ouest Mornag
+الخليلدية 53 62 13 Khelidia
+الزاوية 54 62 13 Zaouia-Ez
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+44
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+جبل الرصاص 55 62 13 Ressas Djebel
+سيدي سالم القارصي 56 62 13 Garsi El Salem Sidi
+الكبوطي 57 62 13 Kabouti
+عين رقاد 58 62 13 Rekad Ain
+القنة 59 62 13 Gounna El
+سيدي سعد 60 62 13 Saad Sidi
+السالم 61 62 13 Essalem
+الرسالة 62 62 13 Errisala
+أوذنة 63 62 13 Oudna
+القصيبي 64 62 13 Kessibi El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+45
+واليــة منوبة Manouba de Gouvernorat
+رمز المنطقة
+معتمدية منوبة secteur Code Manouba de Delegation
+منوبة 51 51 14 Manouba
+منوبة الوسطى 52 51 14 Centre Manouba
+سيدي عمر 53 51 14 Amor Sidi
+الدندان 54 51 14 Den- Den
+قصر سعيد 55 51 14 Said - Ksar
+الدندان الجنوبي 56 51 14 Sud Den - Den
+معتمدية دوار هيشر Hicher Douar Delegation
+دوار هيشر 51 52 14 Hicher Douar
+خالد بن الوليد 52 52 14 Oualid El Ibn Khaled
+حي الرياض 53 52 14 Riadh- Er Cité
+حي النسيم 54 52 14 Ennassim Cité
+حي الشباب 55 52 14 Chabeb - Ech Cité
+معتمدية وادي الليل Ellil Oued Delegation
+وادي الليل 51 53 14 Ellil Oued
+السعيدة 52 53 14 Saida Es
+الرياض 53 53 14 Riadh Er
+حي الورد 54 53 14 Ouerd El Cité
+النجاة 55 53 14 Ennajet
+صنهاجة 56 53 14 Sanhaja
+القباعة 57 53 14 Kobbâa El
+معتمدية المرناقية Mornaguia Delegation
+المرناقية 51 54 14 Mornaguia
+20 مارس 52 54 14 Mars 20
+بورقبة 53 54 14 Bouragba
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+46
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+الفجة 54 54 14 Fejja El
+سيدي علي الحطاب 55 54 14 Hattab El Ali Sidi
+حميم 56 54 14 HmaÏem
+البساتين 57 54 14 Bassatine El
+المرناقية الشمالية 58 54 14 Nord Mornaguia
+معتمدية برج العامري Amri El Borj Delegation
+برج العامري 51 55 14 Amri El Borj
+منزل الحبيب 52 55 14 Habib Menzel
+برج النور 53 55 14 Ennour Borj
+المساعدين 54 55 14 Moussadine El
+معتمدية الجديدة Djedaida Delegation
+الجديدة 51 56 14 Djedaïda
+الجديدة حشاد 52 56 14 Hached Djedaïda
+شواط 53 56 14 Chaouat
+المنصورة 54 56 14 Mansoura El
+الزاهرة 55 56 14 Zahra - Ez
+الحبيبية 56 56 14 Habibia El
+معتمدية طبربة Tebourba Delegation
+طبربة 51 57 14 Tebourba
+االنصارين 52 57 14 Ansarine El
+الدخيلة 53 57 14 Edkhila
+المالحة 54 57 14 Mellaha El
+أحواز طبربة 55 57 14 Tebourba de Banlieue
+الرجاء 56 57 14 Raja - Er
+الشويقي 57 57 14 Chouigui - Ech
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+47
+معتمدية البطان Battane El Delegation
+البطان 51 58 14 Battane El
+برج التومي 52 58 14 Ettoumi Borj
+المهرين 53 58 14 Mehrine
+العروسية 54 58 14 Aroussia El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+48
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة نابل Nabeul de Gouvernorat
+رمز المنطقة
+معتمدية نابل secteur Code Nabeul Delegation
+األسواق 51 51 15 Asouak El
+النور 52 51 15 Ennour
+بئر شلوف 53 51 15 Challouf Bir
+نيابوليس 54 51 15 Niapolis
+الحدائق 55 51 15 Hadayek El
+الهادي شاكر 56 51 15 Chaker Hedi
+معتمدية دار شعبان الفهري Chaabane Dar Delegation
+Fehri El
+دار شعبان 51 52 15 Châabane Dar
+الفهري 52 52 15 Fehri El
+الفرينين 53 52 15 Frinine El
+عمرون 54 52 15 Amroun
+معتمدية بني خيار Khiar Beni Delegation
+بني خيار 51 53 15 Khiar Beni
+ديار بن سالم 52 53 15 Salem Ben Diar
+المعمورة 53 53 15 Mâamoura El
+الصمعة 54 53 15 Somâa
+حلفاء 55 53 15 Halfa
+معتمدية قربة Korba Delegation
+بني عياش 51 54 15 Ayache Beni
+قرعة ساسي 52 54 15 Sassi Garâet
+ديار الحجاج 53 54 15 Hojaj El Diar
+قربة الشرقية 54 54 15 Est Korba
+قربة الغربية 55 54 15 Ouest Korba
+تازركة 56 54 15 Tazerka
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+49
+بوجريدة 57 54 15 Jerida - Bou
+بولدين 58 54 15 Boulidine
+معتمدية منزل تميم Temime Menzel Delegation
+الوديان 51 55 15 Ouediane El
+الرعينين 52 55 15 Erâinine
+بني عبد العزيز 53 55 15 Abdelaziz-Beni
+الصقالبة 54 55 15 Skalba
+علي البلهوان 55 55 15 Belhaouene Ali
+الطيب المهيري 56 55 15 Mehiri Taieb
+منزل حر 57 55 15 Horr Menzel
+عصفور 58 55 15 Asfour El
+لزيدين 59 55 15 Lezdine
+معتمدية الميدة Mida El Delegation
+تافلون 51 56 15 Tafelloum
+الميدة 52 56 15 Mida El
+فرتونة 53 56 15 Fartouna
+أم ذويل 54 56 15 Dhouil Oum
+لبنة 55 56 15 Lebna
+القرشيين 56 56 15 Korchine
+معتمدية قليبية Kelibia Delegation
+وادي الخطف 51 57 15 Khatf EL Oued
+ملول 52 57 15 Melloul
+أزمور 53 57 15 Azmour
+قليبية الشرقية 54 57 15 Est Kelibia
+قليبية الغربية 55 57 15 Ouest Kelibia
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+50
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية حمام الغزاز El Hammam Delegation
+Guezaz
+حمام الغزاز 51 58 15 guezaz El Hammam
+دار علوش 52 58 15 Allouch Dar
+حارة الشعراء 53 58 15 Choara- Ech Harat
+وزدرة 54 58 15 Ouezdra
+معتمدية الهوارية Haouaria El Delegation
+الهوارية الجوفية 51 59 15 Nord Haouaria El
+الهوارية القبلية 52 59 15 Sud Haouaria El
+صاحب الجبل الشمالية 53 59 15 Nord Jebel El Saheb
+صاحب الجبل القبلية 54 59 15 Sud Jebel El Saheb
+بوكريم 55 59 15 Krim Bou
+تزغران الشرقية 56 59 15 Est Tazaghrane
+تزغران الغربية 57 59 15 Ouest Tazaghrane
+زاوية المقايز 58 59 15 Megaiez El Zaouiet
+معتمدية تاكلسة Takelsa Delegation
+وادي العبيد 51 60 15 Abid El Oued
+بئر الزيت 52 60 15 Ezzit Bir
+العريمة 53 60 15 Arima El
+تاكلسة الجوفية 54 60 15 Nord Takelsa
+تاكلسة الوسطى 55 60 15 Centre Takelsa
+معتمدية سليمان Soliman Delegation
+المريسة 51 61 15 Mraissa El
+الشريفات 52 61 15 Cherifet-ECH
+بوشراي 53 61 15 Charray Bou
+سليمان 54 61 15 Soliman
+سليمان الجنوبية 55 61 15 Sud Soliman
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+51
+معتمدية منزل بوزلفة Bouzelfa menzel Delegation
+داموس الحاجة 51 62 15 Hajja El Damous
+الرحمة 52 62 15 Errahma
+منزل بوزلفة الجوفية 53 62 15 Nord Zelfa Bou Menzel
+منزل بوزلفة القبلية 54 62 15 Sud Zelfa Bou Menzel
+منزل بوزلفة الغربية 55 62 15 Ouest Zelfa Bou Menzel
+معتمدية بني خالد Khaled beni Delegation
+بني خالد الجوفية 51 63 15 Nord Khalled Beni
+بني خالد القبلية ) تومي( 52 63 15) Toumi (Sud Khalled Beni
+زاوية الجديدي 53 63 15 Djedidi Zaouiet
+القبة الكبيرة 54 63 15 Kebira El Kobba
+بئر دراسن 55 63 15 Drassen Bir
+بني خالد الشرقية 56 63 15 Est khalled Béni
+معتمدية قرنبالية Grombalia Delegation
+فندق الجديد 51 64 15 Djedid Fondouk
+شماس 52 64 15 Chammes
+نيانو 53 64 15 Nianou
+تركي 54 64 15 Turki
+خنقة الحجاج 55 64 15 Hojjej EL Khanguet
+قرنبالية الشرقية 56 64 15 Est Grombalia
+قرنبالية الغربية 57 64 15 Ouest Grombalia
+جبل طريف 58 64 15 Terif Djebel
+عين طبرنق 59 64 15 Tebournouk Aïn
+معتمدية بوعرقوب argoub Bou Delegation
+سيدي الظاهر 51 65 15 Dhaher Sidi
+المشروحة 52 65 15 Machrouha El
+برج حفيظ 53 65 15 Hefaied Borj
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+52
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+بوعرقوب الجوفية 54 65 15 Nord Argoub Bou
+بوعرقوب القبلية 55 65 15 Sud Argoub Bou
+بلي 56 65 15 Belli
+الخروبة 57 65 15 Kharrouba El
+معتمدية الحمامات Hammamet Delegation
+سيدي الجديدي 51 66 15 Djedidi Sidi
+األطرش 52 66 15 Latrach
+بئر بورقبة 53 66 15 Regba Bou Bir
+براكة الساحل 54 66 15 Sahel-Es Baraket
+الحمامات الجوفية 55 66 15 Nord Hammamet
+الحمامات الشرقية 56 66 15 Est Hammamet
+الحمامات الغربية 57 66 15 Ouest Hammamet
+المرازقة 58 66 15 Mrezga
+ياسمين الحمامات 59 66 15 hammemet Ysmine
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+53
+واليــة زغوان Zaghouan de Gouvernorat
+رمز المنطقة
+معتمدية زغوان secteur Code Zaghouan Delegation
+زغوان المدينة 51 51 16 Ville Zaghouan
+زغوان الشمالية 52 51 16 Nord Zaghouan
+زغوان الجنوبية 53 51 16 Sud Zaghouan
+بئر حليمة 54 51 16 Halima Bir
+مقرن 55 51 16 Mograne
+جيملة 56 51 16 Jimla
+العيثة 57 51 16 Aïtha El
+وادي الرمل 58 51 16 Erremel Oued
+وادي الزيت 59 51 16 Ezzit Oued
+معتمدية الزريبة zeriba-Eez Delegation
+الجوف الشرقية 51 52 16 Est Jouf El
+الجوف الغربية 52 52 16 Ouest Jouf El
+الزريبة الحمام الجنوبية 53 52 16 Sud Hammam Zeriba-Ez
+الزريبة الحمام الشمالية 54 52 16 Nord Hammam Zriba-Ez
+الزريبة القرية 55 52 16 Village Zeriba-Ez
+بوعشير 56 52 16 Achir Bou
+جرادو 57 52 16 Jeradou
+عين الباطريية 58 52 16 Batria El Aïn
+معتمدية بئر مشارقة Mcherga Bir Delegation
+بئر مشارقة 51 53 16 chergua’M Bir
+بئر مشارقة المحطة 52 53 16 Gare chergua’M Bir
+دالئل العروس 53 53 16 Arous El Daleïl
+سمنجة 54 53 16 Smenja
+جبل الوسط 55 53 16 Oust jebel
+عين الصفصاف 56 53 16 Essafsaf Aïn
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+54
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+بوشة 57 53 16 Boucha
+عين عسكر 58 53 16 Asker Aïn
+معتمدية الفحص Fahs El Delegation
+أحواز الفحص 51 54 16 Fahs el’D Banlieu
+جوقار 52 54 16 Jouguar
+بئر مقرة 53 54 16 Magra Bir
+أم األبواب 54 54 16 Abouab El Oum
+أوالد الزوابي 55 54 16 Ezzouabi Ouled
+الفحص 56 54 16 Fahs El
+الدروع 57 54 16 Droua-Ed
+الغريفات 58 54 16 Ghrifet El
+بنت سعيدان 59 54 16 Saïdane Bent
+العمايم الشمالية 60 54 16 Nord Amiem El
+العمايم الجنوبية 61 54 16 Sud Amiem El
+وادي الخضراء 62 54 16 Khadhra El Oued
+تليل الصالحي 63 54 16 Essalhi Telil
+معتمدية الناظور nadhour-En Delegation
+الناظور 51 55 16 Nadhour En
+عين البطوم 52 55 16 Batthoum El Aïn
+صوار 53 55 16 Saouar
+بئر الشاوش 54 55 16 Chaouch Bir
+سوغاس 55 55 16 Sougas
+معتمدية صواف Saouaf Delegation
+صواف الشرقية 51 56 16 Est Saouef
+صواف الغربية 52 56 16 Ouest Saouef
+الحميرة 53 56 16 Hamira El
+الدغافلة الشرقية 54 56 16 Est Deghafla
+الدغافلة الغربية 55 56 16 Ouest Deghafla
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+55
+واليــة بنزرت Bizerte de Gouvernorat
+رمز المنطقة
+معتمدية بنزرت الشمالية secteur Code Nord Bizete Delegation
+حسن النوري 51 51 17 Nouri Hassen
+الحبيب بوقطفة 52 51 17 Bouguatfa Habib
+الكرنيش 53 51 17 Korniche El
+المدينة 54 51 17 Medina La
+الشيخ إدريس 55 51 17 Driss Cheik
+القنال 56 51 17 Canal EL
+بوبكر باكير 57 51 17 Bakir Baker Bou
+عين مريم 58 51 17 Mariam Aïn
+الحبيب الحداد 59 51 17 Haddad Habib
+المؤتمر 60 51 17 Môtamar El
+الهناء 61 51 17 Hana El
+15أكتوبر 62 51 17 Octobre 15
+جزيرة جالطة 63 51 17 Gualite la de ile’L
+معتمدية جرزونة Zarzouna Delegation
+جرزونة الغربية 51 52 17 Ouest Zarzouna
+جرزونة الشرقية 52 52 17 Est Zarzouna
+جرزونة الشمالية 53 52 17 Nord Zarzouna
+جرزونة الجنوبية 54 52 17 Sud Zarzouna
+معتمدية بنزرت الجنوبية Sud Bizete Delegation
+تسكراية 51 53 17 Teskraia
+فرحات حشاد 52 53 17 Hached Farhat
+مرنيصة 53 53 17 Marnissa
+هيشر 54 53 17 Hicher
+سيدي عامر 55 53 17 Ameur Sidi
+اللواتة 56 53 17 Louata
+باب ماطر 57 53 17 Mateur Bab
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+56
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+حي الجالء 58 53 17 Jala El Cité
+المصيدة 59 53 17 Massida El
+سيدي أحمد 60 53 17 Ahmed Sidi
+معتمدية سجنان Sedjnane Delegation
+سجنان 51 54 17 Sedjnane
+المعالية 52 54 17 Mâalia EL
+العبابسة 53 54 17 Ababssa El
+الحشاشنة 54 54 17 Hachachna El
+السحابنة 55 54 17 Sehabna
+سيدي مشرق 56 54 17 Mechrek Sidi
+أمادن 57 54 17 Amaden
+المشارقة 58 54 17 Mechargua
+معتمدية جومين Djoumine Delegation
+أوالد غانم 51 55 17 Ghanem Ouled
+السمان 52 55 17 Essemman
+الشنانة 53 55 17 Chenana
+تاهنت 54 55 17 Tahent
+كاف غراب 55 55 17 Ghrab Kef
+بالرايس 56 55 17 Berraies
+الطواجنية 57 55 17 Touajnia
+بازينة 58 55 17 Bazina
+رواحة 59 55 17 Rouaha
+معتمدية ماطر Mateur Delegation
+ماطر 51 56 17 Mateur
+أحواز ماطر 52 56 17 Mateur De Banlieue
+ماطر الجنوبية 53 56 17 Sud Mateur
+حي النصر 54 56 17 Nasr En Cité
+نفات 55 56 17 Nefat
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+57
+حي الصداقة 56 56 17 Essadaka Cité
+ترقالش 57 56 17 Targuellache
+عرب ماجور 58 56 17 Majour Arab
+بهاية 59 56 17 Behaya
+بومخيلة 60 56 17 Boumkhila
+معتمدية غزالة Guezala Delegation
+غزالة 51 57 17 Ghezala
+العرب 52 57 17 Arab El
+الذواودة 53 57 17 Dheouaouda
+حشاد 54 57 17 Hached
+أوالد الماي 55 57 17 May El Ouled
+سيدي عيسى 56 57 17 Aïssa Sidi
+ركب 57 57 17 Rakb
+بوجرير 58 57 17 Jerir Bou
+سيدي منصور 59 57 17 Mansour Sidi
+معتمدية منزل بورقيبة Bourguiba Menzel Delegation
+النجاح )1 )51 58 17) 1 (Najah-En
+قبطنة )1 )52 58 17) 1 (Gabtna
+قبطنة )2 )53 58 17) 2 (Gabtna
+حي الثورة 54 58 17 Etthaoura Cite
+النجاح )2 )55 58 17) 2 (Najah -En
+المدينة 56 58 17 Medina El
+الشالغمية 57 58 17 Chelagmia
+حي الحدائق 58 58 17 Jardins Cite
+معتمدية: تينجة Tinja: Delegation
+تينجة 51 59 17 Tinja
+قنقلة 52 59 17 Guengla
+الزعرور 53 59 17 Zarour-Ez
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+58
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية أوتيك رمز المنطقة Utique Delegation
+أوتيك 51 60 17 Utique
+أوتيك الجديدة 52 60 17 Utique Nouvelle
+البسباسية 53 60 17 Besbassia
+الحويض 54 60 17 Houidh El
+المطبوح 55 60 17 Mabtouh EL
+عين غالل 56 60 17 Ghelal Aïn
+سيدي عثمان 57 60 17 Othman Sidi
+باش حانبة 58 60 17 Hamba Bach
+معتمدية غار الملح Meleh El Ghar Delegation
+غار الملح 51 61 17 Meleh El Ghar
+باجو 52 61 17 Bajou
+عوسجة 53 61 17 Ousja
+الزواوين 54 61 17 Zouaouine
+معتمدية منزل جميل Djemil Menzel Delegation
+منزل جميل الشرقية 51 62 17 Est Djemil Menzel
+منزل جميل الغربية 52 62 17 Ouest Djemil Menzel
+منزل عبد الرحمان الشرقية 53 62 17 Est Abderrahmen Menzel
+منزل عبد الرحمان الغربية 54 62 17 Ouest Abderrahmen Menzel
+العزيب 55 62 17 Azib El
+معتمدية العالية Alia El Delegation
+سيدي علي الشباب 51 63 17 Chabab Ali Sidi
+العالية الشمالية 52 63 17 Nord Alia El
+العالية الجنوبية 53 63 17 Sud Alia El
+الختمين 54 63 17 Khetmine El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+59
+معتمدية رأس الجبل Djebel El Ras Delegation
+رأس الجبل الشمالية 51 64 17 Nord Djebel El Ras
+رأس الجبل الجنوبية 52 64 17 Sud Djebel El Ras
+الماتلين 53 64 17 Metline
+الماتلين الغربية 54 64 17 Ouest Metline
+صونين 55 64 17 Sounine
+رفراف 56 64 17 Rafraf
+القرية 57 64 17 Garia El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+60
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة باجة Bèja de Gouvernorat
+رمز المنطقة
+معتمدية باجة الشمالية secteur Code Nord Beja Delegation
+باجة 51 51 21 Béja
+المزارة 52 51 21 Mzara El
+قصر باردو 53 51 21 Bardo Ksar
+الزوابي 54 51 21 Zouabi
+المنار 55 51 21 Manar El
+القصبة 56 51 21 Kasba El
+عزرة 57 51 21 Azra
+الغيرية 58 51 21 Ghriria El
+المنشار 59 51 21 Mounchar El
+قصر مزوار 60 51 21 Mezouar Ksar
+بوحزام 61 51 21 Hzam Bou
+النقاشية 62 51 21 Nakachia-En
+الغرابة 63 51 21 Ghraba El
+عين سلطان 64 51 21 Soltane Aïn
+معتمدية باجة الجنوبية Sud Beja Delegation
+سيدي فرج 51 52 21 Fredj Sidi
+الهواري 52 52 21 Haouari EL
+المعقولة 53 52 21 Mâagoula El
+حمام سيالة 54 52 21 Siala Hammam
+سيدي إسماعيل 55 52 21 Smaîl Sidi
+المخشبية 56 52 21 Mekhachbia
+سيدي السهيلي 57 52 21 Shili-Es Sidi
+زواغة 58 52 21 Zouagha
+مستوتة 59 52 21 Mestouta
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+61
+معتمدية عمدون Amdoun Delegation
+زهرة مدين 51 53 21 Medien Zahret
+زهرة مدين الجنوبية 52 53 21 Sud Medien Zahret
+الفرايجية 53 53 21 Fraîjia El
+الغرفة 54 53 21 Ghorfa El
+الرماضنية 55 53 21 Romadhnia
+مغراوة 56 53 21 Maghraoua
+صباح 57 53 21 Sabah
+المجالس 58 53 21 Mejaless El
+الحمراء 59 53 21 Hamra El
+غزية 60 53 21 Ghazia
+مالك 61 53 21 Malek
+الطرهوني 62 53 21 Tarhouni
+القوسة 63 53 21 Goussa El
+الجوزة 64 53 21 Djouza El
+معتمدية نفزة Nefza Delegation
+نفزة الشرقية 51 54 21 Est Nefza
+نفزة الغربية 52 54 21 Ouest Nefza
+وشتاتة 53 54 21 Ouachtata
+كاب النيقرو 54 54 21 Négro Kap
+الزوارع 55 54 21 Ezzouarâa
+بوزنة 56 54 21 Zenna-Bou
+مقطع حديد 57 54 21 Hadid Maktâa
+بالليف 58 54 21 Bellif
+جبل الديس 59 54 21 Ediss Djebel
+فطناسة 60 54 21 Fatnassa
+غياضة 61 54 21 Ghayadha
+زاقة 62 54 21 Zaga
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+62
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+الطبابة 63 54 21 Tebaba
+وادي المعدن 64 54 21 Mâaden El Oued
+الجميلة 65 54 21 Djamila
+الظهيرات 66 54 21 Dehiret
+معتمدية تبرسق Teboursouk Delegation
+تبرسق المدينة 51 55 21 Ville Teboursouk
+عين الكرمة 52 55 21 Karma El Aïn
+المنشية 53 55 21 Menchia El
+دقة 54 55 21 Dougga
+ريحانة 55 55 21 Rihana
+عين المليتي 56 55 21 Melliti El Aïn
+فدان السوق 57 55 21 Souk-Es Fadden
+عين الحمام 58 55 21 Hammam El Aïn
+عين جمالة 59 55 21 Djammala Aïn
+بئر التوتة 60 55 21 Ettouta Bir
+معتمدية تيبار Tibar Delegation
+تيبار 51 56 21 Tibar
+دجبة 52 56 21 Djebba
+عين الدفالي 53 56 21 Defali-Ed Aïn
+النشيمة 54 56 21 Nechima-En
+معتمدية تستور Testour Delegation
+تستور 51 57 21 Testour
+إبن زيدون 52 57 21 Zeydoun Ibn
+حي 26 فيفري 53 57 21 Février 26 Cité
+مزوغة 54 57 21 Mezougha
+زلدو 55 57 21 Zeldou
+أوالد سالمة 56 57 21 Salama Ouled
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+63
+السلوقية 57 57 21 Slouguia-Es
+عين يونس 58 57 21 Younes Aïn
+الصخيرة 59 57 21 Sekhira-Es
+وادي الزرقاء 60 57 21 Ezzargua Oued
+سيدي عبد العزيز 61 57 21 Abdelaziz Sidi
+سيدي عامر 62 57 21 Ameur Sidi
+معتمدية قبالط Goubellat Delegation
+قبالط 51 58 21 Goubellat
+القمرتي 52 58 21 Gammarthi El
+قرام 53 58 21 Guerram
+دور إسماعيل 54 58 21 Esmail Dour
+بئر العش 55 58 21 Euch El Bir
+خنقية الدهان 56 58 21 Dahane-Ed Kheniguet
+خشاب 57 58 21 Khacheb
+شيخ الوديان 58 58 21 Ouediane El Cheikh
+معتمدية مجاز الباب Bab El Medjez Delegation
+مجاز الباب المدينة 51 59 21 Ville Bab El Medjez
+مجاز الباب الجنوبية 52 59 21 Sud Bab El Medjez
+سيدي مدين 53 59 21 Medien Sidi
+القصر 54 59 21 Ksar El
+الهري 55 59 21 Heri El
+توكابر 56 59 21 Tokaber
+شواش 57 59 21 Chaouach
+سيدي نصر 58 59 21 Nasr Sidi
+سيدي أحمد الجديدي 59 59 21 Jedidi El Ahmed Sidi
+القريعات 60 59 21 Gueriâat El
+حيدوس 61 59 21 Hidouss
+المواطيس 62 59 21 Mouatiss El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+64
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+قريش الوادي 63 59 21 Ouedi El Guerich
+سيدي الرايس 64 59 21 Erraies Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+65
+واليــة جندوبة Jendouba de Gouvernorat
+رمز المنطقة
+معتمدية جندوبة secteur Code Jendouba Delegation
+الزغايدة 51 51 22 Ezzeghaida
+جندوبة الجنوبية 52 51 22 Sud Jendouba
+النور 53 51 22 Nour-En
+السعادة 54 51 22 Sâada-Es
+الملقى 55 51 22 Malga El
+التطور 56 51 22 Ettataouer
+سوق السبت 57 51 22 Sebt-Es Souk
+العيثة 58 51 22 Aitha El
+عين الكريمة 59 51 22 Karima Aïn
+معلة 60 51 22 Mâalla
+الجريف 61 51 22 Jerif-El
+العزيمة 62 51 22 Azima EL
+معتمدية جندوبة الشمالية Nord Jendouba Delegation
+الفردوس 51 52 22 Ferdous El
+الهادي بن حسين 52 52 22 Hassine Ben Hédi El
+الزهور 53 52 22 Ezzouhour
+الخضراء 54 52 22 Khadhra El
+السواني 55 52 22 Souani-Es
+بالريجيا 56 52 22 regja-Bulla
+زطفورة 57 52 22 Zatfoura
+شمتو 58 52 22 Chemtou
+الدير 59 52 22 Dir-Ed
+سوق الجمعة 60 52 22 Djemâa Souk
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+66
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية بوسالم Salem Bou Delegation
+بوسالم الشمالية 51 53 22 Nord Salem Bou
+بوسالم الجنوبية 52 53 22 Sud Salem Bou
+الروماني 53 53 22 Erroumani
+البراهمي 54 53 22 Brahmi El
+المرجى 55 53 22 Marja El
+البئر األخضر 56 53 22 Lakhdar Bir
+الكدية 57 53 22 Koudia El
+المنقوش 58 53 22 Msanghouche El
+سيدي عبيد 59 53 22 Abid Sidi
+معتمدية طبرقة Tabarka Delegation
+طبرقة 51 54 22 Tabarka
+الريحان 52 54 22 Raîhane
+الحامدية 53 54 22 Hamdia El
+الحمام 54 54 22 Hammam El
+عين الصبح 55 54 22 Sobh-Es Aïn
+الناظور 56 54 22 Nadhour
+ملولة 57 54 22 Melloula
+عين السنوسي 58 54 22 Snoussi-Es Aïn
+معتمدية عين دراهم Draham Ain Delegation
+عين دراهم المدينة 51 55 22 Ville Drahem Aïn
+عين دراهم األحواز 52 55 22 Banlieue Draham Aïn
+أوالد سدرة 53 55 22 Sedra Ouled
+العطاطفة 54 55 22 Atatfa El
+الحمران 55 55 22 Homrane El
+التباينية 56 55 22 Etbainia
+الخمايرية 57 55 22 Khemaïria
+سلول 58 55 22 Selloul
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+67
+الرويعي 59 55 22 Rouïi-Er
+تاقمة 60 55 22 Tegma
+عين سالم 61 55 22 Salam Aïn
+وادي الزان 62 55 22 Ezzan Oued
+معتمدية فرنانة Fernana Delegation
+فرنانة 51 56 22 Fernana
+وادي غريب 52 56 22 Ghrib Oued
+ربيعة 53 56 22 Rabiaa
+أوالد مفدة 54 56 22 Mefada Ouled
+القوايدية 55 56 22 Gouaïdia El
+بني مطير 56 56 22 tir’M Beni
+قلوب الثيران 57 56 22 Ethirane Gloub
+قلوب الثيران الشمالية 58 56 22 Nord Ethirane Gloub
+هذيل 59 56 22 Hedhil
+العاذر 60 56 22 Adhar El
+الجواودة 61 56 22 Jaouaouada
+عين البية 62 56 22 Beya El Aïn
+بوهرتمة 63 56 22 Hertma Bou
+حليمة 64 56 22 Halima
+سيدي عمار 65 56 22 Ammar Sidi
+معتمدية غار الدماء Ghardimaou Delegation
+غار الدماء 51 57 22 Ghardimaou
+غار الدماء الشمالية 52 57 22 Nord Ghardimaou
+المعدن 53 57 22 Mâaden El
+الرخاء 54 57 22 Rakha-Er
+عين سلطان 55 57 22 Soltane Aîn
+وشتاتة 56 57 22 Ouechtata
+الدورة 57 57 22 Daoura-Ed
+الصرية 58 57 22 Sraia-Es
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+68
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+فرقصان 59 57 22 Forgassen
+فج حسين 60 57 22 Hassine Fej
+المراسن 61 57 22 Mrassen
+القلعة 62 57 22 Galâa El
+معتمدية وادي مليز Mliz oued’D Delegation
+واد مليز الشرقية 51 58 22 Est Meliz Oued
+واد مليز الغريبة 52 58 22 Ouest Meliz Oued
+الدخايلية 53 58 22 Dkhaïlia
+حكيم الشمالية 54 58 22 Nord Hakim
+حكيم الجنوبية 55 58 22 Sud Hakim
+معتمدية بلطة بوعوان Aouane Bou Balta Delegation
+عسيلة 51 59 22 Assila
+غزالة 52 59 22 Ghezala
+العواوضة 53 59 22 Aouaoudha El
+البلدية 54 59 22 Baldia El
+الشواولة 55 59 22 Cheouaoula
+بني محمد 56 59 22 hamed’M Beni
+السمران 57 59 22 Somrane
+بلطة 58 59 22 Balta
+عبد الجبار 59 59 22 Abdeljaber
+بوعوان 60 59 22 Aouane Bou
+وادي كساب 61 59 22 Kesseb Oued
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+69
+واليـــــة الكـــــاف Kef du Gouvernorat
+رمز المنطقة
+معتمدية الكاف الغربية secteur Code Ouest Kef Delegation
+وادي الرمل الشمالية 51 51 23 Nord Remel Oued
+وادي الرمل الجنوبية 52 51 23 Sud Remel Oued
+الحوارث الجنوبية 53 51 23 Sud Haouareth
+معتمدية الكاف الشرقية Est Kef Delegation
+الشرفين 51 52 23 Charfine
+بنعنين 52 52 23 Ainine Ben
+الحوارث الشمالية 53 52 23 Nord Haouareth
+الزعفران 54 52 23 Zâafrane
+وادي السواني 55 52 23 Souani Oued
+وادي السواني الجنوبي 56 52 23 Sud Souani Oued
+دير الكاف 57 52 23 Kef El Dyr
+حشاد 58 52 23 Hached
+معتمدية نبر Mebeur Delegation
+نبر 51 53 23 Nebeur
+سركونة 52 53 23 Sarkaouna
+تل الغزالن 53 53 23 Ghozlane El Tel
+سيدي خيار 54 53 23 Khiar Sidi
+ماللة 55 53 23 Mellala
+األذياب 56 53 23 Ledhieb
+الطويرف 57 53 23 Touiref
+مالق 58 53 23 Mellègue
+بهرة 59 53 23 Bahra
+سيدي مدنين 60 53 23 Medien Sidi
+القصر 61 53 23 Ksar El
+الشتاتلة 62 53 23 Chetatla
+ولجة السدرة 63 53 23 Essedra Oueljet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+70
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية ساقية سيدي يوسف Sidi Sakiet Delegation
+Youssef
+ساقية سيدي يوسف 51 54 23 Youssef Sidi Sakiet
+السفاية 52 54 23 Sefeïa-Es
+عين مازر 53 54 23 Mazer Aïn
+جرادو 54 54 23 Djeradou
+فرشان 55 54 23 Forchane
+عين الكرمة 56 54 23 Karma El Aïn
+سيدي رابح 57 54 23 Rabeh Sidi
+الطابية 58 54 23 Tabia-Et
+معتمدية تاجروين Tajerouine Delegation
+تاجروين الشمالية 51 55 23 Nord Tajerouine
+تاجروين الجنوبية 52 55 23 Sud Tajerouine
+عين األبار 53 55 23 Abar El Aïn
+حي بورقيبة 54 55 23 Bourguiba Cité
+سيد مطير 55 55 23 tir’M Sidi
+النجاة 56 55 23 Ennajet
+سيدي عبد الباسط 57 55 23 Abdelbasset Sidi
+جزة 58 55 23 Jezza
+الحوض 59 55 23 Houdh El
+منزل سالم 60 55 23 Salem Menzel
+برج الديوانة 61 55 23 Eddiouana Borj
+قرن حلفاية 62 55 23 Halfaia Garn
+معتمدية قلعة سنان Snan Kaalat Delegation
+قلعة سنان 51 56 23 Snan Kalâat
+بوجابر 52 56 23 Jabeur Bou
+الصفصاف 53 56 23 Safsaf
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+71
+مزيتة 54 56 23 Mzita
+الفالتة 55 56 23 Falta El
+سد الخير 56 56 23 Khir El Sed
+عين سنان 57 56 23 Snan Aïn
+الحميمة 58 56 23 Hamaïma El
+المحجوبة 59 56 23 Mahjouba El
+معتمدية القلعة الخصباء Khasba Kalaat Delegation
+القلعة الخصباء 51 57 23 Khasba Kalâat
+هنطاية 52 57 23 Hentaïa
+سيدي أحمد الصالح 53 57 23 Essalah Ahmed Sidi
+الناظور 54 57 23 Nadhour-En
+معتمدية الجريصة Djerissa Delegation
+الجريصة المركزية 51 58 23 Centre Djerissa
+الجريصة الشمالية 52 58 23 Nord Djérissa
+الجريصة الجنوبية 53 58 23 Sud Djerissa
+بسريانة 54 58 23 Besseriana
+فج التمر 55 58 23 Ettameur Fej
+النعايم 56 58 23 Enneayem
+معتمدية القصور Ksour El Delegation
+القصور 51 59 23 Ksour El
+عين القصيبة 52 59 23 Ksiba El Aïn
+بانو 53 59 23 Banou
+اللواتة 54 59 23 Louata
+عين فضيل 55 59 23 Fedhil Aïn
+الزيتونة 56 59 23 Ezzitouna
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+72
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية الدهماني Dahmani Delegation
+الدهماني 51 60 23 Dahmani
+الدهماني الشمالية 52 60 23 Nord Dahmani
+الزوارين 53 60 23 Zouarine
+ثرمدة 54 60 23 Thermda
+عبيدة 55 60 23 Abida
+أبة 56 60 23 Ebba
+المداينة 57 60 23 Medeïna El
+سيدي بركات الشمالية 58 60 23 Nord Baraket Sidi
+سيدي بركات الجنوبية 59 60 23 Sud Baraket Sidi
+معتمدية السرس sers-Es Delegation
+السرس الشمالية 51 61 23 Nord Sers-Es
+السرس الجنوبية 52 61 23 Sud Sers-Es
+حي النور 53 61 23 Ennour Cité
+بوصليعة 54 61 23 Bousliaa
+األربص 55 61 23 Lorbeus
+المرجى 56 61 23 Marja El
+األبار 57 61 23 Abar El
+األبار الشرقية 58 61 23 Est Abar El
+اآلس 59 61 23 Elles
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+73
+
+واليــة سليانة Siliana de Gouvernorat
+رمز المنطقة
+معتمدية سليانة الشمالية secteur Code Nord Siliana Delegation
+سليانة المدينة 51 51 24 Ville Siliana
+سليانة الشمالية 52 51 24 Nord Siliana
+العرب 53 51 24 Arab El
+جامة 54 51 24 Jema
+مصوج 55 51 24 Massouj
+الجوي 56 51 24 Jouii El
+الخلصة 57 51 24 Khalsa El
+عين ديسة 58 51 24 Dissa-Ed Aïn
+معتمدية سليانة الجنوبية Sud Siliana Delegation
+سليانة الجنوبية 51 52 24 Sud Siliana
+مرج مقدم 52 52 24 Mokaddem Marj
+السفينة 53 52 24 Sefina-Es
+سيدي مرشد 54 52 24 Morched Sidi
+سيدي منصور 55 52 24 Mansour Sidi
+سيدي حمادة 56 52 24 Hmada Sidi
+سجة 57 52 24 Sejja
+أوالد زناق 58 52 24 Zenag Ouled
+القابل 59 52 24 Kabel El
+معتمدية بوعرادة Arada Bou Delegation
+أحواز بوعرادة 51 53 24 Bouarada De Banlieue
+بوعرادة 52 53 24 Bouarada
+فطيس 53 53 24 Fatis
+هنشير الرومان 54 53 24 Roman-Er Henchir
+سيدي عبد النور 55 53 24 Abdennour Sidi
+طرف الشناء 56 53 24 chena-Ech Tarf
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+74
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية قعفور Gaafour Delegation
+قعفور الشرقية 51 54 24 Est Gâafour
+قعفور الغربية 52 54 24 Ouest Gâafour
+األخوات 53 54 24 khouat El
+عين زريق 54 54 24 Zerig Aïn
+األحواز الشمالية 55 54 24 Nord Ahouez El
+األحواز الجنوبية 56 54 24 Sud Ahouez El
+األقصاب 57 54 24 Aksab El
+معتمدية الكريب Krib Delegation
+الكريب الشمالية 51 55 24 Nord Krib El
+الكريب الجنوبية 52 55 24 Sud Krib El
+الدخانية 53 55 24 Dokhania
+حمام بياضة الشمالية 54 55 24 Nord Biadha Hammam
+حمام بياضة الجنوبية 55 55 24 Sud Biadha Hammam
+برج المسعودي الشمالية 56 55 24 Nord Messaoudi El Borj
+برج المسعودي الجنوبية 57 55 24 Sud Messaoudi El Borj
+معتمدية بورويس Bourouis Delegation
+بورويس الشمالية 51 56 24 Nord Bourouis
+بورويس الجنوبية 52 56 24 Sud Bourouis
+التريشة 53 56 24 Ettricha
+العباسي 54 56 24 Abbassi El
+عين عاشور 55 56 24 Achour Aïn
+محطة الكريب 56 56 24 Gare Krib El
+معتمدية مكثر Makhtar Delegation
+مكثر الشمالية 51 57 24 Nord Makthar
+مكثر الجنوبية 52 57 24 Sud Makthar
+صيار 53 57 24 Sayar
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+75
+القرعة 54 57 24 Garâa El
+باز 55 57 24 Bez
+بني حازم 56 57 24 Hazem Beni
+رأس الوادي 57 57 24 Ouedi El Ras
+ّ الصدين 58 57 24 Saddine
+الشوارنية 59 57 24 Chouarnia
+سند الحداد 60 57 24 Haddad El Sened
+السوالم 61 57 24 Soualem
+معتمدية الروحية rouhia-Er Delegation
+الحبابسةالشمالية 51 58 24 Nord Hababsa El
+الحبابسة الجنوبية 52 58 24 Sud Hababsa El
+الجميالت 53 58 24 Jamilet El
+السميرات الشمالية 54 58 24 Nord Semiret-Es
+السميرات الجنوبية 55 58 24 Sud Semirat-Es
+المساحلة 56 58 24 Messahla El
+الهرية 57 58 24 Haria El
+الروحية 58 58 24 Rouhia-Er
+الحميمة 59 58 24 Hamaïma El
+بوعجيلة 60 58 24 Ajila -Bou
+معتمدية كسرى Kesra Delegation
+كسرى 51 59 24 Kesra
+الحمام 52 59 24 Hammam El
+المنصورة الشمالية 53 59 24 Nord Mansoura El
+المنصورة الجنوبية 54 59 24 Sud Mansoura El
+بوعبد للا 55 59 24 Abdallah Bou
+القرية الشمالية 56 59 24 Nord Karia El
+القرية الجنوبية 57 59 24 Sud Karia El
+الفضول 58 59 24 Foudhoul El
+اللوزة 59 59 24 louza El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+76
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية برقو Bargou Delegation
+برقو 51 60 24 Bargou
+أحواز برقو 52 60 24 Bargou Banlieue
+أوالد فرج 53 60 24 Fredj Ouled
+سيدي سعيد 54 60 24 Saïd Sidi
+عين فرنة 55 60 24 Fourna Aïn
+عين بوسعدية 56 60 24 Sâadia Bous Aïn
+الدريجة 57 60 24 Derija-Ed
+البحيرين 58 60 24 Behirin El
+معتمدية العروسة Aroussa El Delegation
+العروسة 51 61 24 Aroussa El
+بوجليدة 52 61 24 Jlida Bou
+الزميل 53 61 24 Remil Er
+مسراطة 54 61 24 Mousrata
+سيد عياد 55 61 24 Ayed Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+77
+واليــة سوسة Sousse de Gouvernorat
+رمز المنطقة
+معتمدية سوسة المدينة secteur Code Medina Sousse Delegation
+بوجعفر 51 51 31 Jâafer Bou
+المدينة 52 51 31 Medina El
+علي البلهوان 53 51 31 Belhouan Ali
+محمد معروف 54 51 31 Mâarouf Mohamed
+خزامة 55 51 31 Khezama
+معتمدية سوسة الرياض Riadh Sousse Delegation
+الزهور 54 52 31 Ezzouhour
+حي الرياض 55 52 31 Riadh-Er Cité
+العهد الجديد 56 52 31 Jadid El Ahd El
+معتمدية سوسة الجوهرة Jawhara Sousse Delegation
+وادي بليبان 51 53 31 Blibane Oued
+حشاد 52 53 31 Hached
+الهادي شاكر 53 53 31 Chaker Hédi
+بوحسينة 54 53 31 Hassina Bou
+محمد القروي 55 53 31 Karoui El Mohamed
+سهلول 56 53 31 Sahloul
+معتمدية سوسة سيدي عبد الحميد Sidi Sousse Delegation
+ Abdelhamid
+الطيب المهيري 51 54 31 hiri’M Taieb
+إبن خلدون 52 54 31 Khaldoun Ibn
+قصيبة الشط 53 54 31 Chatt-Ech Ksibet
+سيدي عبد الحميد 54 54 31 Abdelhamid Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+78
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية حمام سوسة Sousse Hammam Delegation
+المدينة 51 55 31 Medina EL
+القنطاوي 52 55 31 Kantaoui El
+بئر موسى 53 55 31 Moussa Bir
+سهلول 54 55 31 Sahloul
+الغرابي 55 55 31 Gharabi El
+معتمدية أكودة akouda’D Delegation
+أكودة الشرقية 51 56 31 Est Akouda
+أكودة الغربية 52 56 31 Ouest Akouda
+شط مريم 53 56 31 Meriam Chott
+شط الرمان 54 56 31 Romane-Er Chott
+الفقاعية 55 56 31 Fokaïa EL
+الطنطانة 56 56 31 Ettantana
+معتمدية القلعة الكبرى Kebira Kalaa Delegation
+الجرابعة 51 57 31 Jarabâa El
+الزعارنةالغربية 52 57 31 Ouest Zearna
+الزعارنة الشرقية 53 57 31 Est Zearna
+أوالد محمد 54 57 31 Mhamed Ouled
+السد الغربي 55 57 31 Ouest Essed
+بلعوم 56 57 31 Balaoum
+معتمدية سيدي بوعلي Ali Bou Sidi Delegation
+سيدي بوعلي 51 58 31 Ali Bou Sidi
+السد القبلي 52 58 31 Sud Essed
+السد الجوفي ) السطح( 53 58 31) Essateh (Nord Essed
+الشويشة 54 58 31 Chouicha-Ech
+وريمة 55 58 31 Ouriemma
+منزل المحطة 56 58 31 Mahatta EL Menzel
+المهاذبة 57 58 31 Mehadhba
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+79
+معتمدية هرقلة Hergla Delegation
+هرقلة 51 59 31 Hergla
+العريبات 52 59 31 Aribet El
+السويح 53 59 31 Essouieh
+معتمدية النفيضة Enfidha Delegation
+النفيضة 51 60 31 Enfidha
+الفرادة 52 60 31 Frada EL
+قريميط الشرقية 53 60 31 est Gerimet
+قريميط الغربية 54 60 31 Ouest Gerimet
+الشقارنية 55 60 31 Chégarnia
+أوالد عبد هللا 56 60 31 Abdellah Ouled
+تكرونة 57 60 31 Takrouna
+منزل فاتح 58 60 31 Fateh Menzel
+القارصي 59 60 31 Garci EL
+عين مذاكر 60 60 31 Medhaker Aïn
+هيشر 61 60 31 Hicher
+منزل دار بلواعر 62 60 31 Belouar Dar Menzel
+مرابط حشاد 63 60 31 Hached rabet>M
+معتمدية بوفيشة Bouficha Delegation
+بوفيشة 51 61 31 Bouficha
+وادي الخروب 52 61 31 Kharroub El Oued
+سيدي خليفة 53 61 31 Khalifa Sidi
+الصفحة 54 61 31 Essafha
+سيدي سعيد 55 61 31 Saïd Sidi
+عين الرحمة 56 61 31 Errahma Aïn
+المثاليت 57 61 31 Methalit El
+السلوم 58 61 31 Esselloum
+سيدي مطير 59 61 31 tir’M Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+80
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية الكندار Kondar Delegation
+كندار 51 62 31 Kondar
+البئر الجديد 52 62 31 Jedid El Bir
+الباللمة 53 62 31 Belalma
+البشاشمة 54 62 31 Bechachma
+أوالد العابد 55 62 31 Abed EL Ouled
+القماطة 56 62 31 Gmata
+أوالد عامر 57 62 31 Ameur Ouled
+معتمدية سيدي الهاني Heni El Sidi Delegation
+سيدي الهاني المركزية 51 63 31 Centre Héni El Sidi
+سيدي الهاني الغربية 52 63 31 Ouest Heni El Sidi
+سيدي الهاني الجنوبية 53 63 31 Sud Heni El Sidi
+أوالد علي بلهاني 54 63 31 Belhani Ali Ouled
+كروسية الغربية 55 63 31 Ouest Kroussia
+كروسية المركزية 56 63 31 Centrale Kroussia
+معتمدية مساكن saken’M Delegation
+التوارة الشمالية 51 64 31 Nord Ettouara
+التوارة الجنوبية 52 64 31 Sud Ettouara
+الجديدين 53 64 31 Jedidine
+الجبليين 54 64 31 Jebline
+الحبيب ثامر 55 64 31 Thameur Habib
+المردين 56 64 31 Mouredine
+المناعمة 57 64 31 Mneaema
+الغربيين 58 64 31 Gharbine El
+الكنائس 59 64 31 Kenaïes El
+القبليين 60 64 31 Kebline El
+النور 61 64 31 Ennour
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+81
+الفرادي 62 64 31 Frady El
+البرجين 63 64 31 Borgine
+بني ربيعة 64 64 31 Rabïaa Beni
+بني كلثوم 65 64 31 Khalthoum Béni
+النجاجرة 66 64 31 Nejajra
+المسعدين 67 64 31 Messâdine
+معتمدية القلعة الصغرى Seghira Kalaa Delegation
+القلعة الصغرى الشرقية 51 65 31 Est Seghira Kalâa
+القلعة الصغرى حشاد 52 65 31 Hached Seghira Kalâa
+القلعة الصغرى المدينة 53 65 31 Ville Seghira Kalâa
+النقر 54 65 31 Nagr-En
+وادي الية 55 65 31 Leya Oued
+معتمدية الزاوية- القصيبة - الثريات -Ksibet-Zaouit Delegation
+Thrayet
+زاوية سوسة 51 66 31 Sousse Zaouit
+قصيبة سوسة 52 66 31 Sousse Ksibet
+الثريّات 53 66 31 Thrayet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+82
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة المنستير Monastir de Gouvernorat
+رمز المنطقة
+معتمدية المنستير secteur Code Monastir Delegation
+المدينة 51 51 32 Medina El
+المدينة 2 52 51 32 2 Medina EL
+باب الغربي 53 51 32 Gharbi El Bab
+الربط 54 51 32 Rbat-Er
+الحلية 55 51 32 Helia El
+الحلية 2 56 51 32 2 Halia El
+صقانص 57 51 32 Skanes
+خنيس 58 51 32 Khenis
+خنيس الشمالية 59 51 32 Nord Khenis
+معتمدية الوردانين Ouerdanine El ًُDelegation
+الوردانين الشمالية 51 52 32 Nord Ouerdanine
+الوردانين الجنوبية 52 52 32 Sud Ouerdaninie
+منزل خير 53 52 32 Khair Menzel
+سيدي بوعثمان 54 52 32 Othman Bou Sidi
+وادي الجبس 55 52 32 Jebs El Oued
+معتمدية الساحلين Sahline Delegation
+الساحلين الشرقية 51 53 32 Est Sahline
+الساحلين الغربية 52 53 32 Ouest Sahline
+سيدي عامر 53 53 32 Ameur Sidi
+معتمر 54 53 32 Môotmar
+مسجد عيسى 55 53 32 Aïssa Masjed
+معتمدية زرمدين mdineَ aَ Zer Delegation
+المزاوغة 51 54 32 Mezaougha
+منزل الحياة 52 54 32 Hayet Menzel
+المليشات 453 5 32 Melichet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+83
+زرمدين الشمالية 54 54 32 Nord Zéramdine
+زرميدين الجنوبية 55 54 32 Sud Zéramdine
+معتمدية بني حسان Hassen Beni Delegation
+بني حسان القبلية 51 55 32 Sud Hassen Beni
+بني حسان الجوفية 52 55 32 Nord Hassen Beni
+حاتم 53 55 32 Hatem
+الجنائحة 54 55 32 Jnaïha EL
+الغنادة 55 55 32 Ghnada
+معتمدية جمال Jammel Delegation
+جمال القبلية 51 56 32 Sud Jamel
+جمال الجوفية 52 56 32 Nord Jamel
+جمال الشرقية 53 56 32 Est Jamel
+جمال الغربية 54 56 32 Ouest Jamel
+زاوية قنطش 55 56 32 Kontoch Zaouiet
+بئر الطيب 56 56 32 Taïeb Bir
+منزل كامل 57 56 32 Kamel Menzel
+الهدادرة 58 56 32 Hdadra El
+الطيايرة 59 56 32 Teyaïra-Et
+معتمدية بنبلة Bembla Delegation
+بنبلة 51 57 32 Bembla
+بنبلة الغربية 52 57 32 Ouest Bembla
+المنارة 53 57 32 Manara El
+منزل النور 54 57 32 Nour-En Menzel
+المصدور 55 57 32 Masdour EL
+منزل حرب 56 57 32 Harb Menzel
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+84
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية المكنين Moknine Delegation
+المكنين الشرقية 51 58 32 Est Moknine
+المكنين القبلية 52 58 32 Sud Moknine
+المكنين الجوفية 53 58 32 Nord Moknine
+رأس الوادي 54 58 32 Ouad El Ras
+المكنين الغربية 55 58 32 Ouest Moknine
+خير الدين 56 58 32 Khéredine
+سيدي بنور 57 58 32 Bennour Sidi
+منزل فارسي 58 58 32 Farsi Menzel
+الشراحيل 59 58 32 Chérahil
+عميرة الفحول 60 58 32 Fehoul El Amiret
+عميرة الحجاج 61 58 33 Hojjaj El Amiret
+عميرة التوازرة 62 58 32 Touazra Amiret
+عميرة التوزارةالجنوبية 63 58 32 Sud Touazra Amiret
+معتمدية البقالطة Bekalta Delegation
+البقالطة الشمالية 51 59 32 Nord Bekalta
+البقالطة الجنوبية 52 59 32 Sud Bekalta
+البغدادي 53 59 32 Baghdadi El
+البقالطة الشرقية 54 58 32 Est Bekalta
+معتمدية طبلبة Teboulba Delegation
+حومة السوق 51 60 32 Essouk Houmet
+الفضلين 52 60 32 Fadhline El
+العيايشة 53 60 32 Aïaïcha El
+السكرين 54 60 32 Sokrine
+بودريس 55 60 32 driss-Bou
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+85
+معتمدية قصر هالل Helal Ksar Delegation
+عياد 51 61 32 Ayed
+صوة 52 61 32 Soua
+بوزويتة 53 61 32 Bouzouita
+حي الرياض 54 61 32 Erriadh Cité
+معتمدية قصيبة المديوني El Ksibet Delegation
+Mediouni
+قصيبةالمديوني 51 62 32 Mediouni El Ksibet
+طوزة 52 62 32 Touza
+بنان القبلية 53 62 32 Sud Benen
+بنان الجوفية 54 62 32 Nord Benen
+بوضر 55 62 32 Bodher
+معتمدية صيادة-لمطة-بوحجر lamta-Sayada Delegation
+hjar-Bou
+صيادة الشرقية 51 63 32 Est Sayada
+صيادة الغربية 52 63 32 Ouest Sayada
+لمطة 53 63 32 Lamta
+بوحجر 54 63 32 hjar-Bou
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+86
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة المهدية Mahdia de Gouvernorat
+رمز المنطقة
+معتمدية المهدية secteur Code Mahdia Delegation
+المهدية 51 51 33 Mahdia
+زويلة 52 51 33 Zouila
+زويلة الجنوبية 53 51 33 Sud Zouila
+رجيش 54 51 33 Rejiche
+رجيش الجنوبية 55 51 33 Sud Réjiche
+شيبة 56 51 33 Chiba
+السعد 57 51 33 Sâad-Es
+الجواودة 58 51 33 Jaouaouda
+الزهراء 59 51 33 Zahra-Ez
+الزقانة 60 51 33 Zegana
+هيبون 61 51 33 Hiboun
+الرمل 62 51 33 Remal-Er
+الحكايمة الشرقية 63 51 33 Est Hekaima El
+الحكايمة الغربية 64 51 33 Ouest Hekaima
+معتمدية بومرداس Merdes Bou Delegation
+بومرداس 51 52 33 Merdes Bou
+الحوس 52 52 33 Houes El
+كركر 53 52 33 Kerker
+الزراطة 54 52 33 Zerata
+الرواضي 55 52 33 Rouadhi-Er
+الشوارعية 56 52 33 Chouariaa-Ech
+بوهالل العلي القبلية 57 52 33 Sud Ali El Bouhlale
+بوهالل العلي الجوفية 58 52 33 Nord Ali El Bouhlale
+منزل حمزة 59 52 33 Hamza Menzel
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+87
+معتمدية أوالد الشامخ Chamekh Ouled Delegation
+أوالد الشامخ الجنوبية 51 53 33 Sud Chamekh Ouled
+أوالد الشامخ الشمالية 52 53 33 Nord Chamekh Ouled
+أوالد عمر 53 53 33 Amor Ouled
+الشحيمات الشمالية 54 53 33 Nord Chehimet
+العجيالت 55 53 33 Ajilet El
+السمرة 56 53 33 Somra-Es
+بوسليم 57 53 33 Slim Bou
+المحارزة الشمالية 58 53 33 Nord Meharza
+معتمدية شربان Chorbane Delegation
+شربان 51 54 33 Chorbane
+المعاطي 52 54 33 Mâati El
+الشحدة القبلية 53 54 33 Sud Chahda-Ech
+الشحدة الشرقية 54 54 33 Est Chahda-Ech
+القواسم الغربية 55 54 33 Ouest Gouacem El
+القواسم الشرقية 56 54 33 Est Gouacem El
+الشرف 57 54 33 Charaf- Ech
+القرادحة الغربية 58 54 33 Ouest Gradha El
+القرادحةالشرقية 59 54 33 Est Gradha El
+أوالد الحناشي 60 54 33 Hannachi El Ouled
+معتمدية هبيرة Hebira Delegation
+هبيرة 51 55 33 Hebira
+منزل حشاد 52 55 33 Hached Menzel
+الرقايقة 53 55 33 Regaïgua
+الشحدة الغربية 54 55 33 Ouest Chahda-Ech
+المحارزة الجنوبية 55 55 33 Sud Maherza El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+88
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية السواسي Essouassi Delegation
+السواسي 51 56 33 Essouassi
+السيدة 52 56 33 Saïda-Es
+سيدي الناصر 53 56 33 Naceur Sidi
+سيدي زيد 54 56 33 Zid Sidi
+بوهالل 55 56 33 Helal Bou
+الشريشيرة 56 56 33 Cherichira
+الكساسبة 57 56 33 Kesasba El
+الزعيرات 58 56 33 Zairat-Ez
+أوالد موالهم الشمالية 59 56 33 Nord Moulahem Ouled
+أوالد موالهم الغربية 60 56 33 Ouest Moulahem Ouled
+الشحيمات القبلية 61 56 33 sud Chahimet-Ech
+معتمدية الجم Djem El Delegation
+الزاوية 51 57 33 Zaouia-Es
+المرابطين 52 57 33 Mourabitine El
+رياض بوهالل 53 57 33 Helal Bou Riadh
+العيثة 54 57 33 Aïtha El
+المشاالت 55 57 33 Mechalet El
+الزغابنة 56 57 33 Zeghabna
+الطواهرية 57 57 33 Touahria
+العبابسة 58 57 33 Ababsa EL
+التاللسة 59 57 33 Talalsa
+العشابة 60 57 33 Achaba El
+معتمدية الشابة Chebba Delegation
+الشابة الشمالية 51 58 33 Nord Chebba
+الشابة الجنوبية 52 58 33 Sud Chebba
+السعفات 53 58 33 Sâafet-Es
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+89
+معتمدية ملولش Melloulech Delegation
+ملولش 51 59 33 Melloulech
+العيثة 52 59 33 Aïtha El
+المنصورة 53 59 33 Mansoura El
+بن حسين 54 59 33 Hssine Ben
+سيدي عبد العزيز 55 59 33 Abdellaziz Sidi
+معتمدية سيد علوان Alouane Sidi Delegation
+سيدي علوان الغربية 51 60 33 Ouest Alouane Sidi
+سيدي علوان الشرقية 52 60 33 Est Alouane Sidi
+زردة 53 60 33 Zorda
+ساقيةالخادم 54 60 33 Khadem EL Sakiet
+البساتين 55 60 33 Bassatine El
+وادي باجة الشمالية 56 60 33 Nord Béja Oued
+وادي باجة الجنوبية 57 60 33 Sud Béja Oued
+زالبة الشرقية 58 60 33 Est Zalba
+زالبة الغربية 59 60 33 Ouest Zalba
+النزهة 60 60 33 Nozha-En
+وادي قالت 61 60 33 Guellat Oued
+السعادة 62 60 33 Sâada- Es
+معتمدية قصور الساف Essaf Kssour Delegation
+القصر 51 61 33 Ksar El
+قصور الساف الرياض 52 61 33 Riadh Essaf Ksour
+القطاتين 53 61 33 Ktanine El
+قصور الساف التقدم 54 61 33 Ettakaddoum Essaf Ksour
+سلقطة 55 61 33 Salakta
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+90
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+الغضابنة 56 61 33 Ghedabna
+أوالد صالح 57 61 33 Salah Ouled
+سيدي عساكر الغربية 58 61 33 Ouest Assaker Sidi
+الرشارشة 59 61 33 Recharcha
+الحسينات 60 61 33 Hessinet EL
+البرادعة الجنوبية 61 61 33 Sud Bradâa El
+البرادعة الشمالية 62 61 33 Nord Bradâa El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+91
+واليــة صفاقس Sfax de Gouvernorat
+رمز المنطقة
+معتمدية صفاقس المدينة secteur Code Ville Sfax Delegation
+المدينة 51 51 34 Medina La
+باب البحر 52 51 34 Bhar El Bab
+الحي الخيري 53 51 34 Kairi El Cité
+البساتين 54 51 34 Bassatine El
+الربض 55 51 34 Rbadh-Er
+15 نوفمبر 56 51 34 Novembre 15
+عين شيخ روحو 57 51 34 Rouhou Chaikh Aïn
+حي التعويضي 58 51 34 Ettaouidhi Cité
+مركز قدور 59 51 34 Kaddour Merkez
+مركز الباشا 60 51 34 Pacha El Merkez
+سيدي عباس 61 51 34 Abbès Sidi
+محمد علي 62 51 34 Ali Mohamed
+معتمدية صفاقس العربية Ouest Sfax Delegation
+مركز شاكر 51 52 34 Chaker Merkez
+حي الحبيب 52 52 34 Habib El Cité
+سكرة 53 52 34 Soukra
+العالية 54 52 34 Alia El
+وادي الرمل 55 52 34 Rmel-Er Oued
+الهدى 56 52 34 Houda El
+حي البحري 57 52 34 Bahri EL Cité
+معتمدية ساقية الزيت Ezzit Sakeit Delegation
+ساقية الزيت 51 53 34 Ezzit Sakiet
+مركز بوعصيدة 52 53 34 Bouassida Merkez
+السدرة 53 53 34 Sedra-Es
+الشيحية 54 53 34 Chihia
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+92
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+تنيور 55 53 34 Teniour
+سيدي صالح 56 53 34 Salah Sidi
+األنس 57 53 34 Ons El
+معتمدية ساقية الدائر Eddaier Sakeit Delegation
+ساقية الدائر 51 54 34 Eddaier Sakiet
+الخيرية 52 54 34 Khiria
+مركز السبعي 53 54 34 Sebaï-Es Merkez
+البدارنة 54 54 34 Bedarna
+سيدي منصور 55 54 34 Mansour Sidi
+حي بورقيبة 56 54 34 Bourguiba Cité
+السلطينة 57 54 34 Saltnia
+مركز كعنيش 58 54 34 Kâaniche Merkez
+معتمدية صفاقس الجنوبية Sud Sfax Delegation
+العين 51 55 34 Aïn El
+قرمدة 52 55 34 Gremda
+بوزيان 53 55 34 Bouzaïane
+األفران الشمالية 54 55 34 Nord Afrane El
+الخزانات 55 55 34 Khazanet
+العوابد 56 55 34 Aouabed El
+عيون المايل 57 55 34 Mayel El Ayoun
+معتمدية طينة Tina Delegation
+طينة 51 56 34 Tina
+سيد عبيد 52 56 34 Abid Sidi
+الحاجب 53 56 34 Hajeb El
+معتمدية عقارب Agareb Delegation
+عقارب 51 57 34 Agareb
+قرقور 52 57 34 Gargour
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+93
+بولذياب 53 57 34 Bouledhieb
+المحروقة 54 57 34 Mahrouka El
+التربة 55 57 34 Ettorba
+بن سهلون 56 57 34 Sahloun Ben
+زلبانة 7 5 57 34 Zeliana
+الصغار 58 57 34 Soghar-Es
+معتمدية جبنيانة Djebeniana Delegation
+جبنيانة 51 58 34 Djebeniana
+بطرية 52 58 34 Batria
+بلتش 53 58 34 Baltech
+حزق 54 58 34 Hazeg
+القاللجة 55 58 34 Kalelja EL
+العجانقة 56 58 34 Ajengna El
+اللوزة 57 58 34 Louza El
+الحوض 58 58 34 Houdh El
+معتمدية العامرة Amra El Delegation
+العامرة 51 59 34 Amra El
+بليانة 52 59 34 Beliana
+المسائرية 53 59 34 Mesatria El
+السالم 54 59 34 Salam Es
+ذراع بن زياد 55 59 34 Ziad Beni Dherra
+بودربالة 56 59 34 Derbala Bou
+معتمدية الحنشة Hencha El Delegation
+الحنشة 51 60 34 Hencha El
+النصر 52 60 34 Nasr-En
+سيدي حسن بالحاج 53 60 34 Belhaj Hassen Sidi
+دخان 54 60 34 Dokhane
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+94
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+بئر الشعبة 55 60 34 Chaaba Bir
+مركز مصباح 56 60 34 Mosbah Merkez
+بئر صالح 57 460 3 Salah Bir
+الحجارة 58 60 34 Hajjara El
+الجواودة 59 60 34 Jouaouda
+معتمدية منزل شاكر Chaker Menzel Delegation
+منزل شاكر 51 61 34 Chaker Menzel
+بوجوبوع 52 61 34 Jarboue Bou
+ماجل الدرج 53 61 34 Edarj Majel
+بئر الملولي 54 61 34 Mellouli Bir
+بشكة 55 61 34 Bechka
+بوثدي 56 61 34 Thadi-Bou
+البقعة البيضاء 57 61 34 Bidha El Bokâa El
+العوادنة 58 61 34 Aouadhna El
+تليل العجلة 59 61 34 Ajla El Telil
+األعشاش 60 61 34 Achech El
+الحاج قاسم 61 61 34 Kacem Hadj El
+شعالب 62 61 34 Chaleb
+معتمدية الغريبة Ghraiba El Delegation
+الغريبة 51 62 34 Ghraiba EL
+المنار 52 62 34 Manar El
+الحشيشينة الجنوبية 53 62 34 Sud Hchichina El
+الحشيشينة الشمالية 54 62 34 Nord Hchichina
+الشعال 55 62 34 Châal El
+معتمدية بئر علي بن خليفة Khelifa Ben Ali Bir Delegation
+بئر علي بن خليفة 51 63 34 Khelifa Ben Ali Bir
+سيدي ظاهر 52 63 34 Dhaher Sidi
+سيدي علي بالعابد 53 63 34 Belabed Ali Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+95
+بوسليم 54 63 34 Slim Bou
+األبراج 55 63 34 Abraj El
+السديرات الجنوبية 56 63 34 Sud Sdiret
+السديرات الشمالية 57 63 34 Nord Sdiret
+القندول 58 63 34 Gandoul El
+وادي الشيخ 59 63 34 Cheikh-Ech Oued
+ودران الجنوبية 60 63 34 Sud Ouadrane
+ودران الشمالية 61 63 34 Nord Ouadrane
+الناظور 62 63 34 Nadhour-En
+معتمدية الصخيرة Skhira Delegation
+صبيح 51 64 34 Sbih
+الخضراء 52 64 34 Khadhra El
+نوال 53 64 34 Naoual
+الصخيرة 54 64 34 Skhira
+القنيطرة 55 64 34 Kenitra El
+سيدي محمد 56 64 34 Mohamed Sidi
+الحمادة 57 64 34 Hammada El
+معتمدية المحرس Mahres Delegation
+المحرس 51 65 34 Mahrès
+المحرس الجنوبية 52 65 34 Sud Mahres
+الشفار 53 65 34 Chaffar
+سيدي غريب 54 65 34 Ghrib Sidi
+عيثة الشاليا 55 65 34 Chelaia Aïthet
+السمارة 56 65 34 Smara-Es
+معتمدية قرقنة Kerkennah Delegation
+العطايا 51 66 34 Ataya El
+الرملة 52 66 34 Ramla El
+سيدي فرج 53 66 34 Frej Sidi
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+96
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+مليتة 54 66 34 Melita
+الكالبين 55 66 34 Kalabine El
+النجا ة 56 66 34 Najet-En
+الشرقي 57 66 34 Chargui El
+القنطرة 58 66 34 Kantra El
+القراطن 59 66 34 Kraten El
+أوالد قاسم 60 66 34 Kacem Ouled
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+97
+واليــة القيروان Kairouan de Gouvernorat
+رمز المنطقة
+ّ معتمدية القيروان الشمالية secteur Code Nord Kairouan Delegation
+األنصار 51 51 41 Ansar Al
+الجامع الشمالية 52 51 41 Nord Jemâa El
+الجامع الجنوبية 53 51 41 Sud Jemâa El
+القبلية الشمالية 54 51 41 Nord Kebilia
+الجبلية الشمالية 55 51 41 Nord Jeblia
+الجبلية الجنوبية 56 51 41 Sud Jeblia
+المنشية 57 51 41 Menchia El
+األغالبة 58 51 41 Aghalba Al
+الباطن 59 51 41 Elbaten
+ذراع التمار 60 51 41 Ettammar Dheraa
+المتبسطة 61 51 41 Metbasta
+الغابات 62 51 41 Ghabet El
+معتمدية القيروان الجنوبية Sud Kairouan Delegation
+المنصورة الشمالية 51 52 41 Nord Elmansoura
+المنصورة الجنوبية 52 52 41 Sud Elmansoura
+القبلية الجنوبية 53 52 41 Sud Keblia
+مرق الليل 54 52 41 Merguellil
+رقادة 55 52 41 Rakada
+زرود 56 52 41 Zroud
+التبان 57 52 41 Ettaen
+أوالد نهار 58 52 41 Nhar Ouled
+الخزازية 59 52 41 Khazazia
+المخصومة 60 52 41 Makhsouma El
+النبش 61 51 41 Nebch
+زعفرانة 62 52 41 Zâafrana
+الخضراء 63 52 41 Khadra El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+98
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+الحمام 64 51 41 Hammama El
+بريكات العرقوب 65 52 41 Argoub El Beriket
+معتمدية الشبيكة Echbika Delegation
+الشبيكة 51 53 41 Echbika
+الجواودة 52 53 41 Jaouaouda
+العوامرية 53 53 41 Aouamria El
+الرويسات 54 53 41 Errouisset
+عبيدة 55 53 41 Abida
+سيدي علي بن سالم 56 53 41 Salem Ben Ali Sidi
+هماد 57 53 41 Hammed
+الكرمة 58 53 41 Karma El
+معتمدية السبيخة Sbikha Delegation
+السبيخة المركز 51 54 41 Centre Sbikha
+عين بومرة 52 54 41 Morra Bou Aîn
+الفريوات 53 54 41 Friouet El
+سيدي مسعود 54 54 41 Messaoud Sidi
+الدخيلة 55 54 41 Dekhila-Ed
+الدريعات 56 54 41 Dheriaat-Ed
+القفى 57 54 41 Gfi El
+العلم 58 54 41 Alam El
+القطيفة 59 54 41 Katifa El
+العويثة 60 54 41 Aouitha El
+سيسب 61 54 41 Sisseb
+الشرفة 62 54 41 Chorfa-Ech
+الشقافية 63 54 41 Chogafia
+سرديانة 64 54 41 Serdiania
+واد الخريوع 65 54 41 Khraouia El Oued
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+99
+معتمدية الوسالتية Ouslatia El Delegation
+معروف 51 55 41 Mâarouf
+الوسالتية الشرقية 52 55 41 Est Ooueslatia El
+الوسالتية الغربية 53 55 41 Ouest Ooueslatia El
+المنزل 54 55 41 Menzel El
+جبل السرج 55 55 41 Essarj Djebel
+زغدود 56 55 41 Zaghdoud
+جبل وسالت 57 55 41 Oouestat Djebel
+جبل الريحان 58 55 41 Erreihane Djebel
+عين جلولة 59 55 41 Djeloula Aîn
+وادي القصب 60 55 41 Ksab El Oued
+البحاير 61 55 41 Behaîr El
+معتمدية حفوز Haffouz Delegation
+حفوز المركز 51 56 41 Centre Hafouz
+خيط الوادي 52 56 41 Oued El Khit
+وادي الجباس 53 56 41 Jabbès El Oued
+العين البيضاء 54 56 41 Beidha El Aîn El
+الحوفية 55 56 41 Houfia El
+الشريشيرة 56 56 41 Cherichira
+طرزة الجنوبية 57 56 41 Sud Traza
+أوالد خلف هللا 58 56 41 Khalfallah Ouled
+معتمدية العالء Alaa El Delegation
+العال 51 57 41 Alâa El
+المساعيد 52 57 41 Messaïd EL
+القطار 53 57 41 Guettar El
+مسيوتة الهناشير 54 57 41 Hanachir El Messiouta
+مسيوتة النقاز 55 57 41 Ennaguaz Messiouta
+صيادة الشمالية 56 57 41 Nord Sayada
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+100
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+صيادة الجنوبية 57 57 41 Sud Sayada
+أوالد عمر 58 57 41 Amor Ouled
+طرزة الشمالية 59 57 41 Nord Tarza
+الحمام 60 57 41 hamam El
+معتمدية حاجب العيون Ayoun El Hajeb Delegation
+الحاجب المركز 51 58 41 Centre Hajeb El
+أحواز الحاجب 52 58 41 Hajeb EL Ahouaz
+الشواشي 53 58 41 Chaouachi
+السرجة 54 58 41 Esserja
+القنطرة 55 58 41 Kantra El
+الهدايا 56 58 41 Hadaya El
+الغويبة 57 58 41 Ghouiba EL
+وادي الحجل 58 58 41 Hajel EL Oued
+الرحيمة 59 58 41 Errehima
+معتمدية نصر للا Nasrallah Delegation
+51 59 41 Centre Nasrallah هّ نصر للا المركز
+نصر هللا األحواز 52 59 41 Banlieue Nasrallah
+الحميدات 53 59 41 Hmidet El
+الفجيج 54 59 41 Fejij El
+الطويلة 55 59 41 Ettouila
+المنارة 56 59 41 Manara El
+الكبارة 57 59 41 Kabbara El
+البريكات 58 59 41 Briket EL
+معتمدية الشراردة Echrarda Delegation
+الشراردة 51 60 41 Echrarda
+بئر الحلو 52 60 41 Helou El Bir
+53 60 41 Sud Farjallah Ouled هّ أوالد فرج للا الجنوبية
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+101
+الشرايطية الجنوبية 54 60 41 Sud Cheraitia
+القصور 55 60 41 Ksour El
+معتمدية بوحجلة Bouhajla Delegation
+بوحجلة المركز 51 61 41 Centre Bouhajla
+بوحجلة األحواز 52 61 41 Ahouez El Bouhajla
+جهينة الجنوبية 53 61 41 Sud Jehina
+جهينة الشمالية 54 61 41 Nord Jehina
+القطيطير 55 61 41 Ketitir El
+أوالد عاشور 56 61 41 Achour Ouled
+الفتح 57 61 41 Fatah El
+58 61 41 Nord Fardjallah Ouled هّ أوالد فرج للا الشمالية
+النصر 59 61 41 Ennasr
+بئر مسكين 60 61 41 Msikine Bir
+المويسات 61 61 41 Mouisset El
+بئر بوساري 62 61 41 Bousari Bir
+الشرايطية الشمالية 63 61 41 Nord Cheraitia
+الشوامخ 64 61 41 Chouamekh
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+102
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة القصرين Kasserine de Gouvernorat
+رمز المنطقة
+معتمدية القصرين الشمالية secteur Code Nord Kasserine Delegation
+النور الشرقي 51 51 42 Est Ennour
+النور الغربي 52 51 42 Ouest Ennour
+البساتين 53 51 42 Bassatine EL
+الخضراء 54 51 42 Khadhra EL
+العريش 55 51 42 Arich El
+بولعابة 56 51 42 Boulâaba
+معتمدية القصرين الجنوبية Sud Kasserine Delegation
+العويجة 51 52 42 Aouija El
+بولهيجات 52 52 42 Boulhijet
+مقدودش 53 52 42 Meghdoudech
+بوزقام 54 52 42 Bouzguam
+الدغرة 55 52 42 Eddoghra
+سيدي حراث 56 52 42 Harreth Sidi
+معتمدية الزهور Ezzouhour Delegation
+الزهور الشرقي )1 )51 53 42) 1(Est Ezzouhour
+الزهور الشرقي )2 )52 53 42) 2 (Est Ezzouhour
+الزهور الغربي )1 )53 53 42) 1 (Ouest Ezzouhour
+الزهور الغربي )2 )54 53 42) 2 (Ouest Ezzouhour
+الزهور الغربي )3 )55 53 42) 3 (Ouest Ezzouhour
+الزهور الغربي )4 )56 53 42) 4 (Ouest Ezzouhour
+معتمدية حاسي الفريد Ferid El Hassi Delegation
+حاسي الفريد 51 54 42 Ferid El Hassi
+الهشيم 52 54 42 Hechim El
+خنقة الجازية 53 54 42 Jezia Khanguet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+103
+السلوم 54 54 42 Essalloum
+الكامور 55 54 42 Kamour EL
+معتمدية سبيطلة Sbeitla Delegation
+سبيطلة 51 55 42 Sbeitla
+حي السرور 52 55 42 Essourour Cité
+سمامة 53 55 42 Semama
+الرخمات 54 55 42 Errakhmet
+الفنة 55 55 42 Gounna El
+الدوالب 56 55 42 Eddouleb
+الشرائع 57 55 42 Charaya-Ech
+مشرق الشمس 58 55 42 Chams-Ech Machrek
+الوساعية 59 55 42 Ouassaia
+الخضراء 60 55 42 Khadhra El
+األثار 61 55 42 Athar EL
+المزارة 62 55 42 Mezara EL
+القرعة الحمراء 63 55 42 Hamra El Garâa El
+القصر 64 55 42 Ksar EL
+معتمدية سبيبة Sbiba Delegation
+سبيبة 51 56 42 Sbiba
+األحواز 52 56 42 Ahouaz El
+وادي الحطب 53 56 42 Hatab El Oued
+إبراهيم الزهار 54 56 42 Ezzahhar Brahim
+عين زيان 55 56 42 Zaiene Aïn
+الثماد 56 56 41 Etthamed
+عين الخمائسية 57 56 42 Khemaïssia El Aïn
+معتمدية جدليان djedeliane Delegation
+جدليان 51 57 42 Djedliane
+فج تربح 52 57 42 Terbah Fej
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+104
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+عين الحمادنة 53 57 42 Hamadna El Aïn
+محرزة 54 57 42 Mehrza
+عين أم الجدور 55 57 42 Jedour El Oum Aïn
+معتمدية العيون Ayoun El Delegation
+العيون 51 58 42 Ayoun El
+القرين 52 58 42 Grine El
+البرك 53 58 42 Brek El
+البواجر 54 58 42 Baouajer El
+توشة 55 58 42 Tiwicha
+عين السلسلة 56 58 42 Esselsela Aïn
+معتمدية تالة Thala Delegation
+تالة الشرقية 51 59 42 Est Thala
+تالة الغربية 52 59 42 Ouest Thala
+الدشرة 53 59 42 Eddachra
+عين الجديدة 54 59 42 Jadeida-Aj Aïn
+برماجنة 55 59 42 Barmajna
+وادي الرشح 56 59 42 Errachech Oued
+الجوى 57 59 42 Joua El
+الحماد 58 59 42 Hamed El
+زلفان 59 59 42 Zelfane
+بو األحناش 60 59 42 Boulahnech
+سيدي محمد 61 59 42 hammed>M Sidi
+ولجة الظل 62 59 42 Edhel Ouljet
+الشافعي 63 59 42 Chaffaï-Ech
+معتمدية حيدرة Hidra Delegation
+حيدرة 51 60 42 Hidra
+الطباقة 52 60 42 baga’T
+المكيمن 53 60 42 Mekimen El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+105
+األجرد 54 60 42 Lajrad
+الصري 55 60 42 Sray-Es
+عين الدفلة 56 60 42 Eddefla Aïn
+معتمدية فوسانة Foussana Delegation
+فوسانة 51 61 42 Foussana
+فوسانة األحواز 52 61 42 Lahouaz Foussana
+خمودة الشمالية 53 61 42 Nord Khmouda
+خمودةالجنوبية 54 61 42 Sud Khmouda
+أوالد محفوظ 55 61 42 Mahfoudh Ouled
+أفران 56 61 42 Afrane
+المزيرعة 57 61 42 Meziraa El
+العذيرة 58 61 42 Aadhira El
+الحازة 59 61 42 Hazza El
+البريكة 60 61 42 Brika EL
+بودرياس 61 61 42 Bouderiass
+عين الجنان 62 61 42 Jinene El Aïn
+الرطيبات 63 61 42 Rtibet-Er
+معتمدية فريانة Feriana Delegation
+فريانة 51 62 42 Feriana
+العرق 52 62 42 Erg El
+األحواش 53 62 42 Ahouach El
+الصخيرات 54 62 42 Skhirat-Es
+العرعار 55 62 42 Arâar El
+حناشي 56 62 42 Hanachi
+قارة النعام 57 62 42 Nâam-En Garet
+بوشبكة 58 62 42 Bouchebka
+أم علي 59 62 42 Ali Om
+بوحية 60 62 42 Bouhaya
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+106
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+تالبت 61 62 42 Telept
+عبد العظيم 62 62 42 Abdeladhim
+معتمدية ماجل بالعباس Abbes Bel Majel Delegation
+ماجل بالعباس الشمالية 51 63 42 Nord Abbes Bel Majel
+ماجل بالعباس الجنوبية 52 63 42 Sud Abbes Bel Majel
+أم األقصاب 53 63 42 Laksab Oum
+الناظور 54 63 42 Ennadhour
+هنشير أم الخير 55 63 42 Khir El Oum Henchir
+صولة 56 63 42 Soula
+قروع الجدرة 57 63 42 Jedra El Grouâ
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+107
+واليــة سيدي بوزيد Bouzid Sidi de Gouvernorat
+رمز المنطقة
+معتمدية سيدي بوزيد الغربية secteur Code Ouest Bouzid Sidi Delegation
+سيدي بوزيد 51 51 43 Bouzid Sidi
+النور 52 51 43 Ennour
+سيدي سالم 53 51 43 Salem Sidi
+الهيشرية 54 51 43 Hichria EL
+الفريو 55 51 43 Friou El
+الصداقية 56 51 43 Sadakia
+أم العظام )1 )57 51 43) 1 (Adham El Oum
+أم العظام )2 )58 51 43) 2 (Adham EL Oum
+الطويلة 59 51 43 Ettouila
+النصر 60 51 43 Ennasr
+سيدي بوزيد الجنوبية 61 51 43 Sud Bouzid Sidi
+سيدي بوزيد الغربية 62 51 43 Ouest Bouzid Sidi
+معتمدية سيدي بوزيد الشرقية Est Bouzid Sidi Delegation
+األحواز 51 52 43 Ahouaz El
+بنور 52 52 43 Bennour
+فانض 53 52 43 Faiedh
+األسود 54 52 43 Assouad EL
+العامرة 55 52 43 Amra EL
+المكارم 56 52 43 Makarem El
+المكارم الشرقية 57 52 43 Est Makarem EL
+العقلة 58 52 43 Okla El
+عين رباو 59 52 43 Rebaou Aïn
+الحنية أبازيد 60 52 43 Abazid Henia El
+قارة حديد 61 52 43 hadid Garet
+الزيتونة 62 52 43 Ezzitouna
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+108
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية جلمة Jilma Delegation
+جملة الشرقية 51 53 43 Est Jilma
+جلمة الغريبة 52 53 43 Ouest Jilma
+لزيرق 53 53 43 Lazirek
+سلتة 54 53 43 Selta
+زغمار 55 53 43 Zoghmar
+غدير الزيتون 56 53 43 Ezzitoun Ghedir
+باطن الغزال الجنوبية 57 53 43 Sud Elghézel Baten
+باطن الغزال الشمالية 58 53 43 Nord Elghézel Baten
+العضلة 59 53 43 Adhla El
+الحميمة 60 53 43 Hamima El
+األبيض 61 53 43 Abaiedh El
+معتمدية سبالة أوالد عسكر ouled Cebalet Delegation
+asker
+السبالة 51 54 43 Cebalet
+العامرة 52 54 43 Amra El
+السد 53 54 43 Essed
+مغيلة 54 54 43 Meghila
+العيون 55 54 43 Ayoun El
+معتمدية بئر الحفي رمـز المنطقة Hafey el Bir Delegation
+بئر الحفي 51 55 43 Hafey El Bir
+المحمدية 52 55 43 Mohamdia El
+القصر 53 55 43 Ksar El
+بئر عمامة 54 55 43 Amama Bir
+المزارة 55 55 43 Mezara El
+السالمة 56 55 43 Essalama
+ورغة 57 55 43 Ourgha
+رحال 58 55 43 Rahal
+بئر بوصبيع 59 55 43 Bousbiaa Bir
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+109
+معتمدية سيدي علي بن عون aoun ben ali Sidi Delegation
+سيدي علي بن عون 51 56 43 Aoun Ben Ali Sidi
+الرابطة 52 56 43 Errabta
+الساهلة 53 56 43 Essahla
+الواعرة 54 56 43 Ouaara El
+أوالد إبراهيم 55 56 43 Brahim Ouled
+المنصورة الشرقية 56 56 43 Est Mansoura El
+المنصورة الغربية 57 56 43 Ouest Mansoura El
+معتمدية منزل بوزيان bouzaine Menzel Delegation
+منزل بوزيان 51 57 43 Bouzaïane Menzel
+النوامر 52 57 43 Nouamer-En
+قالل 53 57 43 Kallel
+الخرشف 54 57 43 Khorchef EL
+الخروبة 55 57 43 Kharrouba El
+العمرية 56 57 43 Omria El
+العمران 57 57 43 Omrane El
+معتمدية المكناسي meknassy Delegation
+الجباس 51 58 43 Jebbes EL
+الغريس الغربية 52 58 43 Ouest Gheris
+مش 53 58 43 Mech
+المكناسي الشرقية 54 58 43 Est Meknassy
+المكناسي الغربية 55 58 43 Ouest Meknassy
+المكناسي الشمالية 56 58 43 Nord Meknassy
+الزوارع 57 58 43 Ezzouarâa
+المبروكة 58 58 43 Mabrouka EL
+النصر 59 58 43 Ennasr
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+110
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية سوق الجديد Jedid Souk Delegation
+سوق الجديد 51 59 43 Jedid Souk
+غريويس 52 59 43 Ghiriouis
+القصيرة 53 59 43 Ksaîra
+سقدال 54 59 43 Sekdal
+الرميلية 55 59 43 Erremelia
+الزفزاف 56 59 43 Ezzafzaf
+بئر بدر 57 59 43 Badr Bir
+معتمدية المزونة Mezzouna Delegation
+المزونة 51 60 43 Mezzouna
+الفوني 52 60 43 Founi EL
+بوهدمة 53 60 43 Hedma Bou
+الغريس الشرقية 54 60 43 Est Gheris El
+الخبنة 55 60 43 Khobna
+الدوارة 56 60 43 Eddaouara
+الخوي 57 60 43 Khaoui EL
+البسباس 58 60 43 Besbes EL
+السد 59 60 43 Essed
+معتمدية الرقاب Regueb Delegation
+الرقاب 51 61 43 Regueb
+الخشم الغربية 52 61 43 Ouest Khechem
+السعيدة الشمالية 53 61 43 Nord Essaïda
+قصر الحمام الشرقية 54 61 43 Est Hammam El Ksar
+قوالب 55 61 43 Gouleb
+الرضاع 56 61 43 Erradhâa
+الرضاع الشرقية 57 61 43 Est Erradhâa
+بودينار 58 61 43 Boudinar
+قصر الحمام الغربية 59 61 43 Ouest Hammam EL Ksar
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+111
+قبرار 60 61 43 Gobrar
+ريحانة 61 61 43 Rihana
+السكبة 62 61 43 Essekba
+الخشم الشرقية 63 61 43 Est Khechem
+السعيدة الجنوبية 64 61 43 Sud Essaïda
+السعيدة الشرقية 65 61 43 Est Essaïda
+فرش غريب 66 61 43 Gharib Ferch
+أوالد عيوني 67 61 43 Ayouni Ouled
+معتمدية أوالد حفوز Haffouz Ouled Delegation
+أوالد حفوز 51 62 43 Haffouz Ouled
+الدويبات الجنوبية 52 62 43 Sud Dheouibet
+سيدي خليف 53 62 43 Khelif Sidi
+الحنية 54 62 43 Henia El
+كسودة 55 62 43 Kassouda
+المباركية 56 62 43 Mebarkia El
+الشواشية 57 62 43 Cheouachia-Ech
+سيدي الالفي 58 62 43 Ellafi Sidi
+الذويبات الشمالية 59 62 43 Nord Dheouibet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+112
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة قابس Gabès de Gouvernorat
+رمز المنطقة
+معتمدية قابس المدينة secteur Code Medina Gabès Delegation
+المنطقة األولى 51 51 51) 1 (Secteur
+المنطقة الثانية 52 51 51) 2 (Secteur
+المنطقة الثالثة 53 51 51) 3 (Secteur
+المنطقة الرابعة 54 51 51) 4 (Secteur
+شط سيدي عبد السالم 55 51 51 Abdesselam Sidi Chott
+معتمدية قابس الغربية Ouest Gabès Delegation
+الرماثي 51 52 51 Remathi-Er
+بوشمة 52 52 51 Chemma-Bou
+النحال 53 52 51 Nahal
+الجواولة 54 52 51 Jaouaoula
+شنني الشمالية 55 52 51 Nord Chenini
+شنني الشرقية 56 52 51 Est Chenini
+شنني الغربية 57 52 51 Ouest Chenini
+معتمدية قابس الجنوبية Sudè Gabes Delegation
+تبلبو 51 53 51 Teboulbou
+سيدي بولبابة 52 53 51 Boulbaba Sidi
+زريق الدخالنية 53 53 51 Eddakhlania Zrig
+المنطقة الخامسة 54 53 51) 5 (Secteur
+المدو 55 53 51 Medou El
+ليماوة 56 53 51 Limaoua
+األمازير 57 53 51 Amazir El
+معتمدية غنوش Ghanouch Delegation
+غنوش الشرقية 51 54 51 Est Ghanouch
+غنوش الغربية 52 54 51 Ouest Ghanouch
+غنوش الجنوبية 53 54 51 Sud Ghanouche
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+113
+غنوش الشمالية 54 54 51 Nord Ghanouche
+معتمدية المطوية Metouia el’D Delegation
+المطويةالشمالية 51 55 51 Nord Metouia El
+المطورية الجنوبية 52 55 51 Sud Metouia El
+وذرف الشمالية 53 55 51 Nord Ouedhref
+وذرف الجنوبية 54 55 51 Sud Ouedhref
+العكاريت 55 55 51 Akarit El
+الهيشة 56 55 51 Hicha El
+الميدة 57 55 51 Mida El
+معتمدية منزل الحبيب Habib El Menzel Delegation
+وادي الزيتون 51 56 51 Ezzitoun Oued
+الفجيج 52 56 51 Fejij El
+المهاملة 53 56 51 Mehemla El
+السقي 54 56 51 Saki-Es
+ربيعة والي 55 56 51 Ouali Rabiaa
+زقراطة 56 56 51 Zoughrata
+منزل الحبيب 57 56 51 Habib El Menzel
+معتمدية الحامة Hamma el’d Delegation
+المنطقة الشمالية 51 57 51 Nord Secteur
+القصر 52 57 51 Ksar El
+المنطقة الشرقية )1 )53 57 51) 1 (Est Secteur
+المنطقة الشرقية )2 )54 57 51) 2 (Est Secteur
+المنطقة القبلية 55 57 51 Sud Secteur
+فرحات حشاد 56 57 51 Hached Farhat
+شانشو 57 57 51 Chanchou
+البحاير 58 57 51 Behaïer El
+بشيمة البرج 59 57 51 Borj El Bechima
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+114
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+بشيمة القلب 60 57 51 Kalb El Bechima
+بوعطوش 61 57 51 Attouch Bou
+الحبيب ثامر 62 57 51 Thameur Habib
+المنطقة الغريبة 63 57 51 Ouest Secteur
+معتمدية مطماطة Matmata Delegation
+مطماطة 51 58 51 Matmata
+تشين 52 58 51 Techine
+طمزرط 53 58 51 Tamazrat
+معتمدية مطماطة الجديدة Nouvelle La Delegation
+Matmata
+مطماطة الجديدة 51 59 51 Matmata Nouvelle
+هداج 52 59 51 Heddaj
+الزراوة 53 59 51 Zeraoua-Ez
+بني عيسى 54 59 51 Aïssa Beni
+بني زلطن 55 59 51 Zalten Beni
+معتمدية مارث Mareth Delegation
+مارث 51 60 51 Mareth
+مارث الشمالية 52 60 51 Nord Mareth
+سيدي التواتي 53 60 51 Touati Sidi
+الزركين 54 60 51 Zerkine-Ez
+عيون الزركين 55 60 51 Zerkine-Ez Ayoun
+واريفين 56 60 51 Ourafinine
+الزارات 57 60 51 Ezzarat
+العالية 58 60 51 Alaya El
+عرام 59 60 51 Arram
+كتانة 60 60 51 Ketana
+توجان 61 60 51 Toujane
+زمرتن 62 60 51 Zemarten
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+115
+زريق الغندري 63 60 51 Ghandri El Zerig
+عين تونين 64 60 51 Tounine Aïn
+دخيلة توجان 65 60 51 Toujane Dekhilet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+116
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+واليــة مدنين Mednine de Gouvernorat
+رمز المنطقة
+معتمدية مدنين الشمالية secteur Code Nord Mednine Delegation
+بني عزيل 51 51 52 Ghezaïl Beni
+2 ماي 52 51 52 mai-2
+مدنين الغربية 53 51 52 Ouest Mednine
+20 مارس 54 51 52 mars-20
+مدنين الشمالية 55 51 52 Nord Mednine
+أم التمر الغربية 56 51 52 Ouest Ettameur Oum
+أم التمر الشرقية 57 51 52 est Ettameur Oum
+كوتين 58 51 52 Koutine
+معتمدية مدنين االجنوبية Sud Mednine Delegation
+مدنين الجنوبية 51 52 52 Sud Mednine
+مدنين الشرقية 52 52 52 Est Mednine
+اللبة 53 52 52 Labba El
+حسي عمر 54 52 52 Amor Hessi
+وادي السدر 55 52 52 Esseder Oued
+حسي مدنين 56 52 52 Mednine Hessi
+الدرغولية 57 52 52 Darghoulia
+السويطير 58 52 52 Souitir
+عمر الجديدة 59 52 52 Amra Nouvelle
+بوغرارة 60 52 52 Ghrara-Bou
+معتمدية بني خداش Khedech Beni Delegation
+بني خداش 51 53 52 Khedech-Beni
+رحالة 52 53 52 Rahala
+الدخيلة 53 53 52 Eddekhila
+ورجيجن 54 53 52 Ouarjijene
+وادي الخيل 55 53 52 Khil El Oued
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+117
+الزغاية 56 53 52 Zghaya
+البنية 57 53 52 Benaina El
+الفجيج 58 53 52 Fejij El
+المنزلة 59 53 52 Menzela El
+زمور 60 53 52 Zammour
+الحميمة 61 53 52 Hamaïma El
+البحيرة 62 53 52 Behira El
+القصر الجديد 63 53 52 Jedid El Ksar
+معتمدية بن قردان Guerdane Ben Delegation
+بن قردان الشمالية 51 54 52 Nord Guerdane Ben
+بن قردان الجنوبية 52 54 52 Sud Guerdane Ben
+الصياح 53 54 52 Essayah
+جميلة 54 54 52 Jamila
+المعمرات 55 54 52 Mâamerat El
+العامرية 56 54 52 Amria El
+الطابعي 57 54 52 Ettabaï
+الوراسنية 58 54 52 Ourasnia
+جالل 59 54 52 Jallel
+النفاتية 60 54 52 Neffatia
+الشهبانية 61 54 52 Chahbania
+شارب الراجل 62 54 52 Errajel Chareb
+معتمدية جرجيس Zarzis Delegation
+جرجيس 51 55 52 zarzis
+20 مارس 52 55 52 mars-20
+الطاهر صفر 53 55 52 Sfar Tahar
+الجدارية 54 55 52 Ejdaria
+البساتين 55 55 52 Bassatine El
+السويحل 56 55 52 Essouihel
+واد التياب 57 55 52 Ettieb Oued
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+118
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+حسي الجربي 58 55 52 Jerbi El Hassi
+خوي الغدير 59 55 52 Ghedir El Khaoui
+حمادي 60 55 52 Hamadi
+هشام الحمادي 61 55 52 Hamadi l E Hichem
+الغرابات 62 55 52 Ghorabet El
+القريبيس 63 55 52 Grebis El
+حمادي بو تفاحة 64 55 52 Boutoufaha Hamadi
+العقلة 65 55 52 Ogla El
+شماخ 66 55 52 Chammakh
+معتمدية جربة حومة السوق Houmet Djerba Delegation
+ Souk
+طاوريت 51 56 52 Taourit
+بومالل 52 56 52 Melel Bou
+الجوامع 53 56 52 Jouamâa El
+فاطو 54 56 52 Fatou
+مزراية 55 56 52 Mazraïa
+صدغيان 56 56 52 Sedghaiane
+والغ 57 56 52 Oualeg
+السواني 58 56 52 Essouani
+الرياض 59 56 52 Erriadh
+الحشان 60 56 52 Hachene El
+مليتة 61 56 52 Mellita
+معتمدية جربة ميدون Midoun Djerba Delegation
+ميدون 51 57 52 Midoun
+اركو 52 57 52 Arkou
+المحبوبين 53 57 52 Mahboubine El
+بني معقل 54 57 52 Mâaguel Beni
+صدويكش 55 57 52 Sedouikèch
+الماي 56 57 52 May El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+119
+ربانة 57 57 52 Robbana
+معتمدية جربة أجيم Ajim Djerba Delegation
+اجيم 51 58 52 Ajim
+الخنانسة 52 58 52 Khenensa El
+مزران 53 58 52 Mezrene
+قاللة 54 58 52 Guellala
+وادي الزبيب 55 58 52 Ezzebib Oued
+القرع 56 58 52 Groa El
+معتمدية سيدي مخلوف Makhlouf Sidi Delegation
+سيدي مخلوف 51 59 52 Makhlouf Sidi
+القرين 52 59 52 Grine El
+المغزاوية 53 59 52 Maghzaouia El
+الجرف 54 59 52 Jourf El
+بدوي 55 59 52 Bedoui
+عمرة 56 59 52 Amra
+الراقوبة الشرقية 57 59 52 Est Ragouba Er
+الراقوبة الغربية 58 59 52 Ouest Ragouba Er
+الغباي 59 59 52 Ghabai El
+القصبة 60 59 52 Gosba El
+الدرجاوة 61 59 52 Darjaoua
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+120
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+والية تطاوين Tataouine de Gouvernorat
+رمز المنطقة
+معتمدية تطاوين الشمالية secteur Code Nord Tataouine Delegation
+النزهة 51 51 53 Nozha-En
+التضامن 52 51 53 Ettadhamen
+النصر 53 51 53 Nasr-En
+وادي القمح 54 51 53 Gemah El Oued
+برورمت 55 51 53 Berourmet
+تاللت 56 51 53 Telelt
+وادي الغار 57 51 53 Ghar El Oued
+المعونة 58 51 53 Maouna El
+الزهراء 59 51 53 Ezzahra
+قطوفة 60 51 53 Gattoufa
+جاتمة 61 51 53 Khetma
+السعادة 62 51 53 Essâada
+القلعة الشرقية 63 51 53 Est Galâa El
+القلعة الغربية 64 51 53 Ouest Galâa El
+بني بالل 65 51 53 Belal Beni
+معتمدية تطاوين الجنوبية Sud Tataouine Delegation
+تطاوين المدينة 51 52 53 Ville Tataouine
+تطاوين العليا 52 52 53 Superieure Tataouine
+المزطورية الجنوبية 53 52 53 Sud Maztouria El
+المزطورية الشمالية 54 52 53 Nord Maztouria El
+غرغار 55 52 53 Gharghar
+حي البر 56 52 53 Barr El Cité
+قصر المقابلة 57 52 53 Moukabala El Ksar
+شنني الجديدة 58 52 53 Chnini Nouvelle
+شنني 59 52 53 Chenini
+الدويرات 60 52 53 Eddouiret
+المسرب 61 52 53 Mesreb El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+121
+الرقبة 62 52 53 Erroghba
+رأس الوادي 63 52 53 Ouedi El Ras
+بئر الثالثين 64 52 53 Thalathine Bir
+بني بركة - تونكت 65 52 53 Tounket - Barka Beni
+معتمدية الصمار Smar Delegation
+كرشاو 51 53 53 Kerchaou
+الصمار 52 53 53 Smar
+الغر ياني 53 53 53 Ghariani El
+الرهاش 54 53 53 Errahech
+المرة 55 53 53 Morra El
+قصر عون 56 53 53 Aoun Ksar
+قصر مهيرة 57 53 53 Mehira Ksar
+بني مهيرة الشرقية 58 53 53 Est Mehira Beni
+معتمدية بئر االحمر Lahmar Bir Delegation
+بئر االحمر الشرقية 51 54 53 Est Lahmar Bir
+بئر االحمر الغربية 52 54 53 Ouest Lahmar Bir
+السند 53 54 53 Sened
+العرقوب 54 54 53 Argoub El
+قراقر 55 54 53 Grager
+المدينة 56 54 53 Medina El
+البساتين 57 54 53 Bassatine El
+معتمدية غمراسن Ghomrasen Delegation
+غمراسن 51 55 53 Ghomrassen
+الواحة 52 55 53 Ouaha El
+الزهور 53 55 53 Ezzouhour
+القرضاب 54 55 53 Ghordhab El
+الفرش 55 55 53 Ferch El
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+122
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+قرماسة 56 55 53 Guermassa
+قصر الحدادة 57 55 53 Haddada El Ksar
+المدينة الجديدة 58 55 53 Medina Nouvelle
+قصر المرابطين 59 55 53 Mourabitine El Ksar
+وادي الخيل 60 55 53 Khil El Oued
+معتمدية الذهبية Dhehibia Delegation
+ذهبية الشرقية 51 56 53 Est Dhehbia
+ذهبية الغربية 52 56 53 Ouest Dhehbia
+معتمدية رمادة Remada Delegation
+رمادة الشرقية 51 57 53 Est Rémada
+رمادة الغربية 52 57 53 Ouest Rémada
+نكريف 53 57 53 Nekrif
+كنبوت 54 57 53 Kenbout
+بئر عمير 55 57 53 Amir Bir
+برج الخضراء 56 57 53 Khadhra El Borj
+مغنى 57 57 53 Meghani
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+123
+واليــة قفصة Gafsa de Gouvernorat
+رمز المنطقة
+معتمدية قفصة الشمالية secteur Code Nord Gafsa Delegation
+قطيس 51 51 61 Guetis
+الرحيبة 52 51 61 Rahiba-Er
+الرحيبة الجنوبية 53 51 61 Sud Rahiba-Er
+قصور األخوة 54 51 61 Akhoua El Ksour
+المتكيدس 55 51 61 Mouthidès El
+الفج 56 51 61 Fej
+منزل ميمون 57 51 61 Mimoun Menzel
+معتمدية سيدي عيش Aich Sidi Delegation
+سيدي عيش 51 52 61 Aïch Sidi
+سيدي عيش الشرقية 52 52 61 Est Aïch Sidi
+العمايمة 53 52 61 Amaïma El
+منزل القمودي 54 52 61 Gamoudi Menzel
+القربة 55 52 61 Karia El
+السوينية 56 52 61 Souinia-Es
+معتمدية القصر Ksar el’D Delegation
+القصر 51 53 61 Ksar El
+القصر الشرقية 52 53 61 Est Ksar El
+اللة 53 53 61 Lala
+حي حشاد 54 53 61 Hached Cité
+عمرة 55 53 61 Amra
+المطار 56 53 61 Matar El
+معتمدية قفصة الجنوبية Sud Gafsa Delegation
+قفصة المدينة 51 54 61 Ville Gafsa
+قفصة الشرقية 52 54 61 Est Gafsa
+حي السرور 53 54 61 Essourour Cité
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+124
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+العسالة 54 54 61 Assala El
+سيدي أحمد زروق 55 54 61 Zarrouk Ahmed Sidi
+واد أيلو 56 54 61 Ailou Oued
+المولي 57 54 61 Moula El
+حي النور 58 54 61 Ennour Cité
+حي الشباب 59 54 61 Chabab-Ech Cité
+العقيلة 60 54 61 Aguila EL
+كاف دربي 61 54 61 Derbi Kef
+الناظور 62 54 61 Nadhour-En
+معتمدية أم العرايس Araies El oum’d Delegation
+أم األقصاب 51 55 61 Aksab El Oum
+سيدي بوبكر 52 55 61 Boubaker Sidi
+أم العرايس المركزية 53 55 61 Centre Araies El Oum
+أم العرايس المحطة 54 55 61 Gare Araies El Oum
+الشنوفية 55 55 61 Channoufia-Ech
+السويطير 56 55 61 Souitir-Es
+الدوارة 57 55 61 Daouara
+معتمدية الرديف Redeyef Delegation
+الرديف المركز 51 56 61 Centre Redeyef
+الرديف الشمالية 52 56 61 Nord Redeyef
+الرديف الجنوبية 53 56 61 Sud Redeyef
+الرديف المحطة 54 56 61 Gare Redeyef
+تابديت 55 56 61 Tabdit
+معتمدية المتلوي Metlaoui Delegation
+المتلوي المركز 51 57 61 Centre Metlaoui
+المتلوي المحطة 52 57 61 Gare Metlaoui
+المزيرعة 53 57 61 Mzirâa El
+كريشة النعام 54 57 61 Nâam Krichet
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+125
+حي االمل الغربي 55 57 61 Ouest Amel El Cité
+حي االمل الشرقي 56 57 61 Est Amel El Cité
+الثالجة 57 57 61 Thalja
+وادي األرطة 58 57 61 Arta El Oued
+المقرون 59 57 61 Magroun El
+السقي القبلي 60 57 61 Sud Segui
+معتمدية المظيلة Mdhila el’D Delegation
+المظيلة المركز 51 58 61 Centre Mdhila
+الحي العمالي 52 58 61 Travailleurs Des Cité
+صهيب 53 58 61 Sahib
+السقي 54 58 61 Segui El
+معتمدية القطار Guetar el’D Delegation
+القطار الغربية 51 59 61 Ouest Guetar El
+األرطس 52 59 61 Ortos El
+القطار الشرقية 53 59 61 Est Guetar El
+العنق 54 59 61 Ongue El
+الساكت 55 59 61 Saket-Es
+بئر سعد 56 59 61 Sâad Bir
+معتمدية بلخير Belkhir Delegation
+العيايشة 51 60 61 Ayaïcha El
+بلخير 52 60 61 Belkhir
+الطلح الشرقية 53 60 61 Est Talh-Et
+الطلح الغربية 54 60 61 Ouest Talh-Et
+جبيلة الوسط 55 60 61 Ouest Jbilet
+أوالد الحاج 56 60 61 Hadj El Ouled
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+126
+املصنف الوطني للوحدات اإلدارية التونسية / إحصائيات تونس
+معتمدية السند Sned Delegation
+السند 51 61 61 Sned
+السند الشمالية 52 61 61 Nord-Sned
+صانوش 53 61 61 Sanouche
+الجديدة 54 61 61 Djedida
+عبد الصادق 55 61 61 Abdessadok
+ماجورة 56 61 61 Majoura
+عليم 57 61 61 Alim
+codes leurs et secteurs des Liste
+قائمة المناطق ورموزها لكل معتمدية délégation par
+Tunisie Statistiques / Tunisien géograohique Code
+127
+واليــة توزر Tozeur de Gouvernorat
+رمز المنطقة
+معتمدية توزر secteur Code Tozeur Delegation
+مسغونة 51 51 62 Masghouna
+الزبدة 52 51 62 Zebda-Ez
+الهبائلة 53 51 62 Habaïla El
+الهوادف 54 51 62 Haouadef El
+القيطنة 55 51 62 Keitna El
+رأس الذراع حلبة 56 51 62 Helba-Drâa Ras
+اإلزدهار 57 51 62 Ezdihar El
+حي المطار 58 51 62 aeroport’l Cité
+الشابية 59 51 62 Chabia-Ech
+الحضر 60 51 62 Hadher-EL
+معتمدية دقاش Degach Delegation
+دقاش الشمالية 51 52 62 Nord Degach
+دقاش الجنوبية 52 52 62 Sud Degach
+سبع أبار 53 52 62 Abar Sebâa
+المحاسن 54 52 62 Mahassen El
+بوهالل 55 52 62 Helal Bou
+الحامة 56 52 62 Hamma El
+شاكمو 57 52 62 Chakmou
+دغومس 58 52 62 Dghoumès
+النمالت 59 52 62 Namlat-En
+معتمدية تمغزة Tameghza Delegation
+تمغزة 51 53 62 Tameghza
+الشبيكة 52 53 62 Chebika
+ميداس 53 53 62 Midas
+عين الكرمة 54 53 62 Karma El Aïn
+قم الحنقة 55 53 62 Khangua El Foum
+الرميثة 56 53 62 Remitha-Er
+الشافعي الشريف 51 54 62 Cherif-Ech Chafaï
+غرة جوان 52 54 62 Juin 1er
+الواحة 53 54 62 Ouaha El
+السني 54 54 62 Seni-Es
+العيون 55 54 62 Ayoun El
+التحرير 56 54 62 Ettahir
+األصيل 57 54 62 Assil-El
+الخضر بن حسين 58 54 62 Houssine Ben Khadar El
+حزوة 51 55 62 Hazoua
+حطام 52 55 62 Hattem
+عين أوالد اللغريسي 53 55 62 Ggerissi El Ouled Ain
+قبلي الجنوبية 51 51 63 Sud Kébili
+بازمة 52 51 63 Bazma
+جمنة الشمالية 53 51 63 Nord Jemna
+جمنة الجنوبية 54 51 63 Sud jemna
+بشلى 55 51 63 Bechelli
+جرسين 56 51 63 Jersine
+البليدات 57 51 63 Blidete El
+ّبني محمد 58 51 63 Mehemed Beni
+جنعورة 59 51 63 Janoura
+قبلي الشمالية 51 52 63 nord Kébeli
+المنصورة 52 52 63 Mansoura El
+الرابطة 53 52 63 Errabta
+طنبار 54 52 63 Tonbar
+ليماقس اسفطميمية 55 52 63 Estiffimia Limagues
+تلمين 56 52 63 Telmine
+تنبيب 57 52 63 Tenbib
+سعيدان 58 52 63 Saïdane
+القطعاية 59 52 63 Gattaya El
+قبلي الشرقية 60 52 63 Est Kebeli
+المنشية 51 53 63 Menchia El
+بو عبد هللا 52 53 63 Abdellah Bou
+ام الصمعة 53 53 63 Essoumâa Oum
+الزاوية 54 53 63 Ezzaouaïa
+بشري 55 53 63 Bèchri
+فطناسة 56 53 63 Fatnassa
+نقة 57 53 63 Negga
+دوز الشرقية 51 54 63 Est Douz
+القلعة 52 54 63 Golaa El
+العوينة الشمالية 53 55 63 Nord Aouina El
+العوينة الجنوبية 54 54 63 Sud Aouina El
+العبادلة 55 54 63 Abadla El
+دوز الغربية 551 635 Ouest Douz
+العذارة 52 55 63 Adhara El
+غليسية 53 55 63 Ghelissia
+نويل الشمالية 54 55 63 Nord Nouil
+نويل الجنوبية 55 55 63 Sud Nouil
+الصابرية الغربية 51 56 63 Ouest Sabria
+الصابرية الشرقية 52 56 63 Est Sabria
+غريب 53 56 63 Gharib
+غيدمة 54 56 63 Gueïdma
+رجيم معتوق 55 56 63 Mâatoug Rejim
+المطروحة 56 56 63 Matrouha El
+بشني - الدرجين 57 56 63 Eddorjine-Bechni
