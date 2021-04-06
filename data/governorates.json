@@ -1,0 +1,122 @@
+[
+ {
+  "code": 11,
+  "name": "Tunis",
+  "nameAr": "تونس"
+ },
+ {
+  "code": 12,
+  "name": "l Ariana’",
+  "nameAr": "أريانة"
+ },
+ {
+  "code": 13,
+  "name": "Ben Arous",
+  "nameAr": "بن عروس"
+ },
+ {
+  "code": 14,
+  "name": "Mannouba",
+  "nameAr": "منوبة"
+ },
+ {
+  "code": 15,
+  "name": "Nabeul",
+  "nameAr": "نابل"
+ },
+ {
+  "code": 16,
+  "name": "Zaghouan",
+  "nameAr": "زغوان"
+ },
+ {
+  "code": 17,
+  "name": "Bizerte",
+  "nameAr": "بنزرت"
+ },
+ {
+  "code": 21,
+  "name": "Bèja",
+  "nameAr": "باجة"
+ },
+ {
+  "code": 22,
+  "name": "Jendouba",
+  "nameAr": "جندوبة"
+ },
+ {
+  "code": 23,
+  "name": "le Kef",
+  "nameAr": "الكاف"
+ },
+ {
+  "code": 24,
+  "name": "Siliana",
+  "nameAr": "سليانة"
+ },
+ {
+  "code": 31,
+  "name": "Sousse",
+  "nameAr": "سوسة"
+ },
+ {
+  "code": 32,
+  "name": "Monastir",
+  "nameAr": "المنستير"
+ },
+ {
+  "code": 33,
+  "name": "Mahdia",
+  "nameAr": "المهدية"
+ },
+ {
+  "code": 34,
+  "name": "Sfax",
+  "nameAr": "صفاقس"
+ },
+ {
+  "code": 41,
+  "name": "Kairouan",
+  "nameAr": "القيروان"
+ },
+ {
+  "code": 42,
+  "name": "Kasserine",
+  "nameAr": "القصرين"
+ },
+ {
+  "code": 43,
+  "name": "Sidi Bouzid",
+  "nameAr": "سيدي بوزيد"
+ },
+ {
+  "code": 51,
+  "name": "Gabès",
+  "nameAr": "قابس"
+ },
+ {
+  "code": 52,
+  "name": "Medenine",
+  "nameAr": "مدنين"
+ },
+ {
+  "code": 53,
+  "name": "Tataouine",
+  "nameAr": "تطاوين"
+ },
+ {
+  "code": 61,
+  "name": "Gafsa",
+  "nameAr": "قفصة"
+ },
+ {
+  "code": 62,
+  "name": "Tozeur",
+  "nameAr": "توزر"
+ },
+ {
+  "code": 63,
+  "name": "Kébili",
+  "nameAr": "قبلي"
+ }
+]

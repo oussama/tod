@@ -1,0 +1,10192 @@
+[
+ {
+  "code": 115151,
+  "name": "Sidi Bou Saïd",
+  "nameAr": "سيدي بوسعيد"
+ },
+ {
+  "code": 115152,
+  "name": "Amilcar",
+  "nameAr": "أميلكار"
+ },
+ {
+  "code": 115153,
+  "name": "Carthage Byrsa",
+  "nameAr": "قرطاج بيرصا"
+ },
+ {
+  "code": 115154,
+  "name": "Carthage Plage",
+  "nameAr": "قرطاج الشاطىء"
+ },
+ {
+  "code": 115155,
+  "name": "Le Jasmin",
+  "nameAr": "الياسمينة"
+ },
+ {
+  "code": 115156,
+  "name": "Cité Mohamed Ali",
+  "nameAr": "حي محمد علي"
+ },
+ {
+  "code": 115251,
+  "name": "La Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 115252,
+  "name": "El Hafsia",
+  "nameAr": "الحفصية"
+ },
+ {
+  "code": 115253,
+  "name": "Bab Bénat",
+  "nameAr": "باب البنات"
+ },
+ {
+  "code": 115254,
+  "name": "Souk El Nhes",
+  "nameAr": "سوق النحاس"
+ },
+ {
+  "code": 115255,
+  "name": "El Assouak",
+  "nameAr": "األسواق"
+ },
+ {
+  "code": 115256,
+  "name": "Bab Mnara",
+  "nameAr": "باب المنارة"
+ },
+ {
+  "code": 115257,
+  "name": "Tourbet El Bey",
+  "nameAr": "تربة الباي"
+ },
+ {
+  "code": 115258,
+  "name": "El Zraria",
+  "nameAr": "الزرارعية"
+ },
+ {
+  "code": 115259,
+  "name": "Sidi Ali Azouz",
+  "nameAr": "سيدي علي عزوز"
+ },
+ {
+  "code": 115260,
+  "name": "El Taoufik",
+  "nameAr": "التوفيق"
+ },
+ {
+  "code": 115261,
+  "name": "El Sabaghine",
+  "nameAr": "الصباغين"
+ },
+ {
+  "code": 115262,
+  "name": "Sidi Boumendil",
+  "nameAr": "سيدي بومنديل"
+ },
+ {
+  "code": 115351,
+  "name": "Bab El Bhar",
+  "nameAr": "باب البحر"
+ },
+ {
+  "code": 115352,
+  "name": "Les Jardins",
+  "nameAr": "الحدائق"
+ },
+ {
+  "code": 115353,
+  "name": "Lac de Tunis",
+  "nameAr": "بحيرة تونس"
+ },
+ {
+  "code": 115354,
+  "name": "Mongi Slim",
+  "nameAr": "المنجي سليم"
+ },
+ {
+  "code": 115355,
+  "name": "Habib Thameur",
+  "nameAr": "الحبيب ثامر"
+ },
+ {
+  "code": 115356,
+  "name": "Taïeb El hiri’M",
+  "nameAr": "الطيب المهيري"
+ },
+ {
+  "code": 115357,
+  "name": "Hédi Chaker",
+  "nameAr": "الهادي شاكر"
+ },
+ {
+  "code": 115358,
+  "name": "Sidi El Bahri",
+  "nameAr": "سيدي البحري"
+ },
+ {
+  "code": 115451,
+  "name": "Tronja",
+  "nameAr": "ترنجة"
+ },
+ {
+  "code": 115452,
+  "name": "Bab El Khadra",
+  "nameAr": "باب الخضراء"
+ },
+ {
+  "code": 115453,
+  "name": "Bab Sâadoun",
+  "nameAr": "باب سعدون"
+ },
+ {
+  "code": 115454,
+  "name": "Borj Zouara",
+  "nameAr": "برج زوارة"
+ },
+ {
+  "code": 115455,
+  "name": "Bab El Assel",
+  "nameAr": "باب العسل"
+ },
+ {
+  "code": 115456,
+  "name": "El Halfaouine",
+  "nameAr": "الحلفاوين"
+ },
+ {
+  "code": 115457,
+  "name": "Bab Souika",
+  "nameAr": "باب سويقة"
+ },
+ {
+  "code": 115458,
+  "name": "Bab Sidi Abdessalem",
+  "nameAr": "باب سيدي عبد السالم"
+ },
+ {
+  "code": 115459,
+  "name": "Zaouiet El Bekria",
+  "nameAr": "الزاوية البكرية"
+ },
+ {
+  "code": 115460,
+  "name": "Hammam El Rmimi",
+  "nameAr": "حمام الرميمي"
+ },
+ {
+  "code": 115461,
+  "name": "Sidi Djebali",
+  "nameAr": "سيدي الجبالي"
+ },
+ {
+  "code": 115551,
+  "name": "El Omrane",
+  "nameAr": "العمران"
+ },
+ {
+  "code": 115552,
+  "name": "Djebel El Ahmar",
+  "nameAr": "الجبل األحمر"
+ },
+ {
+  "code": 115553,
+  "name": "Cité des Oliviers",
+  "nameAr": "حي الزياتين"
+ },
+ {
+  "code": 115554,
+  "name": "Ras Tabia",
+  "nameAr": "رأس الطابية"
+ },
+ {
+  "code": 115555,
+  "name": "Bir Atig",
+  "nameAr": "بئر عتيق"
+ },
+ {
+  "code": 115556,
+  "name": "Oued El Sebai",
+  "nameAr": "وادي السبعي"
+ },
+ {
+  "code": 115651,
+  "name": "Cité Ibn Khaldoun I",
+  "nameAr": "حي بن خلدون األول"
+ },
+ {
+  "code": 115652,
+  "name": "El Romana",
+  "nameAr": "الرمانة"
+ },
+ {
+  "code": 115653,
+  "name": "Cité Ibn Khaldoun II",
+  "nameAr": "حي بن خلدون الثاني"
+ },
+ {
+  "code": 115654,
+  "name": "Cité Ibn Khaldoun VI",
+  "nameAr": "حي بن خلدون السادس"
+ },
+ {
+  "code": 115655,
+  "name": "Cité El Intilaka",
+  "nameAr": "حي اإلنطالقة"
+ },
+ {
+  "code": 115656,
+  "name": "El Omrane Supérieur",
+  "nameAr": "العمران األعلى"
+ },
+ {
+  "code": 115657,
+  "name": "El Nassim",
+  "nameAr": "النسيم"
+ },
+ {
+  "code": 115658,
+  "name": "Ahmed Tlili",
+  "nameAr": "أحمد التليلي"
+ },
+ {
+  "code": 115659,
+  "name": "Es Sadique",
+  "nameAr": "الصديق"
+ },
+ {
+  "code": 115751,
+  "name": "(Ettahrir 1 )",
+  "nameAr": "التحرير األول"
+ },
+ {
+  "code": 115752,
+  "name": "(Ettahrir 2 )",
+  "nameAr": "التحرير الثاني"
+ },
+ {
+  "code": 115753,
+  "name": "(Ettahrir 3 )",
+  "nameAr": "التحرير الثالث"
+ },
+ {
+  "code": 115754,
+  "name": "Ettahrir Superieur",
+  "nameAr": "التحرير العلوي"
+ },
+ {
+  "code": 115755,
+  "name": "El Hadika",
+  "nameAr": "الحديقة"
+ },
+ {
+  "code": 115851,
+  "name": "1er Juin",
+  "nameAr": "غرة جوان"
+ },
+ {
+  "code": 115852,
+  "name": "El Menzah",
+  "nameAr": "المنزه"
+ },
+ {
+  "code": 115853,
+  "name": "El Fath",
+  "nameAr": "الفتح"
+ },
+ {
+  "code": 115854,
+  "name": "El Manar",
+  "nameAr": "المنار"
+ },
+ {
+  "code": 115951,
+  "name": "Cité El Khadra",
+  "nameAr": "حي الخضراء"
+ },
+ {
+  "code": 115952,
+  "name": "Cité Jardin",
+  "nameAr": "حي الحدائق"
+ },
+ {
+  "code": 115953,
+  "name": "Ech Charguia",
+  "nameAr": "الشرقية"
+ },
+ {
+  "code": 115954,
+  "name": "Khéreiddine Pacha",
+  "nameAr": "خير الدين باشا"
+ },
+ {
+  "code": 115955,
+  "name": "Ali Belhouane",
+  "nameAr": "علي بلهوان"
+ },
+ {
+  "code": 115956,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 115957,
+  "name": "El Bouhaira",
+  "nameAr": "البحيرة"
+ },
+ {
+  "code": 115958,
+  "name": "Cité Essalem",
+  "nameAr": "حي السالم"
+ },
+ {
+  "code": 116051,
+  "name": "Le Bardo",
+  "nameAr": "باردو"
+ },
+ {
+  "code": 116052,
+  "name": "Le Bardo Nord",
+  "nameAr": "باردو الشمالي"
+ },
+ {
+  "code": 116053,
+  "name": "Le Bardo Sud",
+  "nameAr": "باردو الجنوبي"
+ },
+ {
+  "code": 116054,
+  "name": "El Hadika",
+  "nameAr": "الحديقة"
+ },
+ {
+  "code": 116055,
+  "name": "Bou Choucha",
+  "nameAr": "بوشوشة"
+ },
+ {
+  "code": 116056,
+  "name": "Bonne Residence",
+  "nameAr": "اإلقامة الطيبة"
+ },
+ {
+  "code": 116057,
+  "name": "Khaznadar",
+  "nameAr": "خزندار"
+ },
+ {
+  "code": 116058,
+  "name": "El Fath",
+  "nameAr": "الفتح"
+ },
+ {
+  "code": 116059,
+  "name": "Ksar Saïd",
+  "nameAr": "قصر السعيد"
+ },
+ {
+  "code": 116060,
+  "name": "Ksar Saïd II",
+  "nameAr": "قصر السعيد الثاني"
+ },
+ {
+  "code": 116061,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 116062,
+  "name": "Es Säada",
+  "nameAr": "السعادة"
+ },
+ {
+  "code": 116063,
+  "name": "Ksar El Bortal",
+  "nameAr": "قصر البرطال"
+ },
+ {
+  "code": 116064,
+  "name": "Ibn Sina",
+  "nameAr": "إبن سيناء"
+ },
+ {
+  "code": 116151,
+  "name": "Cité Helel",
+  "nameAr": "حي هالل"
+ },
+ {
+  "code": 116152,
+  "name": "Ali Belhouane",
+  "nameAr": "علي البلهوان"
+ },
+ {
+  "code": 116153,
+  "name": "En Najah",
+  "nameAr": "النجاح"
+ },
+ {
+  "code": 116154,
+  "name": "CIté des Martyrs",
+  "nameAr": "حي الشهداء"
+ },
+ {
+  "code": 116155,
+  "name": "Bir anniba",
+  "nameAr": "بئر عنيبة"
+ },
+ {
+  "code": 116156,
+  "name": "Mellassine",
+  "nameAr": "المالسين"
+ },
+ {
+  "code": 116251,
+  "name": "Ezzouhour",
+  "nameAr": "الزهور"
+ },
+ {
+  "code": 116252,
+  "name": "Ezzouhour IV",
+  "nameAr": "الزهور الرابع"
+ },
+ {
+  "code": 116253,
+  "name": "Es Säada",
+  "nameAr": "السعادة"
+ },
+ {
+  "code": 116254,
+  "name": "Es Soumrane",
+  "nameAr": "السمران"
+ },
+ {
+  "code": 116255,
+  "name": "Cité Tayarane",
+  "nameAr": "حي الطيران"
+ },
+ {
+  "code": 116256,
+  "name": "Bach Hamba",
+  "nameAr": "باش حانبة"
+ },
+ {
+  "code": 116351,
+  "name": "El Hraïria",
+  "nameAr": "الحرايرية"
+ },
+ {
+  "code": 116352,
+  "name": "Ezzouhour V",
+  "nameAr": "الزهور الخامس"
+ },
+ {
+  "code": 116353,
+  "name": "El Akba",
+  "nameAr": "العقبة"
+ },
+ {
+  "code": 116354,
+  "name": "El Akba Supérieur",
+  "nameAr": "العقبة العليا"
+ },
+ {
+  "code": 116355,
+  "name": "Ghédir El Golla",
+  "nameAr": "غدير القلة"
+ },
+ {
+  "code": 116356,
+  "name": "El Antit",
+  "nameAr": "العنتيت"
+ },
+ {
+  "code": 116357,
+  "name": "El Foula",
+  "nameAr": "الفلة"
+ },
+ {
+  "code": 116358,
+  "name": "Tarak Ibn Ziad",
+  "nameAr": "طارق بن زياد"
+ },
+ {
+  "code": 116359,
+  "name": "Ezzahrouni",
+  "nameAr": "الزهروني"
+ },
+ {
+  "code": 116451,
+  "name": "Borj Chakir",
+  "nameAr": "برج شاكير"
+ },
+ {
+  "code": 116452,
+  "name": "Sidi Hassine",
+  "nameAr": "سيدي حسين"
+ },
+ {
+  "code": 116453,
+  "name": "El Jaïara",
+  "nameAr": "الجيارة"
+ },
+ {
+  "code": 116454,
+  "name": "Attar",
+  "nameAr": "عطار"
+ },
+ {
+  "code": 116456,
+  "name": "Byrine",
+  "nameAr": "بيرين"
+ },
+ {
+  "code": 116457,
+  "name": "Meghiret Inzel",
+  "nameAr": "المغيرة إنزال"
+ },
+ {
+  "code": 116551,
+  "name": "El Ouardia",
+  "nameAr": "الوردية"
+ },
+ {
+  "code": 116552,
+  "name": "Bou Gatfa",
+  "nameAr": "بوقطفة"
+ },
+ {
+  "code": 116553,
+  "name": "Tahar Sfar",
+  "nameAr": "الطاهر صفر"
+ },
+ {
+  "code": 116554,
+  "name": "Cité El Izdihar",
+  "nameAr": "حي اإلزدهار"
+ },
+ {
+  "code": 116555,
+  "name": "Cité Mohamed Ali",
+  "nameAr": "حي محمد علي"
+ },
+ {
+  "code": 116556,
+  "name": "Sidi Belhassen",
+  "nameAr": "سيدي بلحسن"
+ },
+ {
+  "code": 116655,
+  "name": "Cité Ennour",
+  "nameAr": "حي النور"
+ },
+ {
+  "code": 116751,
+  "name": "Sidi El Béchir",
+  "nameAr": "سيدي البشير"
+ },
+ {
+  "code": 116752,
+  "name": "Sidi Mansour",
+  "nameAr": "سيدي منصور"
+ },
+ {
+  "code": 116753,
+  "name": "Mâakel Ezzaïm",
+  "nameAr": "معقل الزعيم"
+ },
+ {
+  "code": 116754,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 116755,
+  "name": "Abulkacem Ech chebbi",
+  "nameAr": "أبو القاسم الشابي"
+ },
+ {
+  "code": 116756,
+  "name": "Saïda Manoubia",
+  "nameAr": "السيدة المنوبية"
+ },
+ {
+  "code": 116851,
+  "name": "Sidi Fathallah",
+  "nameAr": "سيدي فتح هللا"
+ },
+ {
+  "code": 116852,
+  "name": "Ali Bach Hamba",
+  "nameAr": "علي باش حانبة"
+ },
+ {
+  "code": 116853,
+  "name": "El Garjouma",
+  "nameAr": "القرجومة"
+ },
+ {
+  "code": 116854,
+  "name": "Cité El Fath",
+  "nameAr": "حي الفتح"
+ },
+ {
+  "code": 116855,
+  "name": "Es Sebkha",
+  "nameAr": "السبخاء"
+ },
+ {
+  "code": 116856,
+  "name": "El Afrane",
+  "nameAr": "األفران"
+ },
+ {
+  "code": 116857,
+  "name": "Djebel Djeloud",
+  "nameAr": "جبل الجلود"
+ },
+ {
+  "code": 116951,
+  "name": "La Goulette",
+  "nameAr": "حلق الوادي"
+ },
+ {
+  "code": 116952,
+  "name": "La Goulette Casino",
+  "nameAr": "حلق الوادي كازينو"
+ },
+ {
+  "code": 116953,
+  "name": "Khéireddine",
+  "nameAr": "خير الدين"
+ },
+ {
+  "code": 116954,
+  "name": "Taîeb Mhiri",
+  "nameAr": "الطيب المهيري"
+ },
+ {
+  "code": 116955,
+  "name": "Cité Essalama",
+  "nameAr": "حي السالمة"
+ },
+ {
+  "code": 117051,
+  "name": "Le Kram Est",
+  "nameAr": "الكرم الشرقي"
+ },
+ {
+  "code": 117052,
+  "name": "Erriadh",
+  "nameAr": "الرياض"
+ },
+ {
+  "code": 117053,
+  "name": "El Bouhaïra",
+  "nameAr": "البحيرة"
+ },
+ {
+  "code": 117054,
+  "name": "Sidi Fredj",
+  "nameAr": "سيدي فرج"
+ },
+ {
+  "code": 117055,
+  "name": "Le Kram Ouest",
+  "nameAr": "الكرم الغربي"
+ },
+ {
+  "code": 117056,
+  "name": "Sidi Amor",
+  "nameAr": "سيدي عمر"
+ },
+ {
+  "code": 117057,
+  "name": "Bir El Helou",
+  "nameAr": "بئر الحلو"
+ },
+ {
+  "code": 117151,
+  "name": "La Marsa Plage",
+  "nameAr": "المرسى الشاطيء"
+ },
+ {
+  "code": 117152,
+  "name": "La Marsa Medina",
+  "nameAr": "المرسى المدينة"
+ },
+ {
+  "code": 117153,
+  "name": "La Marsa Hadayek",
+  "nameAr": "المرسى الحدائق"
+ },
+ {
+  "code": 117154,
+  "name": "La Marsa Erriadh",
+  "nameAr": "المرسى الرياض"
+ },
+ {
+  "code": 117155,
+  "name": "Er Rmila",
+  "nameAr": "الرميلة"
+ },
+ {
+  "code": 117156,
+  "name": "La Marsa El Montazeh",
+  "nameAr": "المرسى المنتزه"
+ },
+ {
+  "code": 117157,
+  "name": "Gammarth",
+  "nameAr": "قمرت"
+ },
+ {
+  "code": 117158,
+  "name": "Gammarth Supérieur",
+  "nameAr": "قمرت العليا"
+ },
+ {
+  "code": 117159,
+  "name": "Sidi Daoued",
+  "nameAr": "سيدي داود"
+ },
+ {
+  "code": 117160,
+  "name": "El Bahr El Azrak",
+  "nameAr": "البحر األزرق"
+ },
+ {
+  "code": 125151,
+  "name": "La nouvelle Ariana",
+  "nameAr": "اريانة الجديدة"
+ },
+ {
+  "code": 125152,
+  "name": "Ariana supérieur",
+  "nameAr": "أريانة العليا"
+ },
+ {
+  "code": 125153,
+  "name": "Ariana’L Ville",
+  "nameAr": "اريانة المدينة"
+ },
+ {
+  "code": 125154,
+  "name": "El Menzah V",
+  "nameAr": "المنزه الخامس"
+ },
+ {
+  "code": 125155,
+  "name": "El Menzah VI",
+  "nameAr": "المنزه السادس"
+ },
+ {
+  "code": 125156,
+  "name": "Etâamir",
+  "nameAr": "التعمير"
+ },
+ {
+  "code": 125157,
+  "name": "El Yasmina",
+  "nameAr": "الياسمينة"
+ },
+ {
+  "code": 51581,
+  "name": "Ennasr 1 12",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 51592,
+  "name": "Ennasr 2 12",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 125251,
+  "name": "Soukra",
+  "nameAr": "سكرة"
+ },
+ {
+  "code": 125252,
+  "name": "Dar Fadhal",
+  "nameAr": "دار فضال"
+ },
+ {
+  "code": 125253,
+  "name": "El Bessatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 125254,
+  "name": "Chotrana",
+  "nameAr": "شطرانة"
+ },
+ {
+  "code": 125255,
+  "name": "Borj El Ouzir",
+  "nameAr": "برج الوزير"
+ },
+ {
+  "code": 125256,
+  "name": "Ennasim",
+  "nameAr": "النسيم"
+ },
+ {
+  "code": 125257,
+  "name": "Ettaamir",
+  "nameAr": "التعمير"
+ },
+ {
+  "code": 125351,
+  "name": "Jaafer",
+  "nameAr": "جعفر"
+ },
+ {
+  "code": 125352,
+  "name": "Enkhilet",
+  "nameAr": "النخيالت"
+ },
+ {
+  "code": 125353,
+  "name": "El Medina El Fadhila",
+  "nameAr": "المدينة الفاضلة"
+ },
+ {
+  "code": 125354,
+  "name": "El Ghazala",
+  "nameAr": "الغزالة"
+ },
+ {
+  "code": 125355,
+  "name": "Raoued",
+  "nameAr": "ّرواد"
+ },
+ {
+  "code": 125356,
+  "name": "Bourj Ettouil",
+  "nameAr": "برج الطويل"
+ },
+ {
+  "code": 125357,
+  "name": "Sidi Amor Bou Khtioua",
+  "nameAr": "سيدي عمر بوخطيوة"
+ },
+ {
+  "code": 125451,
+  "name": "Kalaat El Andalous Est",
+  "nameAr": "قلعة االندلس الشرقية"
+ },
+ {
+  "code": 125452,
+  "name": "Kalaat El Andalous Ouest",
+  "nameAr": "قلعة االندلس الغربية"
+ },
+ {
+  "code": 125453,
+  "name": "Pont de Bizerte",
+  "nameAr": "قنطرة بنزرت"
+ },
+ {
+  "code": 125454,
+  "name": "Bou Hanach",
+  "nameAr": "بوحنش"
+ },
+ {
+  "code": 125455,
+  "name": "El Hessiane",
+  "nameAr": "الحسيان"
+ },
+ {
+  "code": 125456,
+  "name": "Ennahli",
+  "nameAr": "النحلي"
+ },
+ {
+  "code": 125551,
+  "name": "Sidi Thabet",
+  "nameAr": "سيدي ثابت"
+ },
+ {
+  "code": 125552,
+  "name": "Bejaoua",
+  "nameAr": "بجاوة"
+ },
+ {
+  "code": 125553,
+  "name": "Mongi Slim",
+  "nameAr": "المنجي سليم"
+ },
+ {
+  "code": 125554,
+  "name": "Cebalet Ben Ammar",
+  "nameAr": "سبالة بن عمار"
+ },
+ {
+  "code": 125555,
+  "name": "Chorfech",
+  "nameAr": "شرفش"
+ },
+ {
+  "code": 125651,
+  "name": "Cité Ettadhamen",
+  "nameAr": "حي التضامن"
+ },
+ {
+  "code": 125652,
+  "name": "Ibn khaldoun",
+  "nameAr": "ابن خلدون"
+ },
+ {
+  "code": 125656,
+  "name": "Mongi Slim",
+  "nameAr": "منجي سليم"
+ },
+ {
+  "code": 125658,
+  "name": "Abulkassem Ech Chebbi",
+  "nameAr": "ابو القاسم الشابي"
+ },
+ {
+  "code": 125659,
+  "name": "Khaireddine Pacha",
+  "nameAr": "خير الدين باشا"
+ },
+ {
+  "code": 125751,
+  "name": "El Mnihla",
+  "nameAr": "المنيهلة"
+ },
+ {
+  "code": 125752,
+  "name": "Errafaha",
+  "nameAr": "الرفاهة"
+ },
+ {
+  "code": 125753,
+  "name": "En Nasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 125754,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 135151,
+  "name": "Ben Arous Est",
+  "nameAr": "بن عروس الشرقية"
+ },
+ {
+  "code": 135152,
+  "name": "Cité Ibn Arafa",
+  "nameAr": "حي ابن عرفة"
+ },
+ {
+  "code": 135153,
+  "name": "El Mehiri",
+  "nameAr": "المهيري"
+ },
+ {
+  "code": 135154,
+  "name": "Ben Arous Ouest",
+  "nameAr": "بن عروس الغربية"
+ },
+ {
+  "code": 135155,
+  "name": "Sidi Ben Arous",
+  "nameAr": "سيدي بن عروس"
+ },
+ {
+  "code": 135156,
+  "name": "Cité El Iskane",
+  "nameAr": "حي االسكان"
+ },
+ {
+  "code": 135253,
+  "name": "Sidi Mosbah",
+  "nameAr": "سيدي مصباح"
+ },
+ {
+  "code": 135254,
+  "name": "El Yasminet",
+  "nameAr": "الياسمينات"
+ },
+ {
+  "code": 135255,
+  "name": "Errabta",
+  "nameAr": "الرابطة"
+ },
+ {
+  "code": 135355,
+  "name": "Bir Kassaa",
+  "nameAr": "بئر القصعة"
+ },
+ {
+  "code": 135356,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 135451,
+  "name": "Hammam Lif Ville",
+  "nameAr": "حمام االنف المدينة"
+ },
+ {
+  "code": 54522,
+  "name": "Hammem Lif Ville 2 13",
+  "nameAr": "حمام االنف المدينة"
+ },
+ {
+  "code": 135453,
+  "name": "Hammem Lif Bou Kornine",
+  "nameAr": "حمام االنف بوقرنين"
+ },
+ {
+  "code": 135454,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 135455,
+  "name": "Hammam Lif El Malaab",
+  "nameAr": "حمام االنف الملعب"
+ },
+ {
+  "code": 135456,
+  "name": "Cité Mohamed Ali",
+  "nameAr": "حي محمد علي"
+ },
+ {
+  "code": 135551,
+  "name": "Bir El Bey",
+  "nameAr": "بئر الباي"
+ },
+ {
+  "code": 135552,
+  "name": "Borj Cedria",
+  "nameAr": "برج السدرية"
+ },
+ {
+  "code": 135553,
+  "name": "Hammem Chatt",
+  "nameAr": "حمام الشط"
+ },
+ {
+  "code": 135651,
+  "name": "Bou Mhel",
+  "nameAr": "بومهل"
+ },
+ {
+  "code": 135652,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 135653,
+  "name": "Chêla",
+  "nameAr": "شالة"
+ },
+ {
+  "code": 135654,
+  "name": "El Bassatine Ouest",
+  "nameAr": "البساتين الغربية"
+ },
+ {
+  "code": 135751,
+  "name": "Ez Zahra Ville",
+  "nameAr": "الزهراء المدينة"
+ },
+ {
+  "code": 135752,
+  "name": "Cité El Habib",
+  "nameAr": "حي الحبيب"
+ },
+ {
+  "code": 135754,
+  "name": "Borj El Louzir",
+  "nameAr": "برج الوزير"
+ },
+ {
+  "code": 135851,
+  "name": "Rades Ville",
+  "nameAr": "رادس المدينة"
+ },
+ {
+  "code": 135852,
+  "name": "Rades Mellaha",
+  "nameAr": "رادس المالحة"
+ },
+ {
+  "code": 135853,
+  "name": "Taieb Mehiri",
+  "nameAr": "الطيب المهيري"
+ },
+ {
+  "code": 135854,
+  "name": "Rades Remada",
+  "nameAr": "رادس رمادة"
+ },
+ {
+  "code": 135855,
+  "name": "Mongi Slim",
+  "nameAr": "المنجي سليم"
+ },
+ {
+  "code": 135856,
+  "name": "Rades Foret",
+  "nameAr": "رادس الغابة"
+ },
+ {
+  "code": 135857,
+  "name": "Rades Meliane",
+  "nameAr": "رادس مليان"
+ },
+ {
+  "code": 135858,
+  "name": "Noubou",
+  "nameAr": "نوبو"
+ },
+ {
+  "code": 135951,
+  "name": "Megrine Superieure",
+  "nameAr": "مقرين العليا"
+ },
+ {
+  "code": 135952,
+  "name": "Megrine Riadh",
+  "nameAr": "مقرين الرياض"
+ },
+ {
+  "code": 135953,
+  "name": "Jawhara",
+  "nameAr": "جوهرة"
+ },
+ {
+  "code": 135954,
+  "name": "Menzel Mabrouk",
+  "nameAr": "منزل مبروك"
+ },
+ {
+  "code": 135955,
+  "name": "Megrine Chaker",
+  "nameAr": "مقرين شاكر"
+ },
+ {
+  "code": 135957,
+  "name": "Sidi Rezig",
+  "nameAr": "سيدي رزيق"
+ },
+ {
+  "code": 136051,
+  "name": "Mohamedia",
+  "nameAr": "المحمدية"
+ },
+ {
+  "code": 136052,
+  "name": "Mongi Selim",
+  "nameAr": "المنجي سليم"
+ },
+ {
+  "code": 136053,
+  "name": "Cité Es Saada",
+  "nameAr": "حي السعادة"
+ },
+ {
+  "code": 136054,
+  "name": "Cité El Nassim",
+  "nameAr": "حي النسيم"
+ },
+ {
+  "code": 136055,
+  "name": "Sidi Frej",
+  "nameAr": "سيدي فرج"
+ },
+ {
+  "code": 136151,
+  "name": "Fouchana",
+  "nameAr": "فوشانة"
+ },
+ {
+  "code": 136152,
+  "name": "Cité El Mostakbel",
+  "nameAr": "حي المستقبل"
+ },
+ {
+  "code": 136153,
+  "name": "El Hidhab",
+  "nameAr": "الهضاب"
+ },
+ {
+  "code": 136154,
+  "name": "El Moghira",
+  "nameAr": "المغيرة"
+ },
+ {
+  "code": 136155,
+  "name": "Nâassen",
+  "nameAr": "نعسان"
+ },
+ {
+  "code": 136156,
+  "name": "Chebeda",
+  "nameAr": "ّشبدة"
+ },
+ {
+  "code": 136157,
+  "name": "Douar ElHouch",
+  "nameAr": "دوار الحوش"
+ },
+ {
+  "code": 136251,
+  "name": "Mornag",
+  "nameAr": "مرناق"
+ },
+ {
+  "code": 136252,
+  "name": "Mornag Ouest",
+  "nameAr": "مرناق الغربية"
+ },
+ {
+  "code": 136253,
+  "name": "Khelidia",
+  "nameAr": "الخليلدية"
+ },
+ {
+  "code": 136254,
+  "name": "Ez Zaouia",
+  "nameAr": "الزاوية"
+ },
+ {
+  "code": 136255,
+  "name": "Djebel Ressas",
+  "nameAr": "جبل الرصاص"
+ },
+ {
+  "code": 136256,
+  "name": "Sidi Salem El Garsi",
+  "nameAr": "سيدي سالم القارصي"
+ },
+ {
+  "code": 136257,
+  "name": "Kabouti",
+  "nameAr": "الكبوطي"
+ },
+ {
+  "code": 136258,
+  "name": "Ain Rekad",
+  "nameAr": "عين رقاد"
+ },
+ {
+  "code": 136259,
+  "name": "El Gounna",
+  "nameAr": "القنة"
+ },
+ {
+  "code": 136260,
+  "name": "Sidi Saad",
+  "nameAr": "سيدي سعد"
+ },
+ {
+  "code": 136261,
+  "name": "Essalem",
+  "nameAr": "السالم"
+ },
+ {
+  "code": 136262,
+  "name": "Errisala",
+  "nameAr": "الرسالة"
+ },
+ {
+  "code": 136263,
+  "name": "Oudna",
+  "nameAr": "أوذنة"
+ },
+ {
+  "code": 136264,
+  "name": "El Kessibi",
+  "nameAr": "القصيبي"
+ },
+ {
+  "code": 145151,
+  "name": "Manouba",
+  "nameAr": "منوبة"
+ },
+ {
+  "code": 145152,
+  "name": "Manouba Centre",
+  "nameAr": "منوبة الوسطى"
+ },
+ {
+  "code": 145153,
+  "name": "Sidi Amor",
+  "nameAr": "سيدي عمر"
+ },
+ {
+  "code": 145154,
+  "name": "Den  Den",
+  "nameAr": "الدندان"
+ },
+ {
+  "code": 145155,
+  "name": "Ksar   Said",
+  "nameAr": "قصر سعيد"
+ },
+ {
+  "code": 145156,
+  "name": "Den   Den Sud",
+  "nameAr": "الدندان الجنوبي"
+ },
+ {
+  "code": 145251,
+  "name": "Douar Hicher",
+  "nameAr": "دوار هيشر"
+ },
+ {
+  "code": 145252,
+  "name": "Khaled Ibn El Oualid",
+  "nameAr": "خالد بن الوليد"
+ },
+ {
+  "code": 145253,
+  "name": "Cité Er  Riadh",
+  "nameAr": "حي الرياض"
+ },
+ {
+  "code": 145254,
+  "name": "Cité Ennassim",
+  "nameAr": "حي النسيم"
+ },
+ {
+  "code": 145255,
+  "name": "Cité Ech   Chabeb",
+  "nameAr": "حي الشباب"
+ },
+ {
+  "code": 145351,
+  "name": "Oued Ellil",
+  "nameAr": "وادي الليل"
+ },
+ {
+  "code": 145352,
+  "name": "Es Saida",
+  "nameAr": "السعيدة"
+ },
+ {
+  "code": 145353,
+  "name": "Er Riadh",
+  "nameAr": "الرياض"
+ },
+ {
+  "code": 145354,
+  "name": "Cité El Ouerd",
+  "nameAr": "حي الورد"
+ },
+ {
+  "code": 145355,
+  "name": "Ennajet",
+  "nameAr": "النجاة"
+ },
+ {
+  "code": 145356,
+  "name": "Sanhaja",
+  "nameAr": "صنهاجة"
+ },
+ {
+  "code": 145357,
+  "name": "El Kobbâa",
+  "nameAr": "القباعة"
+ },
+ {
+  "code": 145451,
+  "name": "Mornaguia",
+  "nameAr": "المرناقية"
+ },
+ {
+  "code": 145453,
+  "name": "Bouragba",
+  "nameAr": "بورقبة"
+ },
+ {
+  "code": 145454,
+  "name": "El Fejja",
+  "nameAr": "الفجة"
+ },
+ {
+  "code": 145455,
+  "name": "Sidi Ali El Hattab",
+  "nameAr": "سيدي علي الحطاب"
+ },
+ {
+  "code": 145456,
+  "name": "HmaÏem",
+  "nameAr": "حميم"
+ },
+ {
+  "code": 145457,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 145458,
+  "name": "Mornaguia Nord",
+  "nameAr": "المرناقية الشمالية"
+ },
+ {
+  "code": 145551,
+  "name": "Borj El Amri",
+  "nameAr": "برج العامري"
+ },
+ {
+  "code": 145552,
+  "name": "Menzel Habib",
+  "nameAr": "منزل الحبيب"
+ },
+ {
+  "code": 145553,
+  "name": "Borj Ennour",
+  "nameAr": "برج النور"
+ },
+ {
+  "code": 145554,
+  "name": "El Moussadine",
+  "nameAr": "المساعدين"
+ },
+ {
+  "code": 145651,
+  "name": "Djedaïda",
+  "nameAr": "الجديدة"
+ },
+ {
+  "code": 145652,
+  "name": "Djedaïda Hached",
+  "nameAr": "الجديدة حشاد"
+ },
+ {
+  "code": 145653,
+  "name": "Chaouat",
+  "nameAr": "شواط"
+ },
+ {
+  "code": 145654,
+  "name": "El Mansoura",
+  "nameAr": "المنصورة"
+ },
+ {
+  "code": 145655,
+  "name": "Ez   Zahra",
+  "nameAr": "الزاهرة"
+ },
+ {
+  "code": 145656,
+  "name": "El Habibia",
+  "nameAr": "الحبيبية"
+ },
+ {
+  "code": 145751,
+  "name": "Tebourba",
+  "nameAr": "طبربة"
+ },
+ {
+  "code": 145752,
+  "name": "El Ansarine",
+  "nameAr": "االنصارين"
+ },
+ {
+  "code": 145753,
+  "name": "Edkhila",
+  "nameAr": "الدخيلة"
+ },
+ {
+  "code": 145754,
+  "name": "El Mellaha",
+  "nameAr": "المالحة"
+ },
+ {
+  "code": 145755,
+  "name": "Banlieue de Tebourba",
+  "nameAr": "أحواز طبربة"
+ },
+ {
+  "code": 145756,
+  "name": "Er   Raja",
+  "nameAr": "الرجاء"
+ },
+ {
+  "code": 145757,
+  "name": "Ech   Chouigui",
+  "nameAr": "الشويقي"
+ },
+ {
+  "code": 145851,
+  "name": "El Battane",
+  "nameAr": "البطان"
+ },
+ {
+  "code": 145852,
+  "name": "Borj Ettoumi",
+  "nameAr": "برج التومي"
+ },
+ {
+  "code": 145853,
+  "name": "Mehrine",
+  "nameAr": "المهرين"
+ },
+ {
+  "code": 145854,
+  "name": "El Aroussia",
+  "nameAr": "العروسية"
+ },
+ {
+  "code": 155151,
+  "name": "El Asouak",
+  "nameAr": "األسواق"
+ },
+ {
+  "code": 155152,
+  "name": "Ennour",
+  "nameAr": "النور"
+ },
+ {
+  "code": 155153,
+  "name": "Bir Challouf",
+  "nameAr": "بئر شلوف"
+ },
+ {
+  "code": 155154,
+  "name": "Niapolis",
+  "nameAr": "نيابوليس"
+ },
+ {
+  "code": 155155,
+  "name": "El Hadayek",
+  "nameAr": "الحدائق"
+ },
+ {
+  "code": 155156,
+  "name": "Hedi Chaker",
+  "nameAr": "الهادي شاكر"
+ },
+ {
+  "code": 155251,
+  "name": "Dar Châabane",
+  "nameAr": "دار شعبان"
+ },
+ {
+  "code": 155252,
+  "name": "El Fehri",
+  "nameAr": "الفهري"
+ },
+ {
+  "code": 155253,
+  "name": "El Frinine",
+  "nameAr": "الفرينين"
+ },
+ {
+  "code": 155254,
+  "name": "Amroun",
+  "nameAr": "عمرون"
+ },
+ {
+  "code": 155351,
+  "name": "Beni Khiar",
+  "nameAr": "بني خيار"
+ },
+ {
+  "code": 155352,
+  "name": "Diar Ben Salem",
+  "nameAr": "ديار بن سالم"
+ },
+ {
+  "code": 155353,
+  "name": "El Mâamoura",
+  "nameAr": "المعمورة"
+ },
+ {
+  "code": 155354,
+  "name": "Somâa",
+  "nameAr": "الصمعة"
+ },
+ {
+  "code": 155355,
+  "name": "Halfa",
+  "nameAr": "حلفاء"
+ },
+ {
+  "code": 155451,
+  "name": "Beni Ayache",
+  "nameAr": "بني عياش"
+ },
+ {
+  "code": 155452,
+  "name": "Garâet Sassi",
+  "nameAr": "قرعة ساسي"
+ },
+ {
+  "code": 155453,
+  "name": "Diar El Hojaj",
+  "nameAr": "ديار الحجاج"
+ },
+ {
+  "code": 155454,
+  "name": "Korba Est",
+  "nameAr": "قربة الشرقية"
+ },
+ {
+  "code": 155455,
+  "name": "Korba Ouest",
+  "nameAr": "قربة الغربية"
+ },
+ {
+  "code": 155456,
+  "name": "Tazerka",
+  "nameAr": "تازركة"
+ },
+ {
+  "code": 155457,
+  "name": "Bou   Jerida",
+  "nameAr": "بوجريدة"
+ },
+ {
+  "code": 155458,
+  "name": "Boulidine",
+  "nameAr": "بولدين"
+ },
+ {
+  "code": 155551,
+  "name": "El Ouediane",
+  "nameAr": "الوديان"
+ },
+ {
+  "code": 155552,
+  "name": "Erâinine",
+  "nameAr": "الرعينين"
+ },
+ {
+  "code": 155553,
+  "name": "Beni Abdelaziz",
+  "nameAr": "بني عبد العزيز"
+ },
+ {
+  "code": 155554,
+  "name": "Skalba",
+  "nameAr": "الصقالبة"
+ },
+ {
+  "code": 155555,
+  "name": "Ali Belhaouene",
+  "nameAr": "علي البلهوان"
+ },
+ {
+  "code": 155556,
+  "name": "Taieb Mehiri",
+  "nameAr": "الطيب المهيري"
+ },
+ {
+  "code": 155557,
+  "name": "Menzel Horr",
+  "nameAr": "منزل حر"
+ },
+ {
+  "code": 155558,
+  "name": "El Asfour",
+  "nameAr": "عصفور"
+ },
+ {
+  "code": 155559,
+  "name": "Lezdine",
+  "nameAr": "لزيدين"
+ },
+ {
+  "code": 155651,
+  "name": "Tafelloum",
+  "nameAr": "تافلون"
+ },
+ {
+  "code": 155652,
+  "name": "El Mida",
+  "nameAr": "الميدة"
+ },
+ {
+  "code": 155653,
+  "name": "Fartouna",
+  "nameAr": "فرتونة"
+ },
+ {
+  "code": 155654,
+  "name": "Oum Dhouil",
+  "nameAr": "أم ذويل"
+ },
+ {
+  "code": 155655,
+  "name": "Lebna",
+  "nameAr": "لبنة"
+ },
+ {
+  "code": 155656,
+  "name": "Korchine",
+  "nameAr": "القرشيين"
+ },
+ {
+  "code": 155751,
+  "name": "Oued EL Khatf",
+  "nameAr": "وادي الخطف"
+ },
+ {
+  "code": 155752,
+  "name": "Melloul",
+  "nameAr": "ملول"
+ },
+ {
+  "code": 155753,
+  "name": "Azmour",
+  "nameAr": "أزمور"
+ },
+ {
+  "code": 155754,
+  "name": "Kelibia Est",
+  "nameAr": "قليبية الشرقية"
+ },
+ {
+  "code": 155755,
+  "name": "Kelibia Ouest",
+  "nameAr": "قليبية الغربية"
+ },
+ {
+  "code": 155851,
+  "name": "Hammam El guezaz",
+  "nameAr": "حمام الغزاز"
+ },
+ {
+  "code": 155852,
+  "name": "Dar Allouch",
+  "nameAr": "دار علوش"
+ },
+ {
+  "code": 155853,
+  "name": "Harat Ech  Choara",
+  "nameAr": "حارة الشعراء"
+ },
+ {
+  "code": 155854,
+  "name": "Ouezdra",
+  "nameAr": "وزدرة"
+ },
+ {
+  "code": 155951,
+  "name": "El Haouaria Nord",
+  "nameAr": "الهوارية الجوفية"
+ },
+ {
+  "code": 155952,
+  "name": "El Haouaria Sud",
+  "nameAr": "الهوارية القبلية"
+ },
+ {
+  "code": 155953,
+  "name": "Saheb El Jebel Nord",
+  "nameAr": "صاحب الجبل الشمالية"
+ },
+ {
+  "code": 155954,
+  "name": "Saheb El Jebel Sud",
+  "nameAr": "صاحب الجبل القبلية"
+ },
+ {
+  "code": 155955,
+  "name": "Bou Krim",
+  "nameAr": "بوكريم"
+ },
+ {
+  "code": 155956,
+  "name": "Tazaghrane Est",
+  "nameAr": "تزغران الشرقية"
+ },
+ {
+  "code": 155957,
+  "name": "Tazaghrane Ouest",
+  "nameAr": "تزغران الغربية"
+ },
+ {
+  "code": 155958,
+  "name": "Zaouiet El Megaiez",
+  "nameAr": "زاوية المقايز"
+ },
+ {
+  "code": 156051,
+  "name": "Oued El Abid",
+  "nameAr": "وادي العبيد"
+ },
+ {
+  "code": 156052,
+  "name": "Bir Ezzit",
+  "nameAr": "بئر الزيت"
+ },
+ {
+  "code": 156053,
+  "name": "El Arima",
+  "nameAr": "العريمة"
+ },
+ {
+  "code": 156054,
+  "name": "Takelsa Nord",
+  "nameAr": "تاكلسة الجوفية"
+ },
+ {
+  "code": 156055,
+  "name": "Takelsa Centre",
+  "nameAr": "تاكلسة الوسطى"
+ },
+ {
+  "code": 156151,
+  "name": "El Mraissa",
+  "nameAr": "المريسة"
+ },
+ {
+  "code": 156152,
+  "name": "ECH Cherifet",
+  "nameAr": "الشريفات"
+ },
+ {
+  "code": 156153,
+  "name": "Bou Charray",
+  "nameAr": "بوشراي"
+ },
+ {
+  "code": 156154,
+  "name": "Soliman",
+  "nameAr": "سليمان"
+ },
+ {
+  "code": 156155,
+  "name": "Soliman Sud",
+  "nameAr": "سليمان الجنوبية"
+ },
+ {
+  "code": 156251,
+  "name": "Damous El Hajja",
+  "nameAr": "داموس الحاجة"
+ },
+ {
+  "code": 156252,
+  "name": "Errahma",
+  "nameAr": "الرحمة"
+ },
+ {
+  "code": 156253,
+  "name": "Menzel Bou Zelfa Nord",
+  "nameAr": "منزل بوزلفة الجوفية"
+ },
+ {
+  "code": 156254,
+  "name": "Menzel Bou Zelfa Sud",
+  "nameAr": "منزل بوزلفة القبلية"
+ },
+ {
+  "code": 156255,
+  "name": "Menzel Bou Zelfa Ouest",
+  "nameAr": "منزل بوزلفة الغربية"
+ },
+ {
+  "code": 156351,
+  "name": "Beni Khalled Nord",
+  "nameAr": "بني خالد الجوفية"
+ },
+ {
+  "code": 156352,
+  "name": "Beni Khalled (Sud Toumi )",
+  "nameAr": "بني خالد القبلية ) تومي("
+ },
+ {
+  "code": 156353,
+  "name": "Zaouiet Djedidi",
+  "nameAr": "زاوية الجديدي"
+ },
+ {
+  "code": 156354,
+  "name": "Kobba El Kebira",
+  "nameAr": "القبة الكبيرة"
+ },
+ {
+  "code": 156355,
+  "name": "Bir Drassen",
+  "nameAr": "بئر دراسن"
+ },
+ {
+  "code": 156356,
+  "name": "Béni khalled Est",
+  "nameAr": "بني خالد الشرقية"
+ },
+ {
+  "code": 156451,
+  "name": "Fondouk Djedid",
+  "nameAr": "فندق الجديد"
+ },
+ {
+  "code": 156452,
+  "name": "Chammes",
+  "nameAr": "شماس"
+ },
+ {
+  "code": 156453,
+  "name": "Nianou",
+  "nameAr": "نيانو"
+ },
+ {
+  "code": 156454,
+  "name": "Turki",
+  "nameAr": "تركي"
+ },
+ {
+  "code": 156455,
+  "name": "Khanguet EL Hojjej",
+  "nameAr": "خنقة الحجاج"
+ },
+ {
+  "code": 156456,
+  "name": "Grombalia Est",
+  "nameAr": "قرنبالية الشرقية"
+ },
+ {
+  "code": 156457,
+  "name": "Grombalia Ouest",
+  "nameAr": "قرنبالية الغربية"
+ },
+ {
+  "code": 156458,
+  "name": "Djebel Terif",
+  "nameAr": "جبل طريف"
+ },
+ {
+  "code": 156459,
+  "name": "Aïn Tebournouk",
+  "nameAr": "عين طبرنق"
+ },
+ {
+  "code": 156551,
+  "name": "Sidi Dhaher",
+  "nameAr": "سيدي الظاهر"
+ },
+ {
+  "code": 156552,
+  "name": "El Machrouha",
+  "nameAr": "المشروحة"
+ },
+ {
+  "code": 156553,
+  "name": "Borj Hefaied",
+  "nameAr": "برج حفيظ"
+ },
+ {
+  "code": 156554,
+  "name": "Bou Argoub Nord",
+  "nameAr": "بوعرقوب الجوفية"
+ },
+ {
+  "code": 156555,
+  "name": "Bou Argoub Sud",
+  "nameAr": "بوعرقوب القبلية"
+ },
+ {
+  "code": 156556,
+  "name": "Belli",
+  "nameAr": "بلي"
+ },
+ {
+  "code": 156557,
+  "name": "El Kharrouba",
+  "nameAr": "الخروبة"
+ },
+ {
+  "code": 156651,
+  "name": "Sidi Djedidi",
+  "nameAr": "سيدي الجديدي"
+ },
+ {
+  "code": 156652,
+  "name": "Latrach",
+  "nameAr": "األطرش"
+ },
+ {
+  "code": 156653,
+  "name": "Bir Bou Regba",
+  "nameAr": "بئر بورقبة"
+ },
+ {
+  "code": 156654,
+  "name": "Baraket Es Sahel",
+  "nameAr": "براكة الساحل"
+ },
+ {
+  "code": 156655,
+  "name": "Hammamet Nord",
+  "nameAr": "الحمامات الجوفية"
+ },
+ {
+  "code": 156656,
+  "name": "Hammamet Est",
+  "nameAr": "الحمامات الشرقية"
+ },
+ {
+  "code": 156657,
+  "name": "Hammamet Ouest",
+  "nameAr": "الحمامات الغربية"
+ },
+ {
+  "code": 156658,
+  "name": "Mrezga",
+  "nameAr": "المرازقة"
+ },
+ {
+  "code": 156659,
+  "name": "Ysmine hammemet",
+  "nameAr": "ياسمين الحمامات"
+ },
+ {
+  "code": 165151,
+  "name": "Zaghouan Ville",
+  "nameAr": "زغوان المدينة"
+ },
+ {
+  "code": 165152,
+  "name": "Zaghouan Nord",
+  "nameAr": "زغوان الشمالية"
+ },
+ {
+  "code": 165153,
+  "name": "Zaghouan Sud",
+  "nameAr": "زغوان الجنوبية"
+ },
+ {
+  "code": 165154,
+  "name": "Bir Halima",
+  "nameAr": "بئر حليمة"
+ },
+ {
+  "code": 165155,
+  "name": "Mograne",
+  "nameAr": "مقرن"
+ },
+ {
+  "code": 165156,
+  "name": "Jimla",
+  "nameAr": "جيملة"
+ },
+ {
+  "code": 165157,
+  "name": "El Aïtha",
+  "nameAr": "العيثة"
+ },
+ {
+  "code": 165158,
+  "name": "Oued Erremel",
+  "nameAr": "وادي الرمل"
+ },
+ {
+  "code": 165159,
+  "name": "Oued Ezzit",
+  "nameAr": "وادي الزيت"
+ },
+ {
+  "code": 165251,
+  "name": "El Jouf Est",
+  "nameAr": "الجوف الشرقية"
+ },
+ {
+  "code": 165252,
+  "name": "El Jouf Ouest",
+  "nameAr": "الجوف الغربية"
+ },
+ {
+  "code": 165253,
+  "name": "Ez Zeriba Hammam Sud",
+  "nameAr": "الزريبة الحمام الجنوبية"
+ },
+ {
+  "code": 165254,
+  "name": "Ez Zriba Hammam Nord",
+  "nameAr": "الزريبة الحمام الشمالية"
+ },
+ {
+  "code": 165255,
+  "name": "Ez Zeriba Village",
+  "nameAr": "الزريبة القرية"
+ },
+ {
+  "code": 165256,
+  "name": "Bou Achir",
+  "nameAr": "بوعشير"
+ },
+ {
+  "code": 165257,
+  "name": "Jeradou",
+  "nameAr": "جرادو"
+ },
+ {
+  "code": 165258,
+  "name": "Aïn El Batria",
+  "nameAr": "عين الباطريية"
+ },
+ {
+  "code": 165351,
+  "name": "Bir chergua’M",
+  "nameAr": "بئر مشارقة"
+ },
+ {
+  "code": 165352,
+  "name": "Bir chergua’M Gare",
+  "nameAr": "بئر مشارقة المحطة"
+ },
+ {
+  "code": 165353,
+  "name": "Daleïl El Arous",
+  "nameAr": "دالئل العروس"
+ },
+ {
+  "code": 165354,
+  "name": "Smenja",
+  "nameAr": "سمنجة"
+ },
+ {
+  "code": 165355,
+  "name": "jebel Oust",
+  "nameAr": "جبل الوسط"
+ },
+ {
+  "code": 165356,
+  "name": "Aïn Essafsaf",
+  "nameAr": "عين الصفصاف"
+ },
+ {
+  "code": 165357,
+  "name": "Boucha",
+  "nameAr": "بوشة"
+ },
+ {
+  "code": 165358,
+  "name": "Aïn Asker",
+  "nameAr": "عين عسكر"
+ },
+ {
+  "code": 165451,
+  "name": "Banlieu el’D Fahs",
+  "nameAr": "أحواز الفحص"
+ },
+ {
+  "code": 165452,
+  "name": "Jouguar",
+  "nameAr": "جوقار"
+ },
+ {
+  "code": 165453,
+  "name": "Bir Magra",
+  "nameAr": "بئر مقرة"
+ },
+ {
+  "code": 165454,
+  "name": "Oum El Abouab",
+  "nameAr": "أم األبواب"
+ },
+ {
+  "code": 165455,
+  "name": "Ouled Ezzouabi",
+  "nameAr": "أوالد الزوابي"
+ },
+ {
+  "code": 165456,
+  "name": "El Fahs",
+  "nameAr": "الفحص"
+ },
+ {
+  "code": 165457,
+  "name": "Ed Droua",
+  "nameAr": "الدروع"
+ },
+ {
+  "code": 165458,
+  "name": "El Ghrifet",
+  "nameAr": "الغريفات"
+ },
+ {
+  "code": 165459,
+  "name": "Bent Saïdane",
+  "nameAr": "بنت سعيدان"
+ },
+ {
+  "code": 165460,
+  "name": "El Amiem Nord",
+  "nameAr": "العمايم الشمالية"
+ },
+ {
+  "code": 165461,
+  "name": "El Amiem Sud",
+  "nameAr": "العمايم الجنوبية"
+ },
+ {
+  "code": 165462,
+  "name": "Oued El Khadhra",
+  "nameAr": "وادي الخضراء"
+ },
+ {
+  "code": 165463,
+  "name": "Telil Essalhi",
+  "nameAr": "تليل الصالحي"
+ },
+ {
+  "code": 165551,
+  "name": "En Nadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 165552,
+  "name": "Aïn El Batthoum",
+  "nameAr": "عين البطوم"
+ },
+ {
+  "code": 165553,
+  "name": "Saouar",
+  "nameAr": "صوار"
+ },
+ {
+  "code": 165554,
+  "name": "Bir Chaouch",
+  "nameAr": "بئر الشاوش"
+ },
+ {
+  "code": 165555,
+  "name": "Sougas",
+  "nameAr": "سوغاس"
+ },
+ {
+  "code": 165651,
+  "name": "Saouef Est",
+  "nameAr": "صواف الشرقية"
+ },
+ {
+  "code": 165652,
+  "name": "Saouef Ouest",
+  "nameAr": "صواف الغربية"
+ },
+ {
+  "code": 165653,
+  "name": "El Hamira",
+  "nameAr": "الحميرة"
+ },
+ {
+  "code": 165654,
+  "name": "Deghafla Est",
+  "nameAr": "الدغافلة الشرقية"
+ },
+ {
+  "code": 165655,
+  "name": "Deghafla Ouest",
+  "nameAr": "الدغافلة الغربية"
+ },
+ {
+  "code": 175151,
+  "name": "Hassen Nouri",
+  "nameAr": "حسن النوري"
+ },
+ {
+  "code": 175152,
+  "name": "Habib Bouguatfa",
+  "nameAr": "الحبيب بوقطفة"
+ },
+ {
+  "code": 175153,
+  "name": "El Korniche",
+  "nameAr": "الكرنيش"
+ },
+ {
+  "code": 175154,
+  "name": "La Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 175155,
+  "name": "Cheik Driss",
+  "nameAr": "الشيخ إدريس"
+ },
+ {
+  "code": 175156,
+  "name": "EL Canal",
+  "nameAr": "القنال"
+ },
+ {
+  "code": 175157,
+  "name": "Bou Baker Bakir",
+  "nameAr": "بوبكر باكير"
+ },
+ {
+  "code": 175158,
+  "name": "Aïn Mariam",
+  "nameAr": "عين مريم"
+ },
+ {
+  "code": 175159,
+  "name": "Habib Haddad",
+  "nameAr": "الحبيب الحداد"
+ },
+ {
+  "code": 175160,
+  "name": "El Môtamar",
+  "nameAr": "المؤتمر"
+ },
+ {
+  "code": 175161,
+  "name": "El Hana",
+  "nameAr": "الهناء"
+ },
+ {
+  "code": 175163,
+  "name": "ile’L de la Gualite",
+  "nameAr": "جزيرة جالطة"
+ },
+ {
+  "code": 175251,
+  "name": "Zarzouna Ouest",
+  "nameAr": "جرزونة الغربية"
+ },
+ {
+  "code": 175252,
+  "name": "Zarzouna Est",
+  "nameAr": "جرزونة الشرقية"
+ },
+ {
+  "code": 175253,
+  "name": "Zarzouna Nord",
+  "nameAr": "جرزونة الشمالية"
+ },
+ {
+  "code": 175254,
+  "name": "Zarzouna Sud",
+  "nameAr": "جرزونة الجنوبية"
+ },
+ {
+  "code": 175351,
+  "name": "Teskraia",
+  "nameAr": "تسكراية"
+ },
+ {
+  "code": 175352,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 175353,
+  "name": "Marnissa",
+  "nameAr": "مرنيصة"
+ },
+ {
+  "code": 175354,
+  "name": "Hicher",
+  "nameAr": "هيشر"
+ },
+ {
+  "code": 175355,
+  "name": "Sidi Ameur",
+  "nameAr": "سيدي عامر"
+ },
+ {
+  "code": 175356,
+  "name": "Louata",
+  "nameAr": "اللواتة"
+ },
+ {
+  "code": 175357,
+  "name": "Bab Mateur",
+  "nameAr": "باب ماطر"
+ },
+ {
+  "code": 175358,
+  "name": "Cité El Jala",
+  "nameAr": "حي الجالء"
+ },
+ {
+  "code": 175359,
+  "name": "El Massida",
+  "nameAr": "المصيدة"
+ },
+ {
+  "code": 175360,
+  "name": "Sidi Ahmed",
+  "nameAr": "سيدي أحمد"
+ },
+ {
+  "code": 175451,
+  "name": "Sedjnane",
+  "nameAr": "سجنان"
+ },
+ {
+  "code": 175452,
+  "name": "EL Mâalia",
+  "nameAr": "المعالية"
+ },
+ {
+  "code": 175453,
+  "name": "El Ababssa",
+  "nameAr": "العبابسة"
+ },
+ {
+  "code": 175454,
+  "name": "El Hachachna",
+  "nameAr": "الحشاشنة"
+ },
+ {
+  "code": 175455,
+  "name": "Sehabna",
+  "nameAr": "السحابنة"
+ },
+ {
+  "code": 175456,
+  "name": "Sidi Mechrek",
+  "nameAr": "سيدي مشرق"
+ },
+ {
+  "code": 175457,
+  "name": "Amaden",
+  "nameAr": "أمادن"
+ },
+ {
+  "code": 175458,
+  "name": "Mechargua",
+  "nameAr": "المشارقة"
+ },
+ {
+  "code": 175551,
+  "name": "Ouled Ghanem",
+  "nameAr": "أوالد غانم"
+ },
+ {
+  "code": 175552,
+  "name": "Essemman",
+  "nameAr": "السمان"
+ },
+ {
+  "code": 175553,
+  "name": "Chenana",
+  "nameAr": "الشنانة"
+ },
+ {
+  "code": 175554,
+  "name": "Tahent",
+  "nameAr": "تاهنت"
+ },
+ {
+  "code": 175555,
+  "name": "Kef Ghrab",
+  "nameAr": "كاف غراب"
+ },
+ {
+  "code": 175556,
+  "name": "Berraies",
+  "nameAr": "بالرايس"
+ },
+ {
+  "code": 175557,
+  "name": "Touajnia",
+  "nameAr": "الطواجنية"
+ },
+ {
+  "code": 175558,
+  "name": "Bazina",
+  "nameAr": "بازينة"
+ },
+ {
+  "code": 175559,
+  "name": "Rouaha",
+  "nameAr": "رواحة"
+ },
+ {
+  "code": 175651,
+  "name": "Mateur",
+  "nameAr": "ماطر"
+ },
+ {
+  "code": 175652,
+  "name": "Banlieue De Mateur",
+  "nameAr": "أحواز ماطر"
+ },
+ {
+  "code": 175653,
+  "name": "Mateur Sud",
+  "nameAr": "ماطر الجنوبية"
+ },
+ {
+  "code": 175654,
+  "name": "Cité En Nasr",
+  "nameAr": "حي النصر"
+ },
+ {
+  "code": 175655,
+  "name": "Nefat",
+  "nameAr": "نفات"
+ },
+ {
+  "code": 175656,
+  "name": "Cité Essadaka",
+  "nameAr": "حي الصداقة"
+ },
+ {
+  "code": 175657,
+  "name": "Targuellache",
+  "nameAr": "ترقالش"
+ },
+ {
+  "code": 175658,
+  "name": "Arab Majour",
+  "nameAr": "عرب ماجور"
+ },
+ {
+  "code": 175659,
+  "name": "Behaya",
+  "nameAr": "بهاية"
+ },
+ {
+  "code": 175660,
+  "name": "Boumkhila",
+  "nameAr": "بومخيلة"
+ },
+ {
+  "code": 175751,
+  "name": "Ghezala",
+  "nameAr": "غزالة"
+ },
+ {
+  "code": 175752,
+  "name": "El Arab",
+  "nameAr": "العرب"
+ },
+ {
+  "code": 175753,
+  "name": "Dheouaouda",
+  "nameAr": "الذواودة"
+ },
+ {
+  "code": 175754,
+  "name": "Hached",
+  "nameAr": "حشاد"
+ },
+ {
+  "code": 175755,
+  "name": "Ouled El May",
+  "nameAr": "أوالد الماي"
+ },
+ {
+  "code": 175756,
+  "name": "Sidi Aïssa",
+  "nameAr": "سيدي عيسى"
+ },
+ {
+  "code": 175757,
+  "name": "Rakb",
+  "nameAr": "ركب"
+ },
+ {
+  "code": 175758,
+  "name": "Bou Jerir",
+  "nameAr": "بوجرير"
+ },
+ {
+  "code": 175759,
+  "name": "Sidi Mansour",
+  "nameAr": "سيدي منصور"
+ },
+ {
+  "code": 175854,
+  "name": "Cite Etthaoura",
+  "nameAr": "حي الثورة"
+ },
+ {
+  "code": 175856,
+  "name": "El Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 175857,
+  "name": "Chelagmia",
+  "nameAr": "الشالغمية"
+ },
+ {
+  "code": 175858,
+  "name": "Cite Jardins",
+  "nameAr": "حي الحدائق"
+ },
+ {
+  "code": 175951,
+  "name": "Tinja",
+  "nameAr": "تينجة"
+ },
+ {
+  "code": 175952,
+  "name": "Guengla",
+  "nameAr": "قنقلة"
+ },
+ {
+  "code": 175953,
+  "name": "Ez Zarour",
+  "nameAr": "الزعرور"
+ },
+ {
+  "code": 176051,
+  "name": "Utique",
+  "nameAr": "أوتيك"
+ },
+ {
+  "code": 176052,
+  "name": "Nouvelle Utique",
+  "nameAr": "أوتيك الجديدة"
+ },
+ {
+  "code": 176053,
+  "name": "Besbassia",
+  "nameAr": "البسباسية"
+ },
+ {
+  "code": 176054,
+  "name": "El Houidh",
+  "nameAr": "الحويض"
+ },
+ {
+  "code": 176055,
+  "name": "EL Mabtouh",
+  "nameAr": "المطبوح"
+ },
+ {
+  "code": 176056,
+  "name": "Aïn Ghelal",
+  "nameAr": "عين غالل"
+ },
+ {
+  "code": 176057,
+  "name": "Sidi Othman",
+  "nameAr": "سيدي عثمان"
+ },
+ {
+  "code": 176058,
+  "name": "Bach Hamba",
+  "nameAr": "باش حانبة"
+ },
+ {
+  "code": 176151,
+  "name": "Ghar El Meleh",
+  "nameAr": "غار الملح"
+ },
+ {
+  "code": 176152,
+  "name": "Bajou",
+  "nameAr": "باجو"
+ },
+ {
+  "code": 176153,
+  "name": "Ousja",
+  "nameAr": "عوسجة"
+ },
+ {
+  "code": 176154,
+  "name": "Zouaouine",
+  "nameAr": "الزواوين"
+ },
+ {
+  "code": 176251,
+  "name": "Menzel Djemil Est",
+  "nameAr": "منزل جميل الشرقية"
+ },
+ {
+  "code": 176252,
+  "name": "Menzel Djemil Ouest",
+  "nameAr": "منزل جميل الغربية"
+ },
+ {
+  "code": 176253,
+  "name": "Menzel Abderrahmen Est",
+  "nameAr": "منزل عبد الرحمان الشرقية"
+ },
+ {
+  "code": 176254,
+  "name": "Menzel Abderrahmen Ouest",
+  "nameAr": "منزل عبد الرحمان الغربية"
+ },
+ {
+  "code": 176255,
+  "name": "El Azib",
+  "nameAr": "العزيب"
+ },
+ {
+  "code": 176351,
+  "name": "Sidi Ali Chabab",
+  "nameAr": "سيدي علي الشباب"
+ },
+ {
+  "code": 176352,
+  "name": "El Alia Nord",
+  "nameAr": "العالية الشمالية"
+ },
+ {
+  "code": 176353,
+  "name": "El Alia Sud",
+  "nameAr": "العالية الجنوبية"
+ },
+ {
+  "code": 176354,
+  "name": "El Khetmine",
+  "nameAr": "الختمين"
+ },
+ {
+  "code": 176451,
+  "name": "Ras El Djebel Nord",
+  "nameAr": "رأس الجبل الشمالية"
+ },
+ {
+  "code": 176452,
+  "name": "Ras El Djebel Sud",
+  "nameAr": "رأس الجبل الجنوبية"
+ },
+ {
+  "code": 176453,
+  "name": "Metline",
+  "nameAr": "الماتلين"
+ },
+ {
+  "code": 176454,
+  "name": "Metline Ouest",
+  "nameAr": "الماتلين الغربية"
+ },
+ {
+  "code": 176455,
+  "name": "Sounine",
+  "nameAr": "صونين"
+ },
+ {
+  "code": 176456,
+  "name": "Rafraf",
+  "nameAr": "رفراف"
+ },
+ {
+  "code": 176457,
+  "name": "El Garia",
+  "nameAr": "القرية"
+ },
+ {
+  "code": 215151,
+  "name": "Béja",
+  "nameAr": "باجة"
+ },
+ {
+  "code": 215152,
+  "name": "El Mzara",
+  "nameAr": "المزارة"
+ },
+ {
+  "code": 215153,
+  "name": "Ksar Bardo",
+  "nameAr": "قصر باردو"
+ },
+ {
+  "code": 215154,
+  "name": "Zouabi",
+  "nameAr": "الزوابي"
+ },
+ {
+  "code": 215155,
+  "name": "El Manar",
+  "nameAr": "المنار"
+ },
+ {
+  "code": 215156,
+  "name": "El Kasba",
+  "nameAr": "القصبة"
+ },
+ {
+  "code": 215157,
+  "name": "Azra",
+  "nameAr": "عزرة"
+ },
+ {
+  "code": 215158,
+  "name": "El Ghriria",
+  "nameAr": "الغيرية"
+ },
+ {
+  "code": 215159,
+  "name": "El Mounchar",
+  "nameAr": "المنشار"
+ },
+ {
+  "code": 215160,
+  "name": "Ksar Mezouar",
+  "nameAr": "قصر مزوار"
+ },
+ {
+  "code": 215161,
+  "name": "Bou Hzam",
+  "nameAr": "بوحزام"
+ },
+ {
+  "code": 215162,
+  "name": "En Nakachia",
+  "nameAr": "النقاشية"
+ },
+ {
+  "code": 215163,
+  "name": "El Ghraba",
+  "nameAr": "الغرابة"
+ },
+ {
+  "code": 215164,
+  "name": "Aïn Soltane",
+  "nameAr": "عين سلطان"
+ },
+ {
+  "code": 215251,
+  "name": "Sidi Fredj",
+  "nameAr": "سيدي فرج"
+ },
+ {
+  "code": 215252,
+  "name": "EL Haouari",
+  "nameAr": "الهواري"
+ },
+ {
+  "code": 215253,
+  "name": "El Mâagoula",
+  "nameAr": "المعقولة"
+ },
+ {
+  "code": 215254,
+  "name": "Hammam Siala",
+  "nameAr": "حمام سيالة"
+ },
+ {
+  "code": 215255,
+  "name": "Sidi Smaîl",
+  "nameAr": "سيدي إسماعيل"
+ },
+ {
+  "code": 215256,
+  "name": "Mekhachbia",
+  "nameAr": "المخشبية"
+ },
+ {
+  "code": 215257,
+  "name": "Sidi Es Shili",
+  "nameAr": "سيدي السهيلي"
+ },
+ {
+  "code": 215258,
+  "name": "Zouagha",
+  "nameAr": "زواغة"
+ },
+ {
+  "code": 215259,
+  "name": "Mestouta",
+  "nameAr": "مستوتة"
+ },
+ {
+  "code": 215351,
+  "name": "Zahret Medien",
+  "nameAr": "زهرة مدين"
+ },
+ {
+  "code": 215352,
+  "name": "Zahret Medien Sud",
+  "nameAr": "زهرة مدين الجنوبية"
+ },
+ {
+  "code": 215353,
+  "name": "El Fraîjia",
+  "nameAr": "الفرايجية"
+ },
+ {
+  "code": 215354,
+  "name": "El Ghorfa",
+  "nameAr": "الغرفة"
+ },
+ {
+  "code": 215355,
+  "name": "Romadhnia",
+  "nameAr": "الرماضنية"
+ },
+ {
+  "code": 215356,
+  "name": "Maghraoua",
+  "nameAr": "مغراوة"
+ },
+ {
+  "code": 215357,
+  "name": "Sabah",
+  "nameAr": "صباح"
+ },
+ {
+  "code": 215358,
+  "name": "El Mejaless",
+  "nameAr": "المجالس"
+ },
+ {
+  "code": 215359,
+  "name": "El Hamra",
+  "nameAr": "الحمراء"
+ },
+ {
+  "code": 215360,
+  "name": "Ghazia",
+  "nameAr": "غزية"
+ },
+ {
+  "code": 215361,
+  "name": "Malek",
+  "nameAr": "مالك"
+ },
+ {
+  "code": 215362,
+  "name": "Tarhouni",
+  "nameAr": "الطرهوني"
+ },
+ {
+  "code": 215363,
+  "name": "El Goussa",
+  "nameAr": "القوسة"
+ },
+ {
+  "code": 215364,
+  "name": "El Djouza",
+  "nameAr": "الجوزة"
+ },
+ {
+  "code": 215451,
+  "name": "Nefza Est",
+  "nameAr": "نفزة الشرقية"
+ },
+ {
+  "code": 215452,
+  "name": "Nefza Ouest",
+  "nameAr": "نفزة الغربية"
+ },
+ {
+  "code": 215453,
+  "name": "Ouachtata",
+  "nameAr": "وشتاتة"
+ },
+ {
+  "code": 215454,
+  "name": "Kap Négro",
+  "nameAr": "كاب النيقرو"
+ },
+ {
+  "code": 215455,
+  "name": "Ezzouarâa",
+  "nameAr": "الزوارع"
+ },
+ {
+  "code": 215456,
+  "name": "Bou Zenna",
+  "nameAr": "بوزنة"
+ },
+ {
+  "code": 215457,
+  "name": "Maktâa Hadid",
+  "nameAr": "مقطع حديد"
+ },
+ {
+  "code": 215458,
+  "name": "Bellif",
+  "nameAr": "بالليف"
+ },
+ {
+  "code": 215459,
+  "name": "Djebel Ediss",
+  "nameAr": "جبل الديس"
+ },
+ {
+  "code": 215460,
+  "name": "Fatnassa",
+  "nameAr": "فطناسة"
+ },
+ {
+  "code": 215461,
+  "name": "Ghayadha",
+  "nameAr": "غياضة"
+ },
+ {
+  "code": 215462,
+  "name": "Zaga",
+  "nameAr": "زاقة"
+ },
+ {
+  "code": 215463,
+  "name": "Tebaba",
+  "nameAr": "الطبابة"
+ },
+ {
+  "code": 215464,
+  "name": "Oued El Mâaden",
+  "nameAr": "وادي المعدن"
+ },
+ {
+  "code": 215465,
+  "name": "Djamila",
+  "nameAr": "الجميلة"
+ },
+ {
+  "code": 215466,
+  "name": "Dehiret",
+  "nameAr": "الظهيرات"
+ },
+ {
+  "code": 215551,
+  "name": "Teboursouk Ville",
+  "nameAr": "تبرسق المدينة"
+ },
+ {
+  "code": 215552,
+  "name": "Aïn El Karma",
+  "nameAr": "عين الكرمة"
+ },
+ {
+  "code": 215553,
+  "name": "El Menchia",
+  "nameAr": "المنشية"
+ },
+ {
+  "code": 215554,
+  "name": "Dougga",
+  "nameAr": "دقة"
+ },
+ {
+  "code": 215555,
+  "name": "Rihana",
+  "nameAr": "ريحانة"
+ },
+ {
+  "code": 215556,
+  "name": "Aïn El Melliti",
+  "nameAr": "عين المليتي"
+ },
+ {
+  "code": 215557,
+  "name": "Fadden Es Souk",
+  "nameAr": "فدان السوق"
+ },
+ {
+  "code": 215558,
+  "name": "Aïn El Hammam",
+  "nameAr": "عين الحمام"
+ },
+ {
+  "code": 215559,
+  "name": "Aïn Djammala",
+  "nameAr": "عين جمالة"
+ },
+ {
+  "code": 215560,
+  "name": "Bir Ettouta",
+  "nameAr": "بئر التوتة"
+ },
+ {
+  "code": 215651,
+  "name": "Tibar",
+  "nameAr": "تيبار"
+ },
+ {
+  "code": 215652,
+  "name": "Djebba",
+  "nameAr": "دجبة"
+ },
+ {
+  "code": 215653,
+  "name": "Aïn Ed Defali",
+  "nameAr": "عين الدفالي"
+ },
+ {
+  "code": 215654,
+  "name": "En Nechima",
+  "nameAr": "النشيمة"
+ },
+ {
+  "code": 215751,
+  "name": "Testour",
+  "nameAr": "تستور"
+ },
+ {
+  "code": 215752,
+  "name": "Ibn Zeydoun",
+  "nameAr": "إبن زيدون"
+ },
+ {
+  "code": 215754,
+  "name": "Mezougha",
+  "nameAr": "مزوغة"
+ },
+ {
+  "code": 215755,
+  "name": "Zeldou",
+  "nameAr": "زلدو"
+ },
+ {
+  "code": 215756,
+  "name": "Ouled Salama",
+  "nameAr": "أوالد سالمة"
+ },
+ {
+  "code": 215757,
+  "name": "Es Slouguia",
+  "nameAr": "السلوقية"
+ },
+ {
+  "code": 215758,
+  "name": "Aïn Younes",
+  "nameAr": "عين يونس"
+ },
+ {
+  "code": 215759,
+  "name": "Es Sekhira",
+  "nameAr": "الصخيرة"
+ },
+ {
+  "code": 215760,
+  "name": "Oued Ezzargua",
+  "nameAr": "وادي الزرقاء"
+ },
+ {
+  "code": 215761,
+  "name": "Sidi Abdelaziz",
+  "nameAr": "سيدي عبد العزيز"
+ },
+ {
+  "code": 215762,
+  "name": "Sidi Ameur",
+  "nameAr": "سيدي عامر"
+ },
+ {
+  "code": 215851,
+  "name": "Goubellat",
+  "nameAr": "قبالط"
+ },
+ {
+  "code": 215852,
+  "name": "El Gammarthi",
+  "nameAr": "القمرتي"
+ },
+ {
+  "code": 215853,
+  "name": "Guerram",
+  "nameAr": "قرام"
+ },
+ {
+  "code": 215854,
+  "name": "Dour Esmail",
+  "nameAr": "دور إسماعيل"
+ },
+ {
+  "code": 215855,
+  "name": "Bir El Euch",
+  "nameAr": "بئر العش"
+ },
+ {
+  "code": 215856,
+  "name": "Kheniguet Ed Dahane",
+  "nameAr": "خنقية الدهان"
+ },
+ {
+  "code": 215857,
+  "name": "Khacheb",
+  "nameAr": "خشاب"
+ },
+ {
+  "code": 215858,
+  "name": "Cheikh El Ouediane",
+  "nameAr": "شيخ الوديان"
+ },
+ {
+  "code": 215951,
+  "name": "Medjez El Bab Ville",
+  "nameAr": "مجاز الباب المدينة"
+ },
+ {
+  "code": 215952,
+  "name": "Medjez El Bab Sud",
+  "nameAr": "مجاز الباب الجنوبية"
+ },
+ {
+  "code": 215953,
+  "name": "Sidi Medien",
+  "nameAr": "سيدي مدين"
+ },
+ {
+  "code": 215954,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 215955,
+  "name": "El Heri",
+  "nameAr": "الهري"
+ },
+ {
+  "code": 215956,
+  "name": "Tokaber",
+  "nameAr": "توكابر"
+ },
+ {
+  "code": 215957,
+  "name": "Chaouach",
+  "nameAr": "شواش"
+ },
+ {
+  "code": 215958,
+  "name": "Sidi Nasr",
+  "nameAr": "سيدي نصر"
+ },
+ {
+  "code": 215959,
+  "name": "Sidi Ahmed El Jedidi",
+  "nameAr": "سيدي أحمد الجديدي"
+ },
+ {
+  "code": 215960,
+  "name": "El Gueriâat",
+  "nameAr": "القريعات"
+ },
+ {
+  "code": 215961,
+  "name": "Hidouss",
+  "nameAr": "حيدوس"
+ },
+ {
+  "code": 215962,
+  "name": "El Mouatiss",
+  "nameAr": "المواطيس"
+ },
+ {
+  "code": 215963,
+  "name": "Guerich El Ouedi",
+  "nameAr": "قريش الوادي"
+ },
+ {
+  "code": 215964,
+  "name": "Sidi Erraies",
+  "nameAr": "سيدي الرايس"
+ },
+ {
+  "code": 225151,
+  "name": "Ezzeghaida",
+  "nameAr": "الزغايدة"
+ },
+ {
+  "code": 225152,
+  "name": "Jendouba Sud",
+  "nameAr": "جندوبة الجنوبية"
+ },
+ {
+  "code": 225153,
+  "name": "En Nour",
+  "nameAr": "النور"
+ },
+ {
+  "code": 225154,
+  "name": "Es Sâada",
+  "nameAr": "السعادة"
+ },
+ {
+  "code": 225155,
+  "name": "El Malga",
+  "nameAr": "الملقى"
+ },
+ {
+  "code": 225156,
+  "name": "Ettataouer",
+  "nameAr": "التطور"
+ },
+ {
+  "code": 225157,
+  "name": "Souk Es Sebt",
+  "nameAr": "سوق السبت"
+ },
+ {
+  "code": 225158,
+  "name": "El Aitha",
+  "nameAr": "العيثة"
+ },
+ {
+  "code": 225159,
+  "name": "Aïn Karima",
+  "nameAr": "عين الكريمة"
+ },
+ {
+  "code": 225160,
+  "name": "Mâalla",
+  "nameAr": "معلة"
+ },
+ {
+  "code": 225161,
+  "name": "El Jerif",
+  "nameAr": "الجريف"
+ },
+ {
+  "code": 225162,
+  "name": "EL Azima",
+  "nameAr": "العزيمة"
+ },
+ {
+  "code": 225251,
+  "name": "El Ferdous",
+  "nameAr": "الفردوس"
+ },
+ {
+  "code": 225252,
+  "name": "El Hédi Ben Hassine",
+  "nameAr": "الهادي بن حسين"
+ },
+ {
+  "code": 225253,
+  "name": "Ezzouhour",
+  "nameAr": "الزهور"
+ },
+ {
+  "code": 225254,
+  "name": "El Khadhra",
+  "nameAr": "الخضراء"
+ },
+ {
+  "code": 225255,
+  "name": "Es Souani",
+  "nameAr": "السواني"
+ },
+ {
+  "code": 225256,
+  "name": "Bulla regja",
+  "nameAr": "بالريجيا"
+ },
+ {
+  "code": 225257,
+  "name": "Zatfoura",
+  "nameAr": "زطفورة"
+ },
+ {
+  "code": 225258,
+  "name": "Chemtou",
+  "nameAr": "شمتو"
+ },
+ {
+  "code": 225259,
+  "name": "Ed Dir",
+  "nameAr": "الدير"
+ },
+ {
+  "code": 225260,
+  "name": "Souk Djemâa",
+  "nameAr": "سوق الجمعة"
+ },
+ {
+  "code": 225351,
+  "name": "Bou Salem Nord",
+  "nameAr": "بوسالم الشمالية"
+ },
+ {
+  "code": 225352,
+  "name": "Bou Salem Sud",
+  "nameAr": "بوسالم الجنوبية"
+ },
+ {
+  "code": 225353,
+  "name": "Erroumani",
+  "nameAr": "الروماني"
+ },
+ {
+  "code": 225354,
+  "name": "El Brahmi",
+  "nameAr": "البراهمي"
+ },
+ {
+  "code": 225355,
+  "name": "El Marja",
+  "nameAr": "المرجى"
+ },
+ {
+  "code": 225356,
+  "name": "Bir Lakhdar",
+  "nameAr": "البئر األخضر"
+ },
+ {
+  "code": 225357,
+  "name": "El Koudia",
+  "nameAr": "الكدية"
+ },
+ {
+  "code": 225358,
+  "name": "El Msanghouche",
+  "nameAr": "المنقوش"
+ },
+ {
+  "code": 225359,
+  "name": "Sidi Abid",
+  "nameAr": "سيدي عبيد"
+ },
+ {
+  "code": 225451,
+  "name": "Tabarka",
+  "nameAr": "طبرقة"
+ },
+ {
+  "code": 225452,
+  "name": "Raîhane",
+  "nameAr": "الريحان"
+ },
+ {
+  "code": 225453,
+  "name": "El Hamdia",
+  "nameAr": "الحامدية"
+ },
+ {
+  "code": 225454,
+  "name": "El Hammam",
+  "nameAr": "الحمام"
+ },
+ {
+  "code": 225455,
+  "name": "Aïn Es Sobh",
+  "nameAr": "عين الصبح"
+ },
+ {
+  "code": 225456,
+  "name": "Nadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 225457,
+  "name": "Melloula",
+  "nameAr": "ملولة"
+ },
+ {
+  "code": 225458,
+  "name": "Aïn Es Snoussi",
+  "nameAr": "عين السنوسي"
+ },
+ {
+  "code": 225551,
+  "name": "Aïn Drahem Ville",
+  "nameAr": "عين دراهم المدينة"
+ },
+ {
+  "code": 225552,
+  "name": "Aïn Draham Banlieue",
+  "nameAr": "عين دراهم األحواز"
+ },
+ {
+  "code": 225553,
+  "name": "Ouled Sedra",
+  "nameAr": "أوالد سدرة"
+ },
+ {
+  "code": 225554,
+  "name": "El Atatfa",
+  "nameAr": "العطاطفة"
+ },
+ {
+  "code": 225555,
+  "name": "El Homrane",
+  "nameAr": "الحمران"
+ },
+ {
+  "code": 225556,
+  "name": "Etbainia",
+  "nameAr": "التباينية"
+ },
+ {
+  "code": 225557,
+  "name": "Khemaïria",
+  "nameAr": "الخمايرية"
+ },
+ {
+  "code": 225558,
+  "name": "Selloul",
+  "nameAr": "سلول"
+ },
+ {
+  "code": 225559,
+  "name": "Er Rouïi",
+  "nameAr": "الرويعي"
+ },
+ {
+  "code": 225560,
+  "name": "Tegma",
+  "nameAr": "تاقمة"
+ },
+ {
+  "code": 225561,
+  "name": "Aïn Salam",
+  "nameAr": "عين سالم"
+ },
+ {
+  "code": 225562,
+  "name": "Oued Ezzan",
+  "nameAr": "وادي الزان"
+ },
+ {
+  "code": 225651,
+  "name": "Fernana",
+  "nameAr": "فرنانة"
+ },
+ {
+  "code": 225652,
+  "name": "Oued Ghrib",
+  "nameAr": "وادي غريب"
+ },
+ {
+  "code": 225653,
+  "name": "Rabiaa",
+  "nameAr": "ربيعة"
+ },
+ {
+  "code": 225654,
+  "name": "Ouled Mefada",
+  "nameAr": "أوالد مفدة"
+ },
+ {
+  "code": 225655,
+  "name": "El Gouaïdia",
+  "nameAr": "القوايدية"
+ },
+ {
+  "code": 225656,
+  "name": "Beni tir’M",
+  "nameAr": "بني مطير"
+ },
+ {
+  "code": 225657,
+  "name": "Gloub Ethirane",
+  "nameAr": "قلوب الثيران"
+ },
+ {
+  "code": 225658,
+  "name": "Gloub Ethirane Nord",
+  "nameAr": "قلوب الثيران الشمالية"
+ },
+ {
+  "code": 225659,
+  "name": "Hedhil",
+  "nameAr": "هذيل"
+ },
+ {
+  "code": 225660,
+  "name": "El Adhar",
+  "nameAr": "العاذر"
+ },
+ {
+  "code": 225661,
+  "name": "Jaouaouada",
+  "nameAr": "الجواودة"
+ },
+ {
+  "code": 225662,
+  "name": "Aïn El Beya",
+  "nameAr": "عين البية"
+ },
+ {
+  "code": 225663,
+  "name": "Bou Hertma",
+  "nameAr": "بوهرتمة"
+ },
+ {
+  "code": 225664,
+  "name": "Halima",
+  "nameAr": "حليمة"
+ },
+ {
+  "code": 225665,
+  "name": "Sidi Ammar",
+  "nameAr": "سيدي عمار"
+ },
+ {
+  "code": 225751,
+  "name": "Ghardimaou",
+  "nameAr": "غار الدماء"
+ },
+ {
+  "code": 225752,
+  "name": "Ghardimaou Nord",
+  "nameAr": "غار الدماء الشمالية"
+ },
+ {
+  "code": 225753,
+  "name": "El Mâaden",
+  "nameAr": "المعدن"
+ },
+ {
+  "code": 225754,
+  "name": "Er Rakha",
+  "nameAr": "الرخاء"
+ },
+ {
+  "code": 225755,
+  "name": "Aîn Soltane",
+  "nameAr": "عين سلطان"
+ },
+ {
+  "code": 225756,
+  "name": "Ouechtata",
+  "nameAr": "وشتاتة"
+ },
+ {
+  "code": 225757,
+  "name": "Ed Daoura",
+  "nameAr": "الدورة"
+ },
+ {
+  "code": 225758,
+  "name": "Es Sraia",
+  "nameAr": "الصرية"
+ },
+ {
+  "code": 225759,
+  "name": "Forgassen",
+  "nameAr": "فرقصان"
+ },
+ {
+  "code": 225760,
+  "name": "Fej Hassine",
+  "nameAr": "فج حسين"
+ },
+ {
+  "code": 225761,
+  "name": "Mrassen",
+  "nameAr": "المراسن"
+ },
+ {
+  "code": 225762,
+  "name": "El Galâa",
+  "nameAr": "القلعة"
+ },
+ {
+  "code": 225851,
+  "name": "Oued Meliz Est",
+  "nameAr": "واد مليز الشرقية"
+ },
+ {
+  "code": 225852,
+  "name": "Oued Meliz Ouest",
+  "nameAr": "واد مليز الغريبة"
+ },
+ {
+  "code": 225853,
+  "name": "Dkhaïlia",
+  "nameAr": "الدخايلية"
+ },
+ {
+  "code": 225854,
+  "name": "Hakim Nord",
+  "nameAr": "حكيم الشمالية"
+ },
+ {
+  "code": 225855,
+  "name": "Hakim Sud",
+  "nameAr": "حكيم الجنوبية"
+ },
+ {
+  "code": 225951,
+  "name": "Assila",
+  "nameAr": "عسيلة"
+ },
+ {
+  "code": 225952,
+  "name": "Ghezala",
+  "nameAr": "غزالة"
+ },
+ {
+  "code": 225953,
+  "name": "El Aouaoudha",
+  "nameAr": "العواوضة"
+ },
+ {
+  "code": 225954,
+  "name": "El Baldia",
+  "nameAr": "البلدية"
+ },
+ {
+  "code": 225955,
+  "name": "Cheouaoula",
+  "nameAr": "الشواولة"
+ },
+ {
+  "code": 225956,
+  "name": "Beni hamed’M",
+  "nameAr": "بني محمد"
+ },
+ {
+  "code": 225957,
+  "name": "Somrane",
+  "nameAr": "السمران"
+ },
+ {
+  "code": 225958,
+  "name": "Balta",
+  "nameAr": "بلطة"
+ },
+ {
+  "code": 225959,
+  "name": "Abdeljaber",
+  "nameAr": "عبد الجبار"
+ },
+ {
+  "code": 225960,
+  "name": "Bou Aouane",
+  "nameAr": "بوعوان"
+ },
+ {
+  "code": 225961,
+  "name": "Oued Kesseb",
+  "nameAr": "وادي كساب"
+ },
+ {
+  "code": 235151,
+  "name": "Oued Remel Nord",
+  "nameAr": "وادي الرمل الشمالية"
+ },
+ {
+  "code": 235152,
+  "name": "Oued Remel Sud",
+  "nameAr": "وادي الرمل الجنوبية"
+ },
+ {
+  "code": 235153,
+  "name": "Haouareth Sud",
+  "nameAr": "الحوارث الجنوبية"
+ },
+ {
+  "code": 235251,
+  "name": "Charfine",
+  "nameAr": "الشرفين"
+ },
+ {
+  "code": 235252,
+  "name": "Ben Ainine",
+  "nameAr": "بنعنين"
+ },
+ {
+  "code": 235253,
+  "name": "Haouareth Nord",
+  "nameAr": "الحوارث الشمالية"
+ },
+ {
+  "code": 235254,
+  "name": "Zâafrane",
+  "nameAr": "الزعفران"
+ },
+ {
+  "code": 235255,
+  "name": "Oued Souani",
+  "nameAr": "وادي السواني"
+ },
+ {
+  "code": 235256,
+  "name": "Oued Souani Sud",
+  "nameAr": "وادي السواني الجنوبي"
+ },
+ {
+  "code": 235257,
+  "name": "Dyr El Kef",
+  "nameAr": "دير الكاف"
+ },
+ {
+  "code": 235258,
+  "name": "Hached",
+  "nameAr": "حشاد"
+ },
+ {
+  "code": 235351,
+  "name": "Nebeur",
+  "nameAr": "نبر"
+ },
+ {
+  "code": 235352,
+  "name": "Sarkaouna",
+  "nameAr": "سركونة"
+ },
+ {
+  "code": 235353,
+  "name": "Tel El Ghozlane",
+  "nameAr": "تل الغزالن"
+ },
+ {
+  "code": 235354,
+  "name": "Sidi Khiar",
+  "nameAr": "سيدي خيار"
+ },
+ {
+  "code": 235355,
+  "name": "Mellala",
+  "nameAr": "ماللة"
+ },
+ {
+  "code": 235356,
+  "name": "Ledhieb",
+  "nameAr": "األذياب"
+ },
+ {
+  "code": 235357,
+  "name": "Touiref",
+  "nameAr": "الطويرف"
+ },
+ {
+  "code": 235358,
+  "name": "Mellègue",
+  "nameAr": "مالق"
+ },
+ {
+  "code": 235359,
+  "name": "Bahra",
+  "nameAr": "بهرة"
+ },
+ {
+  "code": 235360,
+  "name": "Sidi Medien",
+  "nameAr": "سيدي مدنين"
+ },
+ {
+  "code": 235361,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 235362,
+  "name": "Chetatla",
+  "nameAr": "الشتاتلة"
+ },
+ {
+  "code": 235363,
+  "name": "Oueljet Essedra",
+  "nameAr": "ولجة السدرة"
+ },
+ {
+  "code": 235451,
+  "name": "Sakiet Sidi Youssef",
+  "nameAr": "ساقية سيدي يوسف"
+ },
+ {
+  "code": 235452,
+  "name": "Es Sefeïa",
+  "nameAr": "السفاية"
+ },
+ {
+  "code": 235453,
+  "name": "Aïn Mazer",
+  "nameAr": "عين مازر"
+ },
+ {
+  "code": 235454,
+  "name": "Djeradou",
+  "nameAr": "جرادو"
+ },
+ {
+  "code": 235455,
+  "name": "Forchane",
+  "nameAr": "فرشان"
+ },
+ {
+  "code": 235456,
+  "name": "Aïn El Karma",
+  "nameAr": "عين الكرمة"
+ },
+ {
+  "code": 235457,
+  "name": "Sidi Rabeh",
+  "nameAr": "سيدي رابح"
+ },
+ {
+  "code": 235458,
+  "name": "Et Tabia",
+  "nameAr": "الطابية"
+ },
+ {
+  "code": 235551,
+  "name": "Tajerouine Nord",
+  "nameAr": "تاجروين الشمالية"
+ },
+ {
+  "code": 235552,
+  "name": "Tajerouine Sud",
+  "nameAr": "تاجروين الجنوبية"
+ },
+ {
+  "code": 235553,
+  "name": "Aïn El Abar",
+  "nameAr": "عين األبار"
+ },
+ {
+  "code": 235554,
+  "name": "Cité Bourguiba",
+  "nameAr": "حي بورقيبة"
+ },
+ {
+  "code": 235555,
+  "name": "Sidi tir’M",
+  "nameAr": "سيد مطير"
+ },
+ {
+  "code": 235556,
+  "name": "Ennajet",
+  "nameAr": "النجاة"
+ },
+ {
+  "code": 235557,
+  "name": "Sidi Abdelbasset",
+  "nameAr": "سيدي عبد الباسط"
+ },
+ {
+  "code": 235558,
+  "name": "Jezza",
+  "nameAr": "جزة"
+ },
+ {
+  "code": 235559,
+  "name": "El Houdh",
+  "nameAr": "الحوض"
+ },
+ {
+  "code": 235560,
+  "name": "Menzel Salem",
+  "nameAr": "منزل سالم"
+ },
+ {
+  "code": 235561,
+  "name": "Borj Eddiouana",
+  "nameAr": "برج الديوانة"
+ },
+ {
+  "code": 235562,
+  "name": "Garn Halfaia",
+  "nameAr": "قرن حلفاية"
+ },
+ {
+  "code": 235651,
+  "name": "Kalâat Snan",
+  "nameAr": "قلعة سنان"
+ },
+ {
+  "code": 235652,
+  "name": "Bou Jabeur",
+  "nameAr": "بوجابر"
+ },
+ {
+  "code": 235653,
+  "name": "Safsaf",
+  "nameAr": "الصفصاف"
+ },
+ {
+  "code": 235654,
+  "name": "Mzita",
+  "nameAr": "مزيتة"
+ },
+ {
+  "code": 235655,
+  "name": "El Falta",
+  "nameAr": "الفالتة"
+ },
+ {
+  "code": 235656,
+  "name": "Sed El Khir",
+  "nameAr": "سد الخير"
+ },
+ {
+  "code": 235657,
+  "name": "Aïn Snan",
+  "nameAr": "عين سنان"
+ },
+ {
+  "code": 235658,
+  "name": "El Hamaïma",
+  "nameAr": "الحميمة"
+ },
+ {
+  "code": 235659,
+  "name": "El Mahjouba",
+  "nameAr": "المحجوبة"
+ },
+ {
+  "code": 235751,
+  "name": "Kalâat Khasba",
+  "nameAr": "القلعة الخصباء"
+ },
+ {
+  "code": 235752,
+  "name": "Hentaïa",
+  "nameAr": "هنطاية"
+ },
+ {
+  "code": 235753,
+  "name": "Sidi Ahmed Essalah",
+  "nameAr": "سيدي أحمد الصالح"
+ },
+ {
+  "code": 235754,
+  "name": "En Nadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 235851,
+  "name": "Djerissa Centre",
+  "nameAr": "الجريصة المركزية"
+ },
+ {
+  "code": 235852,
+  "name": "Djérissa Nord",
+  "nameAr": "الجريصة الشمالية"
+ },
+ {
+  "code": 235853,
+  "name": "Djerissa Sud",
+  "nameAr": "الجريصة الجنوبية"
+ },
+ {
+  "code": 235854,
+  "name": "Besseriana",
+  "nameAr": "بسريانة"
+ },
+ {
+  "code": 235855,
+  "name": "Fej Ettameur",
+  "nameAr": "فج التمر"
+ },
+ {
+  "code": 235856,
+  "name": "Enneayem",
+  "nameAr": "النعايم"
+ },
+ {
+  "code": 235951,
+  "name": "El Ksour",
+  "nameAr": "القصور"
+ },
+ {
+  "code": 235952,
+  "name": "Aïn El Ksiba",
+  "nameAr": "عين القصيبة"
+ },
+ {
+  "code": 235953,
+  "name": "Banou",
+  "nameAr": "بانو"
+ },
+ {
+  "code": 235954,
+  "name": "Louata",
+  "nameAr": "اللواتة"
+ },
+ {
+  "code": 235955,
+  "name": "Aïn Fedhil",
+  "nameAr": "عين فضيل"
+ },
+ {
+  "code": 235956,
+  "name": "Ezzitouna",
+  "nameAr": "الزيتونة"
+ },
+ {
+  "code": 236051,
+  "name": "Dahmani",
+  "nameAr": "الدهماني"
+ },
+ {
+  "code": 236052,
+  "name": "Dahmani Nord",
+  "nameAr": "الدهماني الشمالية"
+ },
+ {
+  "code": 236053,
+  "name": "Zouarine",
+  "nameAr": "الزوارين"
+ },
+ {
+  "code": 236054,
+  "name": "Thermda",
+  "nameAr": "ثرمدة"
+ },
+ {
+  "code": 236055,
+  "name": "Abida",
+  "nameAr": "عبيدة"
+ },
+ {
+  "code": 236056,
+  "name": "Ebba",
+  "nameAr": "أبة"
+ },
+ {
+  "code": 236057,
+  "name": "El Medeïna",
+  "nameAr": "المداينة"
+ },
+ {
+  "code": 236058,
+  "name": "Sidi Baraket Nord",
+  "nameAr": "سيدي بركات الشمالية"
+ },
+ {
+  "code": 236059,
+  "name": "Sidi Baraket Sud",
+  "nameAr": "سيدي بركات الجنوبية"
+ },
+ {
+  "code": 236151,
+  "name": "Es Sers Nord",
+  "nameAr": "السرس الشمالية"
+ },
+ {
+  "code": 236152,
+  "name": "Es Sers Sud",
+  "nameAr": "السرس الجنوبية"
+ },
+ {
+  "code": 236153,
+  "name": "Cité Ennour",
+  "nameAr": "حي النور"
+ },
+ {
+  "code": 236154,
+  "name": "Bousliaa",
+  "nameAr": "بوصليعة"
+ },
+ {
+  "code": 236155,
+  "name": "Lorbeus",
+  "nameAr": "األربص"
+ },
+ {
+  "code": 236156,
+  "name": "El Marja",
+  "nameAr": "المرجى"
+ },
+ {
+  "code": 236157,
+  "name": "El Abar",
+  "nameAr": "األبار"
+ },
+ {
+  "code": 236158,
+  "name": "El Abar Est",
+  "nameAr": "األبار الشرقية"
+ },
+ {
+  "code": 236159,
+  "name": "Elles",
+  "nameAr": "اآلس"
+ },
+ {
+  "code": 245151,
+  "name": "Siliana Ville",
+  "nameAr": "سليانة المدينة"
+ },
+ {
+  "code": 245152,
+  "name": "Siliana Nord",
+  "nameAr": "سليانة الشمالية"
+ },
+ {
+  "code": 245153,
+  "name": "El Arab",
+  "nameAr": "العرب"
+ },
+ {
+  "code": 245154,
+  "name": "Jema",
+  "nameAr": "جامة"
+ },
+ {
+  "code": 245155,
+  "name": "Massouj",
+  "nameAr": "مصوج"
+ },
+ {
+  "code": 245156,
+  "name": "El Jouii",
+  "nameAr": "الجوي"
+ },
+ {
+  "code": 245157,
+  "name": "El Khalsa",
+  "nameAr": "الخلصة"
+ },
+ {
+  "code": 245158,
+  "name": "Aïn Ed Dissa",
+  "nameAr": "عين ديسة"
+ },
+ {
+  "code": 245251,
+  "name": "Siliana Sud",
+  "nameAr": "سليانة الجنوبية"
+ },
+ {
+  "code": 245252,
+  "name": "Marj Mokaddem",
+  "nameAr": "مرج مقدم"
+ },
+ {
+  "code": 245253,
+  "name": "Es Sefina",
+  "nameAr": "السفينة"
+ },
+ {
+  "code": 245254,
+  "name": "Sidi Morched",
+  "nameAr": "سيدي مرشد"
+ },
+ {
+  "code": 245255,
+  "name": "Sidi Mansour",
+  "nameAr": "سيدي منصور"
+ },
+ {
+  "code": 245256,
+  "name": "Sidi Hmada",
+  "nameAr": "سيدي حمادة"
+ },
+ {
+  "code": 245257,
+  "name": "Sejja",
+  "nameAr": "سجة"
+ },
+ {
+  "code": 245258,
+  "name": "Ouled Zenag",
+  "nameAr": "أوالد زناق"
+ },
+ {
+  "code": 245259,
+  "name": "El Kabel",
+  "nameAr": "القابل"
+ },
+ {
+  "code": 245351,
+  "name": "Banlieue De Bouarada",
+  "nameAr": "أحواز بوعرادة"
+ },
+ {
+  "code": 245352,
+  "name": "Bouarada",
+  "nameAr": "بوعرادة"
+ },
+ {
+  "code": 245353,
+  "name": "Fatis",
+  "nameAr": "فطيس"
+ },
+ {
+  "code": 245354,
+  "name": "Henchir Er Roman",
+  "nameAr": "هنشير الرومان"
+ },
+ {
+  "code": 245355,
+  "name": "Sidi Abdennour",
+  "nameAr": "سيدي عبد النور"
+ },
+ {
+  "code": 245356,
+  "name": "Tarf Ech chena",
+  "nameAr": "طرف الشناء"
+ },
+ {
+  "code": 245451,
+  "name": "Gâafour Est",
+  "nameAr": "قعفور الشرقية"
+ },
+ {
+  "code": 245452,
+  "name": "Gâafour Ouest",
+  "nameAr": "قعفور الغربية"
+ },
+ {
+  "code": 245453,
+  "name": "El khouat",
+  "nameAr": "األخوات"
+ },
+ {
+  "code": 245454,
+  "name": "Aïn Zerig",
+  "nameAr": "عين زريق"
+ },
+ {
+  "code": 245455,
+  "name": "El Ahouez Nord",
+  "nameAr": "األحواز الشمالية"
+ },
+ {
+  "code": 245456,
+  "name": "El Ahouez Sud",
+  "nameAr": "األحواز الجنوبية"
+ },
+ {
+  "code": 245457,
+  "name": "El Aksab",
+  "nameAr": "األقصاب"
+ },
+ {
+  "code": 245551,
+  "name": "El Krib Nord",
+  "nameAr": "الكريب الشمالية"
+ },
+ {
+  "code": 245552,
+  "name": "El Krib Sud",
+  "nameAr": "الكريب الجنوبية"
+ },
+ {
+  "code": 245553,
+  "name": "Dokhania",
+  "nameAr": "الدخانية"
+ },
+ {
+  "code": 245554,
+  "name": "Hammam Biadha Nord",
+  "nameAr": "حمام بياضة الشمالية"
+ },
+ {
+  "code": 245555,
+  "name": "Hammam Biadha Sud",
+  "nameAr": "حمام بياضة الجنوبية"
+ },
+ {
+  "code": 245556,
+  "name": "Borj El Messaoudi Nord",
+  "nameAr": "برج المسعودي الشمالية"
+ },
+ {
+  "code": 245557,
+  "name": "Borj El Messaoudi Sud",
+  "nameAr": "برج المسعودي الجنوبية"
+ },
+ {
+  "code": 245651,
+  "name": "Bourouis Nord",
+  "nameAr": "بورويس الشمالية"
+ },
+ {
+  "code": 245652,
+  "name": "Bourouis Sud",
+  "nameAr": "بورويس الجنوبية"
+ },
+ {
+  "code": 245653,
+  "name": "Ettricha",
+  "nameAr": "التريشة"
+ },
+ {
+  "code": 245654,
+  "name": "El Abbassi",
+  "nameAr": "العباسي"
+ },
+ {
+  "code": 245655,
+  "name": "Aïn Achour",
+  "nameAr": "عين عاشور"
+ },
+ {
+  "code": 245656,
+  "name": "El Krib Gare",
+  "nameAr": "محطة الكريب"
+ },
+ {
+  "code": 245751,
+  "name": "Makthar Nord",
+  "nameAr": "مكثر الشمالية"
+ },
+ {
+  "code": 245752,
+  "name": "Makthar Sud",
+  "nameAr": "مكثر الجنوبية"
+ },
+ {
+  "code": 245753,
+  "name": "Sayar",
+  "nameAr": "صيار"
+ },
+ {
+  "code": 245754,
+  "name": "El Garâa",
+  "nameAr": "القرعة"
+ },
+ {
+  "code": 245755,
+  "name": "Bez",
+  "nameAr": "باز"
+ },
+ {
+  "code": 245756,
+  "name": "Beni Hazem",
+  "nameAr": "بني حازم"
+ },
+ {
+  "code": 245757,
+  "name": "Ras El Ouedi",
+  "nameAr": "رأس الوادي"
+ },
+ {
+  "code": 245758,
+  "name": "Saddine",
+  "nameAr": "ّ الصدين"
+ },
+ {
+  "code": 245759,
+  "name": "Chouarnia",
+  "nameAr": "الشوارنية"
+ },
+ {
+  "code": 245760,
+  "name": "Sened El Haddad",
+  "nameAr": "سند الحداد"
+ },
+ {
+  "code": 245761,
+  "name": "Soualem",
+  "nameAr": "السوالم"
+ },
+ {
+  "code": 245851,
+  "name": "El Hababsa Nord",
+  "nameAr": "الحبابسةالشمالية"
+ },
+ {
+  "code": 245852,
+  "name": "El Hababsa Sud",
+  "nameAr": "الحبابسة الجنوبية"
+ },
+ {
+  "code": 245853,
+  "name": "El Jamilet",
+  "nameAr": "الجميالت"
+ },
+ {
+  "code": 245854,
+  "name": "Es Semiret Nord",
+  "nameAr": "السميرات الشمالية"
+ },
+ {
+  "code": 245855,
+  "name": "Es Semirat Sud",
+  "nameAr": "السميرات الجنوبية"
+ },
+ {
+  "code": 245856,
+  "name": "El Messahla",
+  "nameAr": "المساحلة"
+ },
+ {
+  "code": 245857,
+  "name": "El Haria",
+  "nameAr": "الهرية"
+ },
+ {
+  "code": 245858,
+  "name": "Er Rouhia",
+  "nameAr": "الروحية"
+ },
+ {
+  "code": 245859,
+  "name": "El Hamaïma",
+  "nameAr": "الحميمة"
+ },
+ {
+  "code": 245860,
+  "name": "Bou  Ajila",
+  "nameAr": "بوعجيلة"
+ },
+ {
+  "code": 245951,
+  "name": "Kesra",
+  "nameAr": "كسرى"
+ },
+ {
+  "code": 245952,
+  "name": "El Hammam",
+  "nameAr": "الحمام"
+ },
+ {
+  "code": 245953,
+  "name": "El Mansoura Nord",
+  "nameAr": "المنصورة الشمالية"
+ },
+ {
+  "code": 245954,
+  "name": "El Mansoura Sud",
+  "nameAr": "المنصورة الجنوبية"
+ },
+ {
+  "code": 245955,
+  "name": "Bou Abdallah",
+  "nameAr": "بوعبد للا"
+ },
+ {
+  "code": 245956,
+  "name": "El Karia Nord",
+  "nameAr": "القرية الشمالية"
+ },
+ {
+  "code": 245957,
+  "name": "El Karia Sud",
+  "nameAr": "القرية الجنوبية"
+ },
+ {
+  "code": 245958,
+  "name": "El Foudhoul",
+  "nameAr": "الفضول"
+ },
+ {
+  "code": 245959,
+  "name": "El louza",
+  "nameAr": "اللوزة"
+ },
+ {
+  "code": 246051,
+  "name": "Bargou",
+  "nameAr": "برقو"
+ },
+ {
+  "code": 246052,
+  "name": "Banlieue Bargou",
+  "nameAr": "أحواز برقو"
+ },
+ {
+  "code": 246053,
+  "name": "Ouled Fredj",
+  "nameAr": "أوالد فرج"
+ },
+ {
+  "code": 246054,
+  "name": "Sidi Saïd",
+  "nameAr": "سيدي سعيد"
+ },
+ {
+  "code": 246055,
+  "name": "Aïn Fourna",
+  "nameAr": "عين فرنة"
+ },
+ {
+  "code": 246056,
+  "name": "Aïn Bous Sâadia",
+  "nameAr": "عين بوسعدية"
+ },
+ {
+  "code": 246057,
+  "name": "Ed Derija",
+  "nameAr": "الدريجة"
+ },
+ {
+  "code": 246058,
+  "name": "El Behirin",
+  "nameAr": "البحيرين"
+ },
+ {
+  "code": 246151,
+  "name": "El Aroussa",
+  "nameAr": "العروسة"
+ },
+ {
+  "code": 246152,
+  "name": "Bou Jlida",
+  "nameAr": "بوجليدة"
+ },
+ {
+  "code": 246153,
+  "name": "Er Remil",
+  "nameAr": "الزميل"
+ },
+ {
+  "code": 246154,
+  "name": "Mousrata",
+  "nameAr": "مسراطة"
+ },
+ {
+  "code": 246155,
+  "name": "Sidi Ayed",
+  "nameAr": "سيد عياد"
+ },
+ {
+  "code": 315151,
+  "name": "Bou Jâafer",
+  "nameAr": "بوجعفر"
+ },
+ {
+  "code": 315152,
+  "name": "El Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 315153,
+  "name": "Ali Belhouan",
+  "nameAr": "علي البلهوان"
+ },
+ {
+  "code": 315154,
+  "name": "Mohamed Mâarouf",
+  "nameAr": "محمد معروف"
+ },
+ {
+  "code": 315155,
+  "name": "Khezama",
+  "nameAr": "خزامة"
+ },
+ {
+  "code": 315254,
+  "name": "Ezzouhour",
+  "nameAr": "الزهور"
+ },
+ {
+  "code": 315255,
+  "name": "Cité Er Riadh",
+  "nameAr": "حي الرياض"
+ },
+ {
+  "code": 315256,
+  "name": "El Ahd El Jadid",
+  "nameAr": "العهد الجديد"
+ },
+ {
+  "code": 315351,
+  "name": "Oued Blibane",
+  "nameAr": "وادي بليبان"
+ },
+ {
+  "code": 315352,
+  "name": "Hached",
+  "nameAr": "حشاد"
+ },
+ {
+  "code": 315353,
+  "name": "Hédi Chaker",
+  "nameAr": "الهادي شاكر"
+ },
+ {
+  "code": 315354,
+  "name": "Bou Hassina",
+  "nameAr": "بوحسينة"
+ },
+ {
+  "code": 315355,
+  "name": "Mohamed El Karoui",
+  "nameAr": "محمد القروي"
+ },
+ {
+  "code": 315356,
+  "name": "Sahloul",
+  "nameAr": "سهلول"
+ },
+ {
+  "code": 315451,
+  "name": "Taieb hiri’M",
+  "nameAr": "الطيب المهيري"
+ },
+ {
+  "code": 315452,
+  "name": "Ibn Khaldoun",
+  "nameAr": "إبن خلدون"
+ },
+ {
+  "code": 315453,
+  "name": "Ksibet Ech Chatt",
+  "nameAr": "قصيبة الشط"
+ },
+ {
+  "code": 315454,
+  "name": "Sidi Abdelhamid",
+  "nameAr": "سيدي عبد الحميد"
+ },
+ {
+  "code": 315551,
+  "name": "EL Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 315552,
+  "name": "El Kantaoui",
+  "nameAr": "القنطاوي"
+ },
+ {
+  "code": 315553,
+  "name": "Bir Moussa",
+  "nameAr": "بئر موسى"
+ },
+ {
+  "code": 315554,
+  "name": "Sahloul",
+  "nameAr": "سهلول"
+ },
+ {
+  "code": 315555,
+  "name": "El Gharabi",
+  "nameAr": "الغرابي"
+ },
+ {
+  "code": 315651,
+  "name": "Akouda Est",
+  "nameAr": "أكودة الشرقية"
+ },
+ {
+  "code": 315652,
+  "name": "Akouda Ouest",
+  "nameAr": "أكودة الغربية"
+ },
+ {
+  "code": 315653,
+  "name": "Chott Meriam",
+  "nameAr": "شط مريم"
+ },
+ {
+  "code": 315654,
+  "name": "Chott Er Romane",
+  "nameAr": "شط الرمان"
+ },
+ {
+  "code": 315655,
+  "name": "EL Fokaïa",
+  "nameAr": "الفقاعية"
+ },
+ {
+  "code": 315656,
+  "name": "Ettantana",
+  "nameAr": "الطنطانة"
+ },
+ {
+  "code": 315751,
+  "name": "El Jarabâa",
+  "nameAr": "الجرابعة"
+ },
+ {
+  "code": 315752,
+  "name": "Zearna Ouest",
+  "nameAr": "الزعارنةالغربية"
+ },
+ {
+  "code": 315753,
+  "name": "Zearna Est",
+  "nameAr": "الزعارنة الشرقية"
+ },
+ {
+  "code": 315754,
+  "name": "Ouled Mhamed",
+  "nameAr": "أوالد محمد"
+ },
+ {
+  "code": 315755,
+  "name": "Essed Ouest",
+  "nameAr": "السد الغربي"
+ },
+ {
+  "code": 315756,
+  "name": "Balaoum",
+  "nameAr": "بلعوم"
+ },
+ {
+  "code": 315851,
+  "name": "Sidi Bou Ali",
+  "nameAr": "سيدي بوعلي"
+ },
+ {
+  "code": 315852,
+  "name": "Essed Sud",
+  "nameAr": "السد القبلي"
+ },
+ {
+  "code": 315853,
+  "name": "Essed (Nord Essateh )",
+  "nameAr": "السد الجوفي ) السطح("
+ },
+ {
+  "code": 315854,
+  "name": "Ech Chouicha",
+  "nameAr": "الشويشة"
+ },
+ {
+  "code": 315855,
+  "name": "Ouriemma",
+  "nameAr": "وريمة"
+ },
+ {
+  "code": 315856,
+  "name": "Menzel EL Mahatta",
+  "nameAr": "منزل المحطة"
+ },
+ {
+  "code": 315857,
+  "name": "Mehadhba",
+  "nameAr": "المهاذبة"
+ },
+ {
+  "code": 315951,
+  "name": "Hergla",
+  "nameAr": "هرقلة"
+ },
+ {
+  "code": 315952,
+  "name": "El Aribet",
+  "nameAr": "العريبات"
+ },
+ {
+  "code": 315953,
+  "name": "Essouieh",
+  "nameAr": "السويح"
+ },
+ {
+  "code": 316051,
+  "name": "Enfidha",
+  "nameAr": "النفيضة"
+ },
+ {
+  "code": 316052,
+  "name": "EL Frada",
+  "nameAr": "الفرادة"
+ },
+ {
+  "code": 316053,
+  "name": "Gerimet est",
+  "nameAr": "قريميط الشرقية"
+ },
+ {
+  "code": 316054,
+  "name": "Gerimet Ouest",
+  "nameAr": "قريميط الغربية"
+ },
+ {
+  "code": 316055,
+  "name": "Chégarnia",
+  "nameAr": "الشقارنية"
+ },
+ {
+  "code": 316056,
+  "name": "Ouled Abdellah",
+  "nameAr": "أوالد عبد هللا"
+ },
+ {
+  "code": 316057,
+  "name": "Takrouna",
+  "nameAr": "تكرونة"
+ },
+ {
+  "code": 316058,
+  "name": "Menzel Fateh",
+  "nameAr": "منزل فاتح"
+ },
+ {
+  "code": 316059,
+  "name": "EL Garci",
+  "nameAr": "القارصي"
+ },
+ {
+  "code": 316060,
+  "name": "Aïn Medhaker",
+  "nameAr": "عين مذاكر"
+ },
+ {
+  "code": 316061,
+  "name": "Hicher",
+  "nameAr": "هيشر"
+ },
+ {
+  "code": 316062,
+  "name": "Menzel Dar Belouar",
+  "nameAr": "منزل دار بلواعر"
+ },
+ {
+  "code": 316063,
+  "name": "rabet>M Hached",
+  "nameAr": "مرابط حشاد"
+ },
+ {
+  "code": 316151,
+  "name": "Bouficha",
+  "nameAr": "بوفيشة"
+ },
+ {
+  "code": 316152,
+  "name": "Oued El Kharroub",
+  "nameAr": "وادي الخروب"
+ },
+ {
+  "code": 316153,
+  "name": "Sidi Khalifa",
+  "nameAr": "سيدي خليفة"
+ },
+ {
+  "code": 316154,
+  "name": "Essafha",
+  "nameAr": "الصفحة"
+ },
+ {
+  "code": 316155,
+  "name": "Sidi Saïd",
+  "nameAr": "سيدي سعيد"
+ },
+ {
+  "code": 316156,
+  "name": "Aïn Errahma",
+  "nameAr": "عين الرحمة"
+ },
+ {
+  "code": 316157,
+  "name": "El Methalit",
+  "nameAr": "المثاليت"
+ },
+ {
+  "code": 316158,
+  "name": "Esselloum",
+  "nameAr": "السلوم"
+ },
+ {
+  "code": 316159,
+  "name": "Sidi tir’M",
+  "nameAr": "سيدي مطير"
+ },
+ {
+  "code": 316251,
+  "name": "Kondar",
+  "nameAr": "كندار"
+ },
+ {
+  "code": 316252,
+  "name": "Bir El Jedid",
+  "nameAr": "البئر الجديد"
+ },
+ {
+  "code": 316253,
+  "name": "Belalma",
+  "nameAr": "الباللمة"
+ },
+ {
+  "code": 316254,
+  "name": "Bechachma",
+  "nameAr": "البشاشمة"
+ },
+ {
+  "code": 316255,
+  "name": "Ouled EL Abed",
+  "nameAr": "أوالد العابد"
+ },
+ {
+  "code": 316256,
+  "name": "Gmata",
+  "nameAr": "القماطة"
+ },
+ {
+  "code": 316257,
+  "name": "Ouled Ameur",
+  "nameAr": "أوالد عامر"
+ },
+ {
+  "code": 316351,
+  "name": "Sidi El Héni Centre",
+  "nameAr": "سيدي الهاني المركزية"
+ },
+ {
+  "code": 316352,
+  "name": "Sidi El Heni Ouest",
+  "nameAr": "سيدي الهاني الغربية"
+ },
+ {
+  "code": 316353,
+  "name": "Sidi El Heni Sud",
+  "nameAr": "سيدي الهاني الجنوبية"
+ },
+ {
+  "code": 316354,
+  "name": "Ouled Ali Belhani",
+  "nameAr": "أوالد علي بلهاني"
+ },
+ {
+  "code": 316355,
+  "name": "Kroussia Ouest",
+  "nameAr": "كروسية الغربية"
+ },
+ {
+  "code": 316356,
+  "name": "Kroussia Centrale",
+  "nameAr": "كروسية المركزية"
+ },
+ {
+  "code": 316451,
+  "name": "Ettouara Nord",
+  "nameAr": "التوارة الشمالية"
+ },
+ {
+  "code": 316452,
+  "name": "Ettouara Sud",
+  "nameAr": "التوارة الجنوبية"
+ },
+ {
+  "code": 316453,
+  "name": "Jedidine",
+  "nameAr": "الجديدين"
+ },
+ {
+  "code": 316454,
+  "name": "Jebline",
+  "nameAr": "الجبليين"
+ },
+ {
+  "code": 316455,
+  "name": "Habib Thameur",
+  "nameAr": "الحبيب ثامر"
+ },
+ {
+  "code": 316456,
+  "name": "Mouredine",
+  "nameAr": "المردين"
+ },
+ {
+  "code": 316457,
+  "name": "Mneaema",
+  "nameAr": "المناعمة"
+ },
+ {
+  "code": 316458,
+  "name": "El Gharbine",
+  "nameAr": "الغربيين"
+ },
+ {
+  "code": 316459,
+  "name": "El Kenaïes",
+  "nameAr": "الكنائس"
+ },
+ {
+  "code": 316460,
+  "name": "El Kebline",
+  "nameAr": "القبليين"
+ },
+ {
+  "code": 316461,
+  "name": "Ennour",
+  "nameAr": "النور"
+ },
+ {
+  "code": 316462,
+  "name": "El Frady",
+  "nameAr": "الفرادي"
+ },
+ {
+  "code": 316463,
+  "name": "Borgine",
+  "nameAr": "البرجين"
+ },
+ {
+  "code": 316464,
+  "name": "Beni Rabïaa",
+  "nameAr": "بني ربيعة"
+ },
+ {
+  "code": 316465,
+  "name": "Béni Khalthoum",
+  "nameAr": "بني كلثوم"
+ },
+ {
+  "code": 316466,
+  "name": "Nejajra",
+  "nameAr": "النجاجرة"
+ },
+ {
+  "code": 316467,
+  "name": "Messâdine",
+  "nameAr": "المسعدين"
+ },
+ {
+  "code": 316551,
+  "name": "Kalâa Seghira Est",
+  "nameAr": "القلعة الصغرى الشرقية"
+ },
+ {
+  "code": 316552,
+  "name": "Kalâa Seghira Hached",
+  "nameAr": "القلعة الصغرى حشاد"
+ },
+ {
+  "code": 316553,
+  "name": "Kalâa Seghira Ville",
+  "nameAr": "القلعة الصغرى المدينة"
+ },
+ {
+  "code": 316554,
+  "name": "En Nagr",
+  "nameAr": "النقر"
+ },
+ {
+  "code": 316555,
+  "name": "Oued Leya",
+  "nameAr": "وادي الية"
+ },
+ {
+  "code": 316651,
+  "name": "Zaouit Sousse",
+  "nameAr": "زاوية سوسة"
+ },
+ {
+  "code": 316652,
+  "name": "Ksibet Sousse",
+  "nameAr": "قصيبة سوسة"
+ },
+ {
+  "code": 316653,
+  "name": "Thrayet",
+  "nameAr": "الثريّات"
+ },
+ {
+  "code": 325151,
+  "name": "El Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 51522,
+  "name": "EL Medina 2 32",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 325153,
+  "name": "Bab El Gharbi",
+  "nameAr": "باب الغربي"
+ },
+ {
+  "code": 325154,
+  "name": "Er Rbat",
+  "nameAr": "الربط"
+ },
+ {
+  "code": 325155,
+  "name": "El Helia",
+  "nameAr": "الحلية"
+ },
+ {
+  "code": 51562,
+  "name": "El Halia 2 32",
+  "nameAr": "الحلية"
+ },
+ {
+  "code": 325157,
+  "name": "Skanes",
+  "nameAr": "صقانص"
+ },
+ {
+  "code": 325158,
+  "name": "Khenis",
+  "nameAr": "خنيس"
+ },
+ {
+  "code": 325159,
+  "name": "Khenis Nord",
+  "nameAr": "خنيس الشمالية"
+ },
+ {
+  "code": 325251,
+  "name": "Ouerdanine Nord",
+  "nameAr": "الوردانين الشمالية"
+ },
+ {
+  "code": 325252,
+  "name": "Ouerdaninie Sud",
+  "nameAr": "الوردانين الجنوبية"
+ },
+ {
+  "code": 325253,
+  "name": "Menzel Khair",
+  "nameAr": "منزل خير"
+ },
+ {
+  "code": 325254,
+  "name": "Sidi Bou Othman",
+  "nameAr": "سيدي بوعثمان"
+ },
+ {
+  "code": 325255,
+  "name": "Oued El Jebs",
+  "nameAr": "وادي الجبس"
+ },
+ {
+  "code": 325351,
+  "name": "Sahline Est",
+  "nameAr": "الساحلين الشرقية"
+ },
+ {
+  "code": 325352,
+  "name": "Sahline Ouest",
+  "nameAr": "الساحلين الغربية"
+ },
+ {
+  "code": 325353,
+  "name": "Sidi Ameur",
+  "nameAr": "سيدي عامر"
+ },
+ {
+  "code": 325354,
+  "name": "Môotmar",
+  "nameAr": "معتمر"
+ },
+ {
+  "code": 325355,
+  "name": "Masjed Aïssa",
+  "nameAr": "مسجد عيسى"
+ },
+ {
+  "code": 325451,
+  "name": "Mezaougha",
+  "nameAr": "المزاوغة"
+ },
+ {
+  "code": 325452,
+  "name": "Menzel Hayet",
+  "nameAr": "منزل الحياة"
+ },
+ {
+  "code": 325453,
+  "name": "Melichet",
+  "nameAr": "المليشات"
+ },
+ {
+  "code": 325454,
+  "name": "Zéramdine Nord",
+  "nameAr": "زرمدين الشمالية"
+ },
+ {
+  "code": 325455,
+  "name": "Zéramdine Sud",
+  "nameAr": "زرميدين الجنوبية"
+ },
+ {
+  "code": 325551,
+  "name": "Beni Hassen Sud",
+  "nameAr": "بني حسان القبلية"
+ },
+ {
+  "code": 325552,
+  "name": "Beni Hassen Nord",
+  "nameAr": "بني حسان الجوفية"
+ },
+ {
+  "code": 325553,
+  "name": "Hatem",
+  "nameAr": "حاتم"
+ },
+ {
+  "code": 325554,
+  "name": "EL Jnaïha",
+  "nameAr": "الجنائحة"
+ },
+ {
+  "code": 325555,
+  "name": "Ghnada",
+  "nameAr": "الغنادة"
+ },
+ {
+  "code": 325651,
+  "name": "Jamel Sud",
+  "nameAr": "جمال القبلية"
+ },
+ {
+  "code": 325652,
+  "name": "Jamel Nord",
+  "nameAr": "جمال الجوفية"
+ },
+ {
+  "code": 325653,
+  "name": "Jamel Est",
+  "nameAr": "جمال الشرقية"
+ },
+ {
+  "code": 325654,
+  "name": "Jamel Ouest",
+  "nameAr": "جمال الغربية"
+ },
+ {
+  "code": 325655,
+  "name": "Zaouiet Kontoch",
+  "nameAr": "زاوية قنطش"
+ },
+ {
+  "code": 325656,
+  "name": "Bir Taïeb",
+  "nameAr": "بئر الطيب"
+ },
+ {
+  "code": 325657,
+  "name": "Menzel Kamel",
+  "nameAr": "منزل كامل"
+ },
+ {
+  "code": 325658,
+  "name": "El Hdadra",
+  "nameAr": "الهدادرة"
+ },
+ {
+  "code": 325659,
+  "name": "Et Teyaïra",
+  "nameAr": "الطيايرة"
+ },
+ {
+  "code": 325751,
+  "name": "Bembla",
+  "nameAr": "بنبلة"
+ },
+ {
+  "code": 325752,
+  "name": "Bembla Ouest",
+  "nameAr": "بنبلة الغربية"
+ },
+ {
+  "code": 325753,
+  "name": "El Manara",
+  "nameAr": "المنارة"
+ },
+ {
+  "code": 325754,
+  "name": "Menzel En Nour",
+  "nameAr": "منزل النور"
+ },
+ {
+  "code": 325755,
+  "name": "EL Masdour",
+  "nameAr": "المصدور"
+ },
+ {
+  "code": 325756,
+  "name": "Menzel Harb",
+  "nameAr": "منزل حرب"
+ },
+ {
+  "code": 325851,
+  "name": "Moknine Est",
+  "nameAr": "المكنين الشرقية"
+ },
+ {
+  "code": 325852,
+  "name": "Moknine Sud",
+  "nameAr": "المكنين القبلية"
+ },
+ {
+  "code": 325853,
+  "name": "Moknine Nord",
+  "nameAr": "المكنين الجوفية"
+ },
+ {
+  "code": 325854,
+  "name": "Ras El Ouad",
+  "nameAr": "رأس الوادي"
+ },
+ {
+  "code": 325855,
+  "name": "Moknine Ouest",
+  "nameAr": "المكنين الغربية"
+ },
+ {
+  "code": 325856,
+  "name": "Khéredine",
+  "nameAr": "خير الدين"
+ },
+ {
+  "code": 325857,
+  "name": "Sidi Bennour",
+  "nameAr": "سيدي بنور"
+ },
+ {
+  "code": 325858,
+  "name": "Menzel Farsi",
+  "nameAr": "منزل فارسي"
+ },
+ {
+  "code": 325859,
+  "name": "Chérahil",
+  "nameAr": "الشراحيل"
+ },
+ {
+  "code": 325860,
+  "name": "Amiret El Fehoul",
+  "nameAr": "عميرة الفحول"
+ },
+ {
+  "code": 335861,
+  "name": "Amiret El Hojjaj",
+  "nameAr": "عميرة الحجاج"
+ },
+ {
+  "code": 325862,
+  "name": "Amiret Touazra",
+  "nameAr": "عميرة التوازرة"
+ },
+ {
+  "code": 325863,
+  "name": "Amiret Touazra Sud",
+  "nameAr": "عميرة التوزارةالجنوبية"
+ },
+ {
+  "code": 325951,
+  "name": "Bekalta Nord",
+  "nameAr": "البقالطة الشمالية"
+ },
+ {
+  "code": 325952,
+  "name": "Bekalta Sud",
+  "nameAr": "البقالطة الجنوبية"
+ },
+ {
+  "code": 325953,
+  "name": "El Baghdadi",
+  "nameAr": "البغدادي"
+ },
+ {
+  "code": 325854,
+  "name": "Bekalta Est",
+  "nameAr": "البقالطة الشرقية"
+ },
+ {
+  "code": 326051,
+  "name": "Houmet Essouk",
+  "nameAr": "حومة السوق"
+ },
+ {
+  "code": 326052,
+  "name": "El Fadhline",
+  "nameAr": "الفضلين"
+ },
+ {
+  "code": 326053,
+  "name": "El Aïaïcha",
+  "nameAr": "العيايشة"
+ },
+ {
+  "code": 326054,
+  "name": "Sokrine",
+  "nameAr": "السكرين"
+ },
+ {
+  "code": 326055,
+  "name": "Bou driss",
+  "nameAr": "بودريس"
+ },
+ {
+  "code": 326151,
+  "name": "Ayed",
+  "nameAr": "عياد"
+ },
+ {
+  "code": 326152,
+  "name": "Soua",
+  "nameAr": "صوة"
+ },
+ {
+  "code": 326153,
+  "name": "Bouzouita",
+  "nameAr": "بوزويتة"
+ },
+ {
+  "code": 326154,
+  "name": "Cité Erriadh",
+  "nameAr": "حي الرياض"
+ },
+ {
+  "code": 326251,
+  "name": "Ksibet El Mediouni",
+  "nameAr": "قصيبةالمديوني"
+ },
+ {
+  "code": 326252,
+  "name": "Touza",
+  "nameAr": "طوزة"
+ },
+ {
+  "code": 326253,
+  "name": "Benen Sud",
+  "nameAr": "بنان القبلية"
+ },
+ {
+  "code": 326254,
+  "name": "Benen Nord",
+  "nameAr": "بنان الجوفية"
+ },
+ {
+  "code": 326255,
+  "name": "Bodher",
+  "nameAr": "بوضر"
+ },
+ {
+  "code": 326351,
+  "name": "Sayada Est",
+  "nameAr": "صيادة الشرقية"
+ },
+ {
+  "code": 326352,
+  "name": "Sayada Ouest",
+  "nameAr": "صيادة الغربية"
+ },
+ {
+  "code": 326353,
+  "name": "Lamta",
+  "nameAr": "لمطة"
+ },
+ {
+  "code": 326354,
+  "name": "Bou hjar",
+  "nameAr": "بوحجر"
+ },
+ {
+  "code": 335151,
+  "name": "Mahdia",
+  "nameAr": "المهدية"
+ },
+ {
+  "code": 335152,
+  "name": "Zouila",
+  "nameAr": "زويلة"
+ },
+ {
+  "code": 335153,
+  "name": "Zouila Sud",
+  "nameAr": "زويلة الجنوبية"
+ },
+ {
+  "code": 335154,
+  "name": "Rejiche",
+  "nameAr": "رجيش"
+ },
+ {
+  "code": 335155,
+  "name": "Réjiche Sud",
+  "nameAr": "رجيش الجنوبية"
+ },
+ {
+  "code": 335156,
+  "name": "Chiba",
+  "nameAr": "شيبة"
+ },
+ {
+  "code": 335157,
+  "name": "Es Sâad",
+  "nameAr": "السعد"
+ },
+ {
+  "code": 335158,
+  "name": "Jaouaouda",
+  "nameAr": "الجواودة"
+ },
+ {
+  "code": 335159,
+  "name": "Ez Zahra",
+  "nameAr": "الزهراء"
+ },
+ {
+  "code": 335160,
+  "name": "Zegana",
+  "nameAr": "الزقانة"
+ },
+ {
+  "code": 335161,
+  "name": "Hiboun",
+  "nameAr": "هيبون"
+ },
+ {
+  "code": 335162,
+  "name": "Er Remal",
+  "nameAr": "الرمل"
+ },
+ {
+  "code": 335163,
+  "name": "El Hekaima Est",
+  "nameAr": "الحكايمة الشرقية"
+ },
+ {
+  "code": 335164,
+  "name": "Hekaima Ouest",
+  "nameAr": "الحكايمة الغربية"
+ },
+ {
+  "code": 335251,
+  "name": "Bou Merdes",
+  "nameAr": "بومرداس"
+ },
+ {
+  "code": 335252,
+  "name": "El Houes",
+  "nameAr": "الحوس"
+ },
+ {
+  "code": 335253,
+  "name": "Kerker",
+  "nameAr": "كركر"
+ },
+ {
+  "code": 335254,
+  "name": "Zerata",
+  "nameAr": "الزراطة"
+ },
+ {
+  "code": 335255,
+  "name": "Er Rouadhi",
+  "nameAr": "الرواضي"
+ },
+ {
+  "code": 335256,
+  "name": "Ech Chouariaa",
+  "nameAr": "الشوارعية"
+ },
+ {
+  "code": 335257,
+  "name": "Bouhlale El Ali Sud",
+  "nameAr": "بوهالل العلي القبلية"
+ },
+ {
+  "code": 335258,
+  "name": "Bouhlale El Ali Nord",
+  "nameAr": "بوهالل العلي الجوفية"
+ },
+ {
+  "code": 335259,
+  "name": "Menzel Hamza",
+  "nameAr": "منزل حمزة"
+ },
+ {
+  "code": 335351,
+  "name": "Ouled Chamekh Sud",
+  "nameAr": "أوالد الشامخ الجنوبية"
+ },
+ {
+  "code": 335352,
+  "name": "Ouled Chamekh Nord",
+  "nameAr": "أوالد الشامخ الشمالية"
+ },
+ {
+  "code": 335353,
+  "name": "Ouled Amor",
+  "nameAr": "أوالد عمر"
+ },
+ {
+  "code": 335354,
+  "name": "Chehimet Nord",
+  "nameAr": "الشحيمات الشمالية"
+ },
+ {
+  "code": 335355,
+  "name": "El Ajilet",
+  "nameAr": "العجيالت"
+ },
+ {
+  "code": 335356,
+  "name": "Es Somra",
+  "nameAr": "السمرة"
+ },
+ {
+  "code": 335357,
+  "name": "Bou Slim",
+  "nameAr": "بوسليم"
+ },
+ {
+  "code": 335358,
+  "name": "Meharza Nord",
+  "nameAr": "المحارزة الشمالية"
+ },
+ {
+  "code": 335451,
+  "name": "Chorbane",
+  "nameAr": "شربان"
+ },
+ {
+  "code": 335452,
+  "name": "El Mâati",
+  "nameAr": "المعاطي"
+ },
+ {
+  "code": 335453,
+  "name": "Ech Chahda Sud",
+  "nameAr": "الشحدة القبلية"
+ },
+ {
+  "code": 335454,
+  "name": "Ech Chahda Est",
+  "nameAr": "الشحدة الشرقية"
+ },
+ {
+  "code": 335455,
+  "name": "El Gouacem Ouest",
+  "nameAr": "القواسم الغربية"
+ },
+ {
+  "code": 335456,
+  "name": "El Gouacem Est",
+  "nameAr": "القواسم الشرقية"
+ },
+ {
+  "code": 335457,
+  "name": "Ech  Charaf",
+  "nameAr": "الشرف"
+ },
+ {
+  "code": 335458,
+  "name": "El Gradha Ouest",
+  "nameAr": "القرادحة الغربية"
+ },
+ {
+  "code": 335459,
+  "name": "El Gradha Est",
+  "nameAr": "القرادحةالشرقية"
+ },
+ {
+  "code": 335460,
+  "name": "Ouled El Hannachi",
+  "nameAr": "أوالد الحناشي"
+ },
+ {
+  "code": 335551,
+  "name": "Hebira",
+  "nameAr": "هبيرة"
+ },
+ {
+  "code": 335552,
+  "name": "Menzel Hached",
+  "nameAr": "منزل حشاد"
+ },
+ {
+  "code": 335553,
+  "name": "Regaïgua",
+  "nameAr": "الرقايقة"
+ },
+ {
+  "code": 335554,
+  "name": "Ech Chahda Ouest",
+  "nameAr": "الشحدة الغربية"
+ },
+ {
+  "code": 335555,
+  "name": "El Maherza Sud",
+  "nameAr": "المحارزة الجنوبية"
+ },
+ {
+  "code": 335651,
+  "name": "Essouassi",
+  "nameAr": "السواسي"
+ },
+ {
+  "code": 335652,
+  "name": "Es Saïda",
+  "nameAr": "السيدة"
+ },
+ {
+  "code": 335653,
+  "name": "Sidi Naceur",
+  "nameAr": "سيدي الناصر"
+ },
+ {
+  "code": 335654,
+  "name": "Sidi Zid",
+  "nameAr": "سيدي زيد"
+ },
+ {
+  "code": 335655,
+  "name": "Bou Helal",
+  "nameAr": "بوهالل"
+ },
+ {
+  "code": 335656,
+  "name": "Cherichira",
+  "nameAr": "الشريشيرة"
+ },
+ {
+  "code": 335657,
+  "name": "El Kesasba",
+  "nameAr": "الكساسبة"
+ },
+ {
+  "code": 335658,
+  "name": "Ez Zairat",
+  "nameAr": "الزعيرات"
+ },
+ {
+  "code": 335659,
+  "name": "Ouled Moulahem Nord",
+  "nameAr": "أوالد موالهم الشمالية"
+ },
+ {
+  "code": 335660,
+  "name": "Ouled Moulahem Ouest",
+  "nameAr": "أوالد موالهم الغربية"
+ },
+ {
+  "code": 335661,
+  "name": "Ech Chahimet sud",
+  "nameAr": "الشحيمات القبلية"
+ },
+ {
+  "code": 335751,
+  "name": "Es Zaouia",
+  "nameAr": "الزاوية"
+ },
+ {
+  "code": 335752,
+  "name": "El Mourabitine",
+  "nameAr": "المرابطين"
+ },
+ {
+  "code": 335753,
+  "name": "Riadh Bou Helal",
+  "nameAr": "رياض بوهالل"
+ },
+ {
+  "code": 335754,
+  "name": "El Aïtha",
+  "nameAr": "العيثة"
+ },
+ {
+  "code": 335755,
+  "name": "El Mechalet",
+  "nameAr": "المشاالت"
+ },
+ {
+  "code": 335756,
+  "name": "Zeghabna",
+  "nameAr": "الزغابنة"
+ },
+ {
+  "code": 335757,
+  "name": "Touahria",
+  "nameAr": "الطواهرية"
+ },
+ {
+  "code": 335758,
+  "name": "EL Ababsa",
+  "nameAr": "العبابسة"
+ },
+ {
+  "code": 335759,
+  "name": "Talalsa",
+  "nameAr": "التاللسة"
+ },
+ {
+  "code": 335760,
+  "name": "El Achaba",
+  "nameAr": "العشابة"
+ },
+ {
+  "code": 335851,
+  "name": "Chebba Nord",
+  "nameAr": "الشابة الشمالية"
+ },
+ {
+  "code": 335852,
+  "name": "Chebba Sud",
+  "nameAr": "الشابة الجنوبية"
+ },
+ {
+  "code": 335853,
+  "name": "Es Sâafet",
+  "nameAr": "السعفات"
+ },
+ {
+  "code": 335951,
+  "name": "Melloulech",
+  "nameAr": "ملولش"
+ },
+ {
+  "code": 335952,
+  "name": "El Aïtha",
+  "nameAr": "العيثة"
+ },
+ {
+  "code": 335953,
+  "name": "El Mansoura",
+  "nameAr": "المنصورة"
+ },
+ {
+  "code": 335954,
+  "name": "Ben Hssine",
+  "nameAr": "بن حسين"
+ },
+ {
+  "code": 335955,
+  "name": "Sidi Abdellaziz",
+  "nameAr": "سيدي عبد العزيز"
+ },
+ {
+  "code": 336051,
+  "name": "Sidi Alouane Ouest",
+  "nameAr": "سيدي علوان الغربية"
+ },
+ {
+  "code": 336052,
+  "name": "Sidi Alouane Est",
+  "nameAr": "سيدي علوان الشرقية"
+ },
+ {
+  "code": 336053,
+  "name": "Zorda",
+  "nameAr": "زردة"
+ },
+ {
+  "code": 336054,
+  "name": "Sakiet EL Khadem",
+  "nameAr": "ساقيةالخادم"
+ },
+ {
+  "code": 336055,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 336056,
+  "name": "Oued Béja Nord",
+  "nameAr": "وادي باجة الشمالية"
+ },
+ {
+  "code": 336057,
+  "name": "Oued Béja Sud",
+  "nameAr": "وادي باجة الجنوبية"
+ },
+ {
+  "code": 336058,
+  "name": "Zalba Est",
+  "nameAr": "زالبة الشرقية"
+ },
+ {
+  "code": 336059,
+  "name": "Zalba Ouest",
+  "nameAr": "زالبة الغربية"
+ },
+ {
+  "code": 336060,
+  "name": "En Nozha",
+  "nameAr": "النزهة"
+ },
+ {
+  "code": 336061,
+  "name": "Oued Guellat",
+  "nameAr": "وادي قالت"
+ },
+ {
+  "code": 336062,
+  "name": "Es  Sâada",
+  "nameAr": "السعادة"
+ },
+ {
+  "code": 336151,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 336152,
+  "name": "Ksour Essaf Riadh",
+  "nameAr": "قصور الساف الرياض"
+ },
+ {
+  "code": 336153,
+  "name": "El Ktanine",
+  "nameAr": "القطاتين"
+ },
+ {
+  "code": 336154,
+  "name": "Ksour Essaf Ettakaddoum",
+  "nameAr": "قصور الساف التقدم"
+ },
+ {
+  "code": 336155,
+  "name": "Salakta",
+  "nameAr": "سلقطة"
+ },
+ {
+  "code": 336156,
+  "name": "Ghedabna",
+  "nameAr": "الغضابنة"
+ },
+ {
+  "code": 336157,
+  "name": "Ouled Salah",
+  "nameAr": "أوالد صالح"
+ },
+ {
+  "code": 336158,
+  "name": "Sidi Assaker Ouest",
+  "nameAr": "سيدي عساكر الغربية"
+ },
+ {
+  "code": 336159,
+  "name": "Recharcha",
+  "nameAr": "الرشارشة"
+ },
+ {
+  "code": 336160,
+  "name": "EL Hessinet",
+  "nameAr": "الحسينات"
+ },
+ {
+  "code": 336161,
+  "name": "El Bradâa Sud",
+  "nameAr": "البرادعة الجنوبية"
+ },
+ {
+  "code": 336162,
+  "name": "El Bradâa Nord",
+  "nameAr": "البرادعة الشمالية"
+ },
+ {
+  "code": 345151,
+  "name": "La Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 345152,
+  "name": "Bab El Bhar",
+  "nameAr": "باب البحر"
+ },
+ {
+  "code": 345153,
+  "name": "Cité El Kairi",
+  "nameAr": "الحي الخيري"
+ },
+ {
+  "code": 345154,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 345155,
+  "name": "Er Rbadh",
+  "nameAr": "الربض"
+ },
+ {
+  "code": 345157,
+  "name": "Aïn Chaikh Rouhou",
+  "nameAr": "عين شيخ روحو"
+ },
+ {
+  "code": 345158,
+  "name": "Cité Ettaouidhi",
+  "nameAr": "حي التعويضي"
+ },
+ {
+  "code": 345159,
+  "name": "Merkez Kaddour",
+  "nameAr": "مركز قدور"
+ },
+ {
+  "code": 345160,
+  "name": "Merkez El Pacha",
+  "nameAr": "مركز الباشا"
+ },
+ {
+  "code": 345161,
+  "name": "Sidi Abbès",
+  "nameAr": "سيدي عباس"
+ },
+ {
+  "code": 345162,
+  "name": "Mohamed Ali",
+  "nameAr": "محمد علي"
+ },
+ {
+  "code": 345251,
+  "name": "Merkez Chaker",
+  "nameAr": "مركز شاكر"
+ },
+ {
+  "code": 345252,
+  "name": "Cité El Habib",
+  "nameAr": "حي الحبيب"
+ },
+ {
+  "code": 345253,
+  "name": "Soukra",
+  "nameAr": "سكرة"
+ },
+ {
+  "code": 345254,
+  "name": "El Alia",
+  "nameAr": "العالية"
+ },
+ {
+  "code": 345255,
+  "name": "Oued Er Rmel",
+  "nameAr": "وادي الرمل"
+ },
+ {
+  "code": 345256,
+  "name": "El Houda",
+  "nameAr": "الهدى"
+ },
+ {
+  "code": 345257,
+  "name": "Cité EL Bahri",
+  "nameAr": "حي البحري"
+ },
+ {
+  "code": 345351,
+  "name": "Sakiet Ezzit",
+  "nameAr": "ساقية الزيت"
+ },
+ {
+  "code": 345352,
+  "name": "Merkez Bouassida",
+  "nameAr": "مركز بوعصيدة"
+ },
+ {
+  "code": 345353,
+  "name": "Es Sedra",
+  "nameAr": "السدرة"
+ },
+ {
+  "code": 345354,
+  "name": "Chihia",
+  "nameAr": "الشيحية"
+ },
+ {
+  "code": 345355,
+  "name": "Teniour",
+  "nameAr": "تنيور"
+ },
+ {
+  "code": 345356,
+  "name": "Sidi Salah",
+  "nameAr": "سيدي صالح"
+ },
+ {
+  "code": 345357,
+  "name": "El Ons",
+  "nameAr": "األنس"
+ },
+ {
+  "code": 345451,
+  "name": "Sakiet Eddaier",
+  "nameAr": "ساقية الدائر"
+ },
+ {
+  "code": 345452,
+  "name": "Khiria",
+  "nameAr": "الخيرية"
+ },
+ {
+  "code": 345453,
+  "name": "Merkez Es Sebaï",
+  "nameAr": "مركز السبعي"
+ },
+ {
+  "code": 345454,
+  "name": "Bedarna",
+  "nameAr": "البدارنة"
+ },
+ {
+  "code": 345455,
+  "name": "Sidi Mansour",
+  "nameAr": "سيدي منصور"
+ },
+ {
+  "code": 345456,
+  "name": "Cité Bourguiba",
+  "nameAr": "حي بورقيبة"
+ },
+ {
+  "code": 345457,
+  "name": "Saltnia",
+  "nameAr": "السلطينة"
+ },
+ {
+  "code": 345458,
+  "name": "Merkez Kâaniche",
+  "nameAr": "مركز كعنيش"
+ },
+ {
+  "code": 345551,
+  "name": "El Aïn",
+  "nameAr": "العين"
+ },
+ {
+  "code": 345552,
+  "name": "Gremda",
+  "nameAr": "قرمدة"
+ },
+ {
+  "code": 345553,
+  "name": "Bouzaïane",
+  "nameAr": "بوزيان"
+ },
+ {
+  "code": 345554,
+  "name": "El Afrane Nord",
+  "nameAr": "األفران الشمالية"
+ },
+ {
+  "code": 345555,
+  "name": "Khazanet",
+  "nameAr": "الخزانات"
+ },
+ {
+  "code": 345556,
+  "name": "El Aouabed",
+  "nameAr": "العوابد"
+ },
+ {
+  "code": 345557,
+  "name": "Ayoun El Mayel",
+  "nameAr": "عيون المايل"
+ },
+ {
+  "code": 345651,
+  "name": "Tina",
+  "nameAr": "طينة"
+ },
+ {
+  "code": 345652,
+  "name": "Sidi Abid",
+  "nameAr": "سيد عبيد"
+ },
+ {
+  "code": 345653,
+  "name": "El Hajeb",
+  "nameAr": "الحاجب"
+ },
+ {
+  "code": 345751,
+  "name": "Agareb",
+  "nameAr": "عقارب"
+ },
+ {
+  "code": 345752,
+  "name": "Gargour",
+  "nameAr": "قرقور"
+ },
+ {
+  "code": 345753,
+  "name": "Bouledhieb",
+  "nameAr": "بولذياب"
+ },
+ {
+  "code": 345754,
+  "name": "El Mahrouka",
+  "nameAr": "المحروقة"
+ },
+ {
+  "code": 345755,
+  "name": "Ettorba",
+  "nameAr": "التربة"
+ },
+ {
+  "code": 345756,
+  "name": "Ben Sahloun",
+  "nameAr": "بن سهلون"
+ },
+ {
+  "code": 35757,
+  "name": "Zeliana 4",
+  "nameAr": "زلبانة"
+ },
+ {
+  "code": 345758,
+  "name": "Es Soghar",
+  "nameAr": "الصغار"
+ },
+ {
+  "code": 345851,
+  "name": "Djebeniana",
+  "nameAr": "جبنيانة"
+ },
+ {
+  "code": 345852,
+  "name": "Batria",
+  "nameAr": "بطرية"
+ },
+ {
+  "code": 345853,
+  "name": "Baltech",
+  "nameAr": "بلتش"
+ },
+ {
+  "code": 345854,
+  "name": "Hazeg",
+  "nameAr": "حزق"
+ },
+ {
+  "code": 345855,
+  "name": "EL Kalelja",
+  "nameAr": "القاللجة"
+ },
+ {
+  "code": 345856,
+  "name": "El Ajengna",
+  "nameAr": "العجانقة"
+ },
+ {
+  "code": 345857,
+  "name": "El Louza",
+  "nameAr": "اللوزة"
+ },
+ {
+  "code": 345858,
+  "name": "El Houdh",
+  "nameAr": "الحوض"
+ },
+ {
+  "code": 345951,
+  "name": "El Amra",
+  "nameAr": "العامرة"
+ },
+ {
+  "code": 345952,
+  "name": "Beliana",
+  "nameAr": "بليانة"
+ },
+ {
+  "code": 345953,
+  "name": "El Mesatria",
+  "nameAr": "المسائرية"
+ },
+ {
+  "code": 345954,
+  "name": "Es Salam",
+  "nameAr": "السالم"
+ },
+ {
+  "code": 345955,
+  "name": "Dherra Beni Ziad",
+  "nameAr": "ذراع بن زياد"
+ },
+ {
+  "code": 345956,
+  "name": "Bou Derbala",
+  "nameAr": "بودربالة"
+ },
+ {
+  "code": 346051,
+  "name": "El Hencha",
+  "nameAr": "الحنشة"
+ },
+ {
+  "code": 346052,
+  "name": "En Nasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 346053,
+  "name": "Sidi Hassen Belhaj",
+  "nameAr": "سيدي حسن بالحاج"
+ },
+ {
+  "code": 346054,
+  "name": "Dokhane",
+  "nameAr": "دخان"
+ },
+ {
+  "code": 346055,
+  "name": "Bir Chaaba",
+  "nameAr": "بئر الشعبة"
+ },
+ {
+  "code": 346056,
+  "name": "Merkez Mosbah",
+  "nameAr": "مركز مصباح"
+ },
+ {
+  "code": 346057,
+  "name": "Bir Salah",
+  "nameAr": "بئر صالح"
+ },
+ {
+  "code": 346058,
+  "name": "El Hajjara",
+  "nameAr": "الحجارة"
+ },
+ {
+  "code": 346059,
+  "name": "Jouaouda",
+  "nameAr": "الجواودة"
+ },
+ {
+  "code": 346151,
+  "name": "Menzel Chaker",
+  "nameAr": "منزل شاكر"
+ },
+ {
+  "code": 346152,
+  "name": "Bou Jarboue",
+  "nameAr": "بوجوبوع"
+ },
+ {
+  "code": 346153,
+  "name": "Majel Edarj",
+  "nameAr": "ماجل الدرج"
+ },
+ {
+  "code": 346154,
+  "name": "Bir Mellouli",
+  "nameAr": "بئر الملولي"
+ },
+ {
+  "code": 346155,
+  "name": "Bechka",
+  "nameAr": "بشكة"
+ },
+ {
+  "code": 346156,
+  "name": "Bou Thadi",
+  "nameAr": "بوثدي"
+ },
+ {
+  "code": 346157,
+  "name": "El Bokâa El Bidha",
+  "nameAr": "البقعة البيضاء"
+ },
+ {
+  "code": 346158,
+  "name": "El Aouadhna",
+  "nameAr": "العوادنة"
+ },
+ {
+  "code": 346159,
+  "name": "Telil El Ajla",
+  "nameAr": "تليل العجلة"
+ },
+ {
+  "code": 346160,
+  "name": "El Achech",
+  "nameAr": "األعشاش"
+ },
+ {
+  "code": 346161,
+  "name": "El Hadj Kacem",
+  "nameAr": "الحاج قاسم"
+ },
+ {
+  "code": 346162,
+  "name": "Chaleb",
+  "nameAr": "شعالب"
+ },
+ {
+  "code": 346251,
+  "name": "EL Ghraiba",
+  "nameAr": "الغريبة"
+ },
+ {
+  "code": 346252,
+  "name": "El Manar",
+  "nameAr": "المنار"
+ },
+ {
+  "code": 346253,
+  "name": "El Hchichina Sud",
+  "nameAr": "الحشيشينة الجنوبية"
+ },
+ {
+  "code": 346254,
+  "name": "Hchichina Nord",
+  "nameAr": "الحشيشينة الشمالية"
+ },
+ {
+  "code": 346255,
+  "name": "El Châal",
+  "nameAr": "الشعال"
+ },
+ {
+  "code": 346351,
+  "name": "Bir Ali Ben Khelifa",
+  "nameAr": "بئر علي بن خليفة"
+ },
+ {
+  "code": 346352,
+  "name": "Sidi Dhaher",
+  "nameAr": "سيدي ظاهر"
+ },
+ {
+  "code": 346353,
+  "name": "Sidi Ali Belabed",
+  "nameAr": "سيدي علي بالعابد"
+ },
+ {
+  "code": 346354,
+  "name": "Bou Slim",
+  "nameAr": "بوسليم"
+ },
+ {
+  "code": 346355,
+  "name": "El Abraj",
+  "nameAr": "األبراج"
+ },
+ {
+  "code": 346356,
+  "name": "Sdiret Sud",
+  "nameAr": "السديرات الجنوبية"
+ },
+ {
+  "code": 346357,
+  "name": "Sdiret Nord",
+  "nameAr": "السديرات الشمالية"
+ },
+ {
+  "code": 346358,
+  "name": "El Gandoul",
+  "nameAr": "القندول"
+ },
+ {
+  "code": 346359,
+  "name": "Oued Ech Cheikh",
+  "nameAr": "وادي الشيخ"
+ },
+ {
+  "code": 346360,
+  "name": "Ouadrane Sud",
+  "nameAr": "ودران الجنوبية"
+ },
+ {
+  "code": 346361,
+  "name": "Ouadrane Nord",
+  "nameAr": "ودران الشمالية"
+ },
+ {
+  "code": 346362,
+  "name": "En Nadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 346451,
+  "name": "Sbih",
+  "nameAr": "صبيح"
+ },
+ {
+  "code": 346452,
+  "name": "El Khadhra",
+  "nameAr": "الخضراء"
+ },
+ {
+  "code": 346453,
+  "name": "Naoual",
+  "nameAr": "نوال"
+ },
+ {
+  "code": 346454,
+  "name": "Skhira",
+  "nameAr": "الصخيرة"
+ },
+ {
+  "code": 346455,
+  "name": "El Kenitra",
+  "nameAr": "القنيطرة"
+ },
+ {
+  "code": 346456,
+  "name": "Sidi Mohamed",
+  "nameAr": "سيدي محمد"
+ },
+ {
+  "code": 346457,
+  "name": "El Hammada",
+  "nameAr": "الحمادة"
+ },
+ {
+  "code": 346551,
+  "name": "Mahrès",
+  "nameAr": "المحرس"
+ },
+ {
+  "code": 346552,
+  "name": "Mahres Sud",
+  "nameAr": "المحرس الجنوبية"
+ },
+ {
+  "code": 346553,
+  "name": "Chaffar",
+  "nameAr": "الشفار"
+ },
+ {
+  "code": 346554,
+  "name": "Sidi Ghrib",
+  "nameAr": "سيدي غريب"
+ },
+ {
+  "code": 346555,
+  "name": "Aïthet Chelaia",
+  "nameAr": "عيثة الشاليا"
+ },
+ {
+  "code": 346556,
+  "name": "Es Smara",
+  "nameAr": "السمارة"
+ },
+ {
+  "code": 346651,
+  "name": "El Ataya",
+  "nameAr": "العطايا"
+ },
+ {
+  "code": 346652,
+  "name": "El Ramla",
+  "nameAr": "الرملة"
+ },
+ {
+  "code": 346653,
+  "name": "Sidi Frej",
+  "nameAr": "سيدي فرج"
+ },
+ {
+  "code": 346654,
+  "name": "Melita",
+  "nameAr": "مليتة"
+ },
+ {
+  "code": 346655,
+  "name": "El Kalabine",
+  "nameAr": "الكالبين"
+ },
+ {
+  "code": 346656,
+  "name": "En Najet",
+  "nameAr": "النجا ة"
+ },
+ {
+  "code": 346657,
+  "name": "El Chargui",
+  "nameAr": "الشرقي"
+ },
+ {
+  "code": 346658,
+  "name": "El Kantra",
+  "nameAr": "القنطرة"
+ },
+ {
+  "code": 346659,
+  "name": "El Kraten",
+  "nameAr": "القراطن"
+ },
+ {
+  "code": 346660,
+  "name": "Ouled Kacem",
+  "nameAr": "أوالد قاسم"
+ },
+ {
+  "code": 415151,
+  "name": "Al Ansar",
+  "nameAr": "األنصار"
+ },
+ {
+  "code": 415152,
+  "name": "El Jemâa Nord",
+  "nameAr": "الجامع الشمالية"
+ },
+ {
+  "code": 415153,
+  "name": "El Jemâa Sud",
+  "nameAr": "الجامع الجنوبية"
+ },
+ {
+  "code": 415154,
+  "name": "Kebilia Nord",
+  "nameAr": "القبلية الشمالية"
+ },
+ {
+  "code": 415155,
+  "name": "Jeblia Nord",
+  "nameAr": "الجبلية الشمالية"
+ },
+ {
+  "code": 415156,
+  "name": "Jeblia Sud",
+  "nameAr": "الجبلية الجنوبية"
+ },
+ {
+  "code": 415157,
+  "name": "El Menchia",
+  "nameAr": "المنشية"
+ },
+ {
+  "code": 415158,
+  "name": "Al Aghalba",
+  "nameAr": "األغالبة"
+ },
+ {
+  "code": 415159,
+  "name": "Elbaten",
+  "nameAr": "الباطن"
+ },
+ {
+  "code": 415160,
+  "name": "Dheraa Ettammar",
+  "nameAr": "ذراع التمار"
+ },
+ {
+  "code": 415161,
+  "name": "Metbasta",
+  "nameAr": "المتبسطة"
+ },
+ {
+  "code": 415162,
+  "name": "El Ghabet",
+  "nameAr": "الغابات"
+ },
+ {
+  "code": 415251,
+  "name": "Elmansoura Nord",
+  "nameAr": "المنصورة الشمالية"
+ },
+ {
+  "code": 415252,
+  "name": "Elmansoura Sud",
+  "nameAr": "المنصورة الجنوبية"
+ },
+ {
+  "code": 415253,
+  "name": "Keblia Sud",
+  "nameAr": "القبلية الجنوبية"
+ },
+ {
+  "code": 415254,
+  "name": "Merguellil",
+  "nameAr": "مرق الليل"
+ },
+ {
+  "code": 415255,
+  "name": "Rakada",
+  "nameAr": "رقادة"
+ },
+ {
+  "code": 415256,
+  "name": "Zroud",
+  "nameAr": "زرود"
+ },
+ {
+  "code": 415257,
+  "name": "Ettaen",
+  "nameAr": "التبان"
+ },
+ {
+  "code": 415258,
+  "name": "Ouled Nhar",
+  "nameAr": "أوالد نهار"
+ },
+ {
+  "code": 415259,
+  "name": "Khazazia",
+  "nameAr": "الخزازية"
+ },
+ {
+  "code": 415260,
+  "name": "El Makhsouma",
+  "nameAr": "المخصومة"
+ },
+ {
+  "code": 415161,
+  "name": "Nebch",
+  "nameAr": "النبش"
+ },
+ {
+  "code": 415262,
+  "name": "Zâafrana",
+  "nameAr": "زعفرانة"
+ },
+ {
+  "code": 415263,
+  "name": "El Khadra",
+  "nameAr": "الخضراء"
+ },
+ {
+  "code": 415164,
+  "name": "El Hammama",
+  "nameAr": "الحمام"
+ },
+ {
+  "code": 415265,
+  "name": "Beriket El Argoub",
+  "nameAr": "بريكات العرقوب"
+ },
+ {
+  "code": 415351,
+  "name": "Echbika",
+  "nameAr": "الشبيكة"
+ },
+ {
+  "code": 415352,
+  "name": "Jaouaouda",
+  "nameAr": "الجواودة"
+ },
+ {
+  "code": 415353,
+  "name": "El Aouamria",
+  "nameAr": "العوامرية"
+ },
+ {
+  "code": 415354,
+  "name": "Errouisset",
+  "nameAr": "الرويسات"
+ },
+ {
+  "code": 415355,
+  "name": "Abida",
+  "nameAr": "عبيدة"
+ },
+ {
+  "code": 415356,
+  "name": "Sidi Ali Ben Salem",
+  "nameAr": "سيدي علي بن سالم"
+ },
+ {
+  "code": 415357,
+  "name": "Hammed",
+  "nameAr": "هماد"
+ },
+ {
+  "code": 415358,
+  "name": "El Karma",
+  "nameAr": "الكرمة"
+ },
+ {
+  "code": 415451,
+  "name": "Sbikha Centre",
+  "nameAr": "السبيخة المركز"
+ },
+ {
+  "code": 415452,
+  "name": "Aîn Bou Morra",
+  "nameAr": "عين بومرة"
+ },
+ {
+  "code": 415453,
+  "name": "El Friouet",
+  "nameAr": "الفريوات"
+ },
+ {
+  "code": 415454,
+  "name": "Sidi Messaoud",
+  "nameAr": "سيدي مسعود"
+ },
+ {
+  "code": 415455,
+  "name": "Ed Dekhila",
+  "nameAr": "الدخيلة"
+ },
+ {
+  "code": 415456,
+  "name": "Ed Dheriaat",
+  "nameAr": "الدريعات"
+ },
+ {
+  "code": 415457,
+  "name": "El Gfi",
+  "nameAr": "القفى"
+ },
+ {
+  "code": 415458,
+  "name": "El Alam",
+  "nameAr": "العلم"
+ },
+ {
+  "code": 415459,
+  "name": "El Katifa",
+  "nameAr": "القطيفة"
+ },
+ {
+  "code": 415460,
+  "name": "El Aouitha",
+  "nameAr": "العويثة"
+ },
+ {
+  "code": 415461,
+  "name": "Sisseb",
+  "nameAr": "سيسب"
+ },
+ {
+  "code": 415462,
+  "name": "Ech Chorfa",
+  "nameAr": "الشرفة"
+ },
+ {
+  "code": 415463,
+  "name": "Chogafia",
+  "nameAr": "الشقافية"
+ },
+ {
+  "code": 415464,
+  "name": "Serdiania",
+  "nameAr": "سرديانة"
+ },
+ {
+  "code": 415465,
+  "name": "Oued El Khraouia",
+  "nameAr": "واد الخريوع"
+ },
+ {
+  "code": 415551,
+  "name": "Mâarouf",
+  "nameAr": "معروف"
+ },
+ {
+  "code": 415552,
+  "name": "El Ooueslatia Est",
+  "nameAr": "الوسالتية الشرقية"
+ },
+ {
+  "code": 415553,
+  "name": "El Ooueslatia Ouest",
+  "nameAr": "الوسالتية الغربية"
+ },
+ {
+  "code": 415554,
+  "name": "El Menzel",
+  "nameAr": "المنزل"
+ },
+ {
+  "code": 415555,
+  "name": "Djebel Essarj",
+  "nameAr": "جبل السرج"
+ },
+ {
+  "code": 415556,
+  "name": "Zaghdoud",
+  "nameAr": "زغدود"
+ },
+ {
+  "code": 415557,
+  "name": "Djebel Oouestat",
+  "nameAr": "جبل وسالت"
+ },
+ {
+  "code": 415558,
+  "name": "Djebel Erreihane",
+  "nameAr": "جبل الريحان"
+ },
+ {
+  "code": 415559,
+  "name": "Aîn Djeloula",
+  "nameAr": "عين جلولة"
+ },
+ {
+  "code": 415560,
+  "name": "Oued El Ksab",
+  "nameAr": "وادي القصب"
+ },
+ {
+  "code": 415561,
+  "name": "El Behaîr",
+  "nameAr": "البحاير"
+ },
+ {
+  "code": 415651,
+  "name": "Hafouz Centre",
+  "nameAr": "حفوز المركز"
+ },
+ {
+  "code": 415652,
+  "name": "Khit El Oued",
+  "nameAr": "خيط الوادي"
+ },
+ {
+  "code": 415653,
+  "name": "Oued El Jabbès",
+  "nameAr": "وادي الجباس"
+ },
+ {
+  "code": 415654,
+  "name": "El Aîn El Beidha",
+  "nameAr": "العين البيضاء"
+ },
+ {
+  "code": 415655,
+  "name": "El Houfia",
+  "nameAr": "الحوفية"
+ },
+ {
+  "code": 415656,
+  "name": "Cherichira",
+  "nameAr": "الشريشيرة"
+ },
+ {
+  "code": 415657,
+  "name": "Traza Sud",
+  "nameAr": "طرزة الجنوبية"
+ },
+ {
+  "code": 415658,
+  "name": "Ouled Khalfallah",
+  "nameAr": "أوالد خلف هللا"
+ },
+ {
+  "code": 415751,
+  "name": "El Alâa",
+  "nameAr": "العال"
+ },
+ {
+  "code": 415752,
+  "name": "EL Messaïd",
+  "nameAr": "المساعيد"
+ },
+ {
+  "code": 415753,
+  "name": "El Guettar",
+  "nameAr": "القطار"
+ },
+ {
+  "code": 415754,
+  "name": "Messiouta El Hanachir",
+  "nameAr": "مسيوتة الهناشير"
+ },
+ {
+  "code": 415755,
+  "name": "Messiouta Ennaguaz",
+  "nameAr": "مسيوتة النقاز"
+ },
+ {
+  "code": 415756,
+  "name": "Sayada Nord",
+  "nameAr": "صيادة الشمالية"
+ },
+ {
+  "code": 415757,
+  "name": "Sayada Sud",
+  "nameAr": "صيادة الجنوبية"
+ },
+ {
+  "code": 415758,
+  "name": "Ouled Amor",
+  "nameAr": "أوالد عمر"
+ },
+ {
+  "code": 415759,
+  "name": "Tarza Nord",
+  "nameAr": "طرزة الشمالية"
+ },
+ {
+  "code": 415760,
+  "name": "El hamam",
+  "nameAr": "الحمام"
+ },
+ {
+  "code": 415851,
+  "name": "El Hajeb Centre",
+  "nameAr": "الحاجب المركز"
+ },
+ {
+  "code": 415852,
+  "name": "Ahouaz EL Hajeb",
+  "nameAr": "أحواز الحاجب"
+ },
+ {
+  "code": 415853,
+  "name": "Chaouachi",
+  "nameAr": "الشواشي"
+ },
+ {
+  "code": 415854,
+  "name": "Esserja",
+  "nameAr": "السرجة"
+ },
+ {
+  "code": 415855,
+  "name": "El Kantra",
+  "nameAr": "القنطرة"
+ },
+ {
+  "code": 415856,
+  "name": "El Hadaya",
+  "nameAr": "الهدايا"
+ },
+ {
+  "code": 415857,
+  "name": "EL Ghouiba",
+  "nameAr": "الغويبة"
+ },
+ {
+  "code": 415858,
+  "name": "Oued EL Hajel",
+  "nameAr": "وادي الحجل"
+ },
+ {
+  "code": 415859,
+  "name": "Errehima",
+  "nameAr": "الرحيمة"
+ },
+ {
+  "code": 415951,
+  "name": "المركز للا نصر هّ Nasrallah Centre",
+  "nameAr": ""
+ },
+ {
+  "code": 415952,
+  "name": "Nasrallah Banlieue",
+  "nameAr": "نصر هللا األحواز"
+ },
+ {
+  "code": 415953,
+  "name": "El Hmidet",
+  "nameAr": "الحميدات"
+ },
+ {
+  "code": 415954,
+  "name": "El Fejij",
+  "nameAr": "الفجيج"
+ },
+ {
+  "code": 415955,
+  "name": "Ettouila",
+  "nameAr": "الطويلة"
+ },
+ {
+  "code": 415956,
+  "name": "El Manara",
+  "nameAr": "المنارة"
+ },
+ {
+  "code": 415957,
+  "name": "El Kabbara",
+  "nameAr": "الكبارة"
+ },
+ {
+  "code": 415958,
+  "name": "EL Briket",
+  "nameAr": "البريكات"
+ },
+ {
+  "code": 416051,
+  "name": "Echrarda",
+  "nameAr": "الشراردة"
+ },
+ {
+  "code": 416052,
+  "name": "Bir El Helou",
+  "nameAr": "بئر الحلو"
+ },
+ {
+  "code": 416053,
+  "name": "الجنوبية للا فرج أوالد هّ Ouled Farjallah Sud",
+  "nameAr": ""
+ },
+ {
+  "code": 416054,
+  "name": "Cheraitia Sud",
+  "nameAr": "الشرايطية الجنوبية"
+ },
+ {
+  "code": 416055,
+  "name": "El Ksour",
+  "nameAr": "القصور"
+ },
+ {
+  "code": 416151,
+  "name": "Bouhajla Centre",
+  "nameAr": "بوحجلة المركز"
+ },
+ {
+  "code": 416152,
+  "name": "Bouhajla El Ahouez",
+  "nameAr": "بوحجلة األحواز"
+ },
+ {
+  "code": 416153,
+  "name": "Jehina Sud",
+  "nameAr": "جهينة الجنوبية"
+ },
+ {
+  "code": 416154,
+  "name": "Jehina Nord",
+  "nameAr": "جهينة الشمالية"
+ },
+ {
+  "code": 416155,
+  "name": "El Ketitir",
+  "nameAr": "القطيطير"
+ },
+ {
+  "code": 416156,
+  "name": "Ouled Achour",
+  "nameAr": "أوالد عاشور"
+ },
+ {
+  "code": 416157,
+  "name": "El Fatah",
+  "nameAr": "الفتح"
+ },
+ {
+  "code": 416158,
+  "name": "الشمالية للا فرج أوالد هّ Ouled Fardjallah Nord",
+  "nameAr": ""
+ },
+ {
+  "code": 416159,
+  "name": "Ennasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 416160,
+  "name": "Bir Msikine",
+  "nameAr": "بئر مسكين"
+ },
+ {
+  "code": 416161,
+  "name": "El Mouisset",
+  "nameAr": "المويسات"
+ },
+ {
+  "code": 416162,
+  "name": "Bir Bousari",
+  "nameAr": "بئر بوساري"
+ },
+ {
+  "code": 416163,
+  "name": "Cheraitia Nord",
+  "nameAr": "الشرايطية الشمالية"
+ },
+ {
+  "code": 416164,
+  "name": "Chouamekh",
+  "nameAr": "الشوامخ"
+ },
+ {
+  "code": 425151,
+  "name": "Ennour Est",
+  "nameAr": "النور الشرقي"
+ },
+ {
+  "code": 425152,
+  "name": "Ennour Ouest",
+  "nameAr": "النور الغربي"
+ },
+ {
+  "code": 425153,
+  "name": "EL Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 425154,
+  "name": "EL Khadhra",
+  "nameAr": "الخضراء"
+ },
+ {
+  "code": 425155,
+  "name": "El Arich",
+  "nameAr": "العريش"
+ },
+ {
+  "code": 425156,
+  "name": "Boulâaba",
+  "nameAr": "بولعابة"
+ },
+ {
+  "code": 425251,
+  "name": "El Aouija",
+  "nameAr": "العويجة"
+ },
+ {
+  "code": 425252,
+  "name": "Boulhijet",
+  "nameAr": "بولهيجات"
+ },
+ {
+  "code": 425253,
+  "name": "Meghdoudech",
+  "nameAr": "مقدودش"
+ },
+ {
+  "code": 425254,
+  "name": "Bouzguam",
+  "nameAr": "بوزقام"
+ },
+ {
+  "code": 425255,
+  "name": "Eddoghra",
+  "nameAr": "الدغرة"
+ },
+ {
+  "code": 425256,
+  "name": "Sidi Harreth",
+  "nameAr": "سيدي حراث"
+ },
+ {
+  "code": 425451,
+  "name": "Hassi El Ferid",
+  "nameAr": "حاسي الفريد"
+ },
+ {
+  "code": 425452,
+  "name": "El Hechim",
+  "nameAr": "الهشيم"
+ },
+ {
+  "code": 425453,
+  "name": "Khanguet Jezia",
+  "nameAr": "خنقة الجازية"
+ },
+ {
+  "code": 425454,
+  "name": "Essalloum",
+  "nameAr": "السلوم"
+ },
+ {
+  "code": 425455,
+  "name": "EL Kamour",
+  "nameAr": "الكامور"
+ },
+ {
+  "code": 425551,
+  "name": "Sbeitla",
+  "nameAr": "سبيطلة"
+ },
+ {
+  "code": 425552,
+  "name": "Cité Essourour",
+  "nameAr": "حي السرور"
+ },
+ {
+  "code": 425553,
+  "name": "Semama",
+  "nameAr": "سمامة"
+ },
+ {
+  "code": 425554,
+  "name": "Errakhmet",
+  "nameAr": "الرخمات"
+ },
+ {
+  "code": 425555,
+  "name": "El Gounna",
+  "nameAr": "الفنة"
+ },
+ {
+  "code": 425556,
+  "name": "Eddouleb",
+  "nameAr": "الدوالب"
+ },
+ {
+  "code": 425557,
+  "name": "Ech Charaya",
+  "nameAr": "الشرائع"
+ },
+ {
+  "code": 425558,
+  "name": "Machrek Ech Chams",
+  "nameAr": "مشرق الشمس"
+ },
+ {
+  "code": 425559,
+  "name": "Ouassaia",
+  "nameAr": "الوساعية"
+ },
+ {
+  "code": 425560,
+  "name": "El Khadhra",
+  "nameAr": "الخضراء"
+ },
+ {
+  "code": 425561,
+  "name": "EL Athar",
+  "nameAr": "األثار"
+ },
+ {
+  "code": 425562,
+  "name": "EL Mezara",
+  "nameAr": "المزارة"
+ },
+ {
+  "code": 425563,
+  "name": "El Garâa El Hamra",
+  "nameAr": "القرعة الحمراء"
+ },
+ {
+  "code": 425564,
+  "name": "EL Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 425651,
+  "name": "Sbiba",
+  "nameAr": "سبيبة"
+ },
+ {
+  "code": 425652,
+  "name": "El Ahouaz",
+  "nameAr": "األحواز"
+ },
+ {
+  "code": 425653,
+  "name": "Oued El Hatab",
+  "nameAr": "وادي الحطب"
+ },
+ {
+  "code": 425654,
+  "name": "Brahim Ezzahhar",
+  "nameAr": "إبراهيم الزهار"
+ },
+ {
+  "code": 425655,
+  "name": "Aïn Zaiene",
+  "nameAr": "عين زيان"
+ },
+ {
+  "code": 415656,
+  "name": "Etthamed",
+  "nameAr": "الثماد"
+ },
+ {
+  "code": 425657,
+  "name": "Aïn El Khemaïssia",
+  "nameAr": "عين الخمائسية"
+ },
+ {
+  "code": 425751,
+  "name": "Djedliane",
+  "nameAr": "جدليان"
+ },
+ {
+  "code": 425752,
+  "name": "Fej Terbah",
+  "nameAr": "فج تربح"
+ },
+ {
+  "code": 425753,
+  "name": "Aïn El Hamadna",
+  "nameAr": "عين الحمادنة"
+ },
+ {
+  "code": 425754,
+  "name": "Mehrza",
+  "nameAr": "محرزة"
+ },
+ {
+  "code": 425755,
+  "name": "Aïn Oum El Jedour",
+  "nameAr": "عين أم الجدور"
+ },
+ {
+  "code": 425851,
+  "name": "El Ayoun",
+  "nameAr": "العيون"
+ },
+ {
+  "code": 425852,
+  "name": "El Grine",
+  "nameAr": "القرين"
+ },
+ {
+  "code": 425853,
+  "name": "El Brek",
+  "nameAr": "البرك"
+ },
+ {
+  "code": 425854,
+  "name": "El Baouajer",
+  "nameAr": "البواجر"
+ },
+ {
+  "code": 425855,
+  "name": "Tiwicha",
+  "nameAr": "توشة"
+ },
+ {
+  "code": 425856,
+  "name": "Aïn Esselsela",
+  "nameAr": "عين السلسلة"
+ },
+ {
+  "code": 425951,
+  "name": "Thala Est",
+  "nameAr": "تالة الشرقية"
+ },
+ {
+  "code": 425952,
+  "name": "Thala Ouest",
+  "nameAr": "تالة الغربية"
+ },
+ {
+  "code": 425953,
+  "name": "Eddachra",
+  "nameAr": "الدشرة"
+ },
+ {
+  "code": 425954,
+  "name": "Aïn Aj Jadeida",
+  "nameAr": "عين الجديدة"
+ },
+ {
+  "code": 425955,
+  "name": "Barmajna",
+  "nameAr": "برماجنة"
+ },
+ {
+  "code": 425956,
+  "name": "Oued Errachech",
+  "nameAr": "وادي الرشح"
+ },
+ {
+  "code": 425957,
+  "name": "El Joua",
+  "nameAr": "الجوى"
+ },
+ {
+  "code": 425958,
+  "name": "El Hamed",
+  "nameAr": "الحماد"
+ },
+ {
+  "code": 425959,
+  "name": "Zelfane",
+  "nameAr": "زلفان"
+ },
+ {
+  "code": 425960,
+  "name": "Boulahnech",
+  "nameAr": "بو األحناش"
+ },
+ {
+  "code": 425961,
+  "name": "Sidi hammed>M",
+  "nameAr": "سيدي محمد"
+ },
+ {
+  "code": 425962,
+  "name": "Ouljet Edhel",
+  "nameAr": "ولجة الظل"
+ },
+ {
+  "code": 425963,
+  "name": "Ech Chaffaï",
+  "nameAr": "الشافعي"
+ },
+ {
+  "code": 426051,
+  "name": "Hidra",
+  "nameAr": "حيدرة"
+ },
+ {
+  "code": 426052,
+  "name": "baga’T",
+  "nameAr": "الطباقة"
+ },
+ {
+  "code": 426053,
+  "name": "El Mekimen",
+  "nameAr": "المكيمن"
+ },
+ {
+  "code": 426054,
+  "name": "Lajrad",
+  "nameAr": "األجرد"
+ },
+ {
+  "code": 426055,
+  "name": "Es Sray",
+  "nameAr": "الصري"
+ },
+ {
+  "code": 426056,
+  "name": "Aïn Eddefla",
+  "nameAr": "عين الدفلة"
+ },
+ {
+  "code": 426151,
+  "name": "Foussana",
+  "nameAr": "فوسانة"
+ },
+ {
+  "code": 426152,
+  "name": "Foussana Lahouaz",
+  "nameAr": "فوسانة األحواز"
+ },
+ {
+  "code": 426153,
+  "name": "Khmouda Nord",
+  "nameAr": "خمودة الشمالية"
+ },
+ {
+  "code": 426154,
+  "name": "Khmouda Sud",
+  "nameAr": "خمودةالجنوبية"
+ },
+ {
+  "code": 426155,
+  "name": "Ouled Mahfoudh",
+  "nameAr": "أوالد محفوظ"
+ },
+ {
+  "code": 426156,
+  "name": "Afrane",
+  "nameAr": "أفران"
+ },
+ {
+  "code": 426157,
+  "name": "El Meziraa",
+  "nameAr": "المزيرعة"
+ },
+ {
+  "code": 426158,
+  "name": "El Aadhira",
+  "nameAr": "العذيرة"
+ },
+ {
+  "code": 426159,
+  "name": "El Hazza",
+  "nameAr": "الحازة"
+ },
+ {
+  "code": 426160,
+  "name": "EL Brika",
+  "nameAr": "البريكة"
+ },
+ {
+  "code": 426161,
+  "name": "Bouderiass",
+  "nameAr": "بودرياس"
+ },
+ {
+  "code": 426162,
+  "name": "Aïn El Jinene",
+  "nameAr": "عين الجنان"
+ },
+ {
+  "code": 426163,
+  "name": "Er Rtibet",
+  "nameAr": "الرطيبات"
+ },
+ {
+  "code": 426251,
+  "name": "Feriana",
+  "nameAr": "فريانة"
+ },
+ {
+  "code": 426252,
+  "name": "El Erg",
+  "nameAr": "العرق"
+ },
+ {
+  "code": 426253,
+  "name": "El Ahouach",
+  "nameAr": "األحواش"
+ },
+ {
+  "code": 426254,
+  "name": "Es Skhirat",
+  "nameAr": "الصخيرات"
+ },
+ {
+  "code": 426255,
+  "name": "El Arâar",
+  "nameAr": "العرعار"
+ },
+ {
+  "code": 426256,
+  "name": "Hanachi",
+  "nameAr": "حناشي"
+ },
+ {
+  "code": 426257,
+  "name": "Garet En Nâam",
+  "nameAr": "قارة النعام"
+ },
+ {
+  "code": 426258,
+  "name": "Bouchebka",
+  "nameAr": "بوشبكة"
+ },
+ {
+  "code": 426259,
+  "name": "Om Ali",
+  "nameAr": "أم علي"
+ },
+ {
+  "code": 426260,
+  "name": "Bouhaya",
+  "nameAr": "بوحية"
+ },
+ {
+  "code": 426261,
+  "name": "Telept",
+  "nameAr": "تالبت"
+ },
+ {
+  "code": 426262,
+  "name": "Abdeladhim",
+  "nameAr": "عبد العظيم"
+ },
+ {
+  "code": 426351,
+  "name": "Majel Bel Abbes Nord",
+  "nameAr": "ماجل بالعباس الشمالية"
+ },
+ {
+  "code": 426352,
+  "name": "Majel Bel Abbes Sud",
+  "nameAr": "ماجل بالعباس الجنوبية"
+ },
+ {
+  "code": 426353,
+  "name": "Oum Laksab",
+  "nameAr": "أم األقصاب"
+ },
+ {
+  "code": 426354,
+  "name": "Ennadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 426355,
+  "name": "Henchir Oum El Khir",
+  "nameAr": "هنشير أم الخير"
+ },
+ {
+  "code": 426356,
+  "name": "Soula",
+  "nameAr": "صولة"
+ },
+ {
+  "code": 426357,
+  "name": "Grouâ El Jedra",
+  "nameAr": "قروع الجدرة"
+ },
+ {
+  "code": 435151,
+  "name": "Sidi Bouzid",
+  "nameAr": "سيدي بوزيد"
+ },
+ {
+  "code": 435152,
+  "name": "Ennour",
+  "nameAr": "النور"
+ },
+ {
+  "code": 435153,
+  "name": "Sidi Salem",
+  "nameAr": "سيدي سالم"
+ },
+ {
+  "code": 435154,
+  "name": "EL Hichria",
+  "nameAr": "الهيشرية"
+ },
+ {
+  "code": 435155,
+  "name": "El Friou",
+  "nameAr": "الفريو"
+ },
+ {
+  "code": 435156,
+  "name": "Sadakia",
+  "nameAr": "الصداقية"
+ },
+ {
+  "code": 435159,
+  "name": "Ettouila",
+  "nameAr": "الطويلة"
+ },
+ {
+  "code": 435160,
+  "name": "Ennasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 435161,
+  "name": "Sidi Bouzid Sud",
+  "nameAr": "سيدي بوزيد الجنوبية"
+ },
+ {
+  "code": 435162,
+  "name": "Sidi Bouzid Ouest",
+  "nameAr": "سيدي بوزيد الغربية"
+ },
+ {
+  "code": 435251,
+  "name": "El Ahouaz",
+  "nameAr": "األحواز"
+ },
+ {
+  "code": 435252,
+  "name": "Bennour",
+  "nameAr": "بنور"
+ },
+ {
+  "code": 435253,
+  "name": "Faiedh",
+  "nameAr": "فانض"
+ },
+ {
+  "code": 435254,
+  "name": "EL Assouad",
+  "nameAr": "األسود"
+ },
+ {
+  "code": 435255,
+  "name": "EL Amra",
+  "nameAr": "العامرة"
+ },
+ {
+  "code": 435256,
+  "name": "El Makarem",
+  "nameAr": "المكارم"
+ },
+ {
+  "code": 435257,
+  "name": "EL Makarem Est",
+  "nameAr": "المكارم الشرقية"
+ },
+ {
+  "code": 435258,
+  "name": "El Okla",
+  "nameAr": "العقلة"
+ },
+ {
+  "code": 435259,
+  "name": "Aïn Rebaou",
+  "nameAr": "عين رباو"
+ },
+ {
+  "code": 435260,
+  "name": "El Henia Abazid",
+  "nameAr": "الحنية أبازيد"
+ },
+ {
+  "code": 435261,
+  "name": "Garet hadid",
+  "nameAr": "قارة حديد"
+ },
+ {
+  "code": 435262,
+  "name": "Ezzitouna",
+  "nameAr": "الزيتونة"
+ },
+ {
+  "code": 435351,
+  "name": "Jilma Est",
+  "nameAr": "جملة الشرقية"
+ },
+ {
+  "code": 435352,
+  "name": "Jilma Ouest",
+  "nameAr": "جلمة الغريبة"
+ },
+ {
+  "code": 435353,
+  "name": "Lazirek",
+  "nameAr": "لزيرق"
+ },
+ {
+  "code": 435354,
+  "name": "Selta",
+  "nameAr": "سلتة"
+ },
+ {
+  "code": 435355,
+  "name": "Zoghmar",
+  "nameAr": "زغمار"
+ },
+ {
+  "code": 435356,
+  "name": "Ghedir Ezzitoun",
+  "nameAr": "غدير الزيتون"
+ },
+ {
+  "code": 435357,
+  "name": "Baten Elghézel Sud",
+  "nameAr": "باطن الغزال الجنوبية"
+ },
+ {
+  "code": 435358,
+  "name": "Baten Elghézel Nord",
+  "nameAr": "باطن الغزال الشمالية"
+ },
+ {
+  "code": 435359,
+  "name": "El Adhla",
+  "nameAr": "العضلة"
+ },
+ {
+  "code": 435360,
+  "name": "El Hamima",
+  "nameAr": "الحميمة"
+ },
+ {
+  "code": 435361,
+  "name": "El Abaiedh",
+  "nameAr": "األبيض"
+ },
+ {
+  "code": 435451,
+  "name": "Cebalet",
+  "nameAr": "السبالة"
+ },
+ {
+  "code": 435452,
+  "name": "El Amra",
+  "nameAr": "العامرة"
+ },
+ {
+  "code": 435453,
+  "name": "Essed",
+  "nameAr": "السد"
+ },
+ {
+  "code": 435454,
+  "name": "Meghila",
+  "nameAr": "مغيلة"
+ },
+ {
+  "code": 435455,
+  "name": "El Ayoun",
+  "nameAr": "العيون"
+ },
+ {
+  "code": 435551,
+  "name": "Bir El Hafey",
+  "nameAr": "بئر الحفي"
+ },
+ {
+  "code": 435552,
+  "name": "El Mohamdia",
+  "nameAr": "المحمدية"
+ },
+ {
+  "code": 435553,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 435554,
+  "name": "Bir Amama",
+  "nameAr": "بئر عمامة"
+ },
+ {
+  "code": 435555,
+  "name": "El Mezara",
+  "nameAr": "المزارة"
+ },
+ {
+  "code": 435556,
+  "name": "Essalama",
+  "nameAr": "السالمة"
+ },
+ {
+  "code": 435557,
+  "name": "Ourgha",
+  "nameAr": "ورغة"
+ },
+ {
+  "code": 435558,
+  "name": "Rahal",
+  "nameAr": "رحال"
+ },
+ {
+  "code": 435559,
+  "name": "Bir Bousbiaa",
+  "nameAr": "بئر بوصبيع"
+ },
+ {
+  "code": 435651,
+  "name": "Sidi Ali Ben Aoun",
+  "nameAr": "سيدي علي بن عون"
+ },
+ {
+  "code": 435652,
+  "name": "Errabta",
+  "nameAr": "الرابطة"
+ },
+ {
+  "code": 435653,
+  "name": "Essahla",
+  "nameAr": "الساهلة"
+ },
+ {
+  "code": 435654,
+  "name": "El Ouaara",
+  "nameAr": "الواعرة"
+ },
+ {
+  "code": 435655,
+  "name": "Ouled Brahim",
+  "nameAr": "أوالد إبراهيم"
+ },
+ {
+  "code": 435656,
+  "name": "El Mansoura Est",
+  "nameAr": "المنصورة الشرقية"
+ },
+ {
+  "code": 435657,
+  "name": "El Mansoura Ouest",
+  "nameAr": "المنصورة الغربية"
+ },
+ {
+  "code": 435751,
+  "name": "Menzel Bouzaïane",
+  "nameAr": "منزل بوزيان"
+ },
+ {
+  "code": 435752,
+  "name": "En Nouamer",
+  "nameAr": "النوامر"
+ },
+ {
+  "code": 435753,
+  "name": "Kallel",
+  "nameAr": "قالل"
+ },
+ {
+  "code": 435754,
+  "name": "EL Khorchef",
+  "nameAr": "الخرشف"
+ },
+ {
+  "code": 435755,
+  "name": "El Kharrouba",
+  "nameAr": "الخروبة"
+ },
+ {
+  "code": 435756,
+  "name": "El Omria",
+  "nameAr": "العمرية"
+ },
+ {
+  "code": 435757,
+  "name": "El Omrane",
+  "nameAr": "العمران"
+ },
+ {
+  "code": 435851,
+  "name": "EL Jebbes",
+  "nameAr": "الجباس"
+ },
+ {
+  "code": 435852,
+  "name": "Gheris Ouest",
+  "nameAr": "الغريس الغربية"
+ },
+ {
+  "code": 435853,
+  "name": "Mech",
+  "nameAr": "مش"
+ },
+ {
+  "code": 435854,
+  "name": "Meknassy Est",
+  "nameAr": "المكناسي الشرقية"
+ },
+ {
+  "code": 435855,
+  "name": "Meknassy Ouest",
+  "nameAr": "المكناسي الغربية"
+ },
+ {
+  "code": 435856,
+  "name": "Meknassy Nord",
+  "nameAr": "المكناسي الشمالية"
+ },
+ {
+  "code": 435857,
+  "name": "Ezzouarâa",
+  "nameAr": "الزوارع"
+ },
+ {
+  "code": 435858,
+  "name": "EL Mabrouka",
+  "nameAr": "المبروكة"
+ },
+ {
+  "code": 435859,
+  "name": "Ennasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 435951,
+  "name": "Souk Jedid",
+  "nameAr": "سوق الجديد"
+ },
+ {
+  "code": 435952,
+  "name": "Ghiriouis",
+  "nameAr": "غريويس"
+ },
+ {
+  "code": 435953,
+  "name": "Ksaîra",
+  "nameAr": "القصيرة"
+ },
+ {
+  "code": 435954,
+  "name": "Sekdal",
+  "nameAr": "سقدال"
+ },
+ {
+  "code": 435955,
+  "name": "Erremelia",
+  "nameAr": "الرميلية"
+ },
+ {
+  "code": 435956,
+  "name": "Ezzafzaf",
+  "nameAr": "الزفزاف"
+ },
+ {
+  "code": 435957,
+  "name": "Bir Badr",
+  "nameAr": "بئر بدر"
+ },
+ {
+  "code": 436051,
+  "name": "Mezzouna",
+  "nameAr": "المزونة"
+ },
+ {
+  "code": 436052,
+  "name": "EL Founi",
+  "nameAr": "الفوني"
+ },
+ {
+  "code": 436053,
+  "name": "Bou Hedma",
+  "nameAr": "بوهدمة"
+ },
+ {
+  "code": 436054,
+  "name": "El Gheris Est",
+  "nameAr": "الغريس الشرقية"
+ },
+ {
+  "code": 436055,
+  "name": "Khobna",
+  "nameAr": "الخبنة"
+ },
+ {
+  "code": 436056,
+  "name": "Eddaouara",
+  "nameAr": "الدوارة"
+ },
+ {
+  "code": 436057,
+  "name": "EL Khaoui",
+  "nameAr": "الخوي"
+ },
+ {
+  "code": 436058,
+  "name": "EL Besbes",
+  "nameAr": "البسباس"
+ },
+ {
+  "code": 436059,
+  "name": "Essed",
+  "nameAr": "السد"
+ },
+ {
+  "code": 436151,
+  "name": "Regueb",
+  "nameAr": "الرقاب"
+ },
+ {
+  "code": 436152,
+  "name": "Khechem Ouest",
+  "nameAr": "الخشم الغربية"
+ },
+ {
+  "code": 436153,
+  "name": "Essaïda Nord",
+  "nameAr": "السعيدة الشمالية"
+ },
+ {
+  "code": 436154,
+  "name": "Ksar El Hammam Est",
+  "nameAr": "قصر الحمام الشرقية"
+ },
+ {
+  "code": 436155,
+  "name": "Gouleb",
+  "nameAr": "قوالب"
+ },
+ {
+  "code": 436156,
+  "name": "Erradhâa",
+  "nameAr": "الرضاع"
+ },
+ {
+  "code": 436157,
+  "name": "Erradhâa Est",
+  "nameAr": "الرضاع الشرقية"
+ },
+ {
+  "code": 436158,
+  "name": "Boudinar",
+  "nameAr": "بودينار"
+ },
+ {
+  "code": 436159,
+  "name": "Ksar EL Hammam Ouest",
+  "nameAr": "قصر الحمام الغربية"
+ },
+ {
+  "code": 436160,
+  "name": "Gobrar",
+  "nameAr": "قبرار"
+ },
+ {
+  "code": 436161,
+  "name": "Rihana",
+  "nameAr": "ريحانة"
+ },
+ {
+  "code": 436162,
+  "name": "Essekba",
+  "nameAr": "السكبة"
+ },
+ {
+  "code": 436163,
+  "name": "Khechem Est",
+  "nameAr": "الخشم الشرقية"
+ },
+ {
+  "code": 436164,
+  "name": "Essaïda Sud",
+  "nameAr": "السعيدة الجنوبية"
+ },
+ {
+  "code": 436165,
+  "name": "Essaïda Est",
+  "nameAr": "السعيدة الشرقية"
+ },
+ {
+  "code": 436166,
+  "name": "Ferch Gharib",
+  "nameAr": "فرش غريب"
+ },
+ {
+  "code": 436167,
+  "name": "Ouled Ayouni",
+  "nameAr": "أوالد عيوني"
+ },
+ {
+  "code": 436251,
+  "name": "Ouled Haffouz",
+  "nameAr": "أوالد حفوز"
+ },
+ {
+  "code": 436252,
+  "name": "Dheouibet Sud",
+  "nameAr": "الدويبات الجنوبية"
+ },
+ {
+  "code": 436253,
+  "name": "Sidi Khelif",
+  "nameAr": "سيدي خليف"
+ },
+ {
+  "code": 436254,
+  "name": "El Henia",
+  "nameAr": "الحنية"
+ },
+ {
+  "code": 436255,
+  "name": "Kassouda",
+  "nameAr": "كسودة"
+ },
+ {
+  "code": 436256,
+  "name": "El Mebarkia",
+  "nameAr": "المباركية"
+ },
+ {
+  "code": 436257,
+  "name": "Ech Cheouachia",
+  "nameAr": "الشواشية"
+ },
+ {
+  "code": 436258,
+  "name": "Sidi Ellafi",
+  "nameAr": "سيدي الالفي"
+ },
+ {
+  "code": 436259,
+  "name": "Dheouibet Nord",
+  "nameAr": "الذويبات الشمالية"
+ },
+ {
+  "code": 515151,
+  "name": "(Secteur 1 )",
+  "nameAr": "المنطقة األولى"
+ },
+ {
+  "code": 515152,
+  "name": "(Secteur 2 )",
+  "nameAr": "المنطقة الثانية"
+ },
+ {
+  "code": 515153,
+  "name": "(Secteur 3 )",
+  "nameAr": "المنطقة الثالثة"
+ },
+ {
+  "code": 515154,
+  "name": "(Secteur 4 )",
+  "nameAr": "المنطقة الرابعة"
+ },
+ {
+  "code": 515155,
+  "name": "Chott Sidi Abdesselam",
+  "nameAr": "شط سيدي عبد السالم"
+ },
+ {
+  "code": 515251,
+  "name": "Er Remathi",
+  "nameAr": "الرماثي"
+ },
+ {
+  "code": 515252,
+  "name": "Bou Chemma",
+  "nameAr": "بوشمة"
+ },
+ {
+  "code": 515253,
+  "name": "Nahal",
+  "nameAr": "النحال"
+ },
+ {
+  "code": 515254,
+  "name": "Jaouaoula",
+  "nameAr": "الجواولة"
+ },
+ {
+  "code": 515255,
+  "name": "Chenini Nord",
+  "nameAr": "شنني الشمالية"
+ },
+ {
+  "code": 515256,
+  "name": "Chenini Est",
+  "nameAr": "شنني الشرقية"
+ },
+ {
+  "code": 515257,
+  "name": "Chenini Ouest",
+  "nameAr": "شنني الغربية"
+ },
+ {
+  "code": 515351,
+  "name": "Teboulbou",
+  "nameAr": "تبلبو"
+ },
+ {
+  "code": 515352,
+  "name": "Sidi Boulbaba",
+  "nameAr": "سيدي بولبابة"
+ },
+ {
+  "code": 515353,
+  "name": "Zrig Eddakhlania",
+  "nameAr": "زريق الدخالنية"
+ },
+ {
+  "code": 515354,
+  "name": "(Secteur 5 )",
+  "nameAr": "المنطقة الخامسة"
+ },
+ {
+  "code": 515355,
+  "name": "El Medou",
+  "nameAr": "المدو"
+ },
+ {
+  "code": 515356,
+  "name": "Limaoua",
+  "nameAr": "ليماوة"
+ },
+ {
+  "code": 515357,
+  "name": "El Amazir",
+  "nameAr": "األمازير"
+ },
+ {
+  "code": 515451,
+  "name": "Ghanouch Est",
+  "nameAr": "غنوش الشرقية"
+ },
+ {
+  "code": 515452,
+  "name": "Ghanouch Ouest",
+  "nameAr": "غنوش الغربية"
+ },
+ {
+  "code": 515453,
+  "name": "Ghanouche Sud",
+  "nameAr": "غنوش الجنوبية"
+ },
+ {
+  "code": 515454,
+  "name": "Ghanouche Nord",
+  "nameAr": "غنوش الشمالية"
+ },
+ {
+  "code": 515551,
+  "name": "El Metouia Nord",
+  "nameAr": "المطويةالشمالية"
+ },
+ {
+  "code": 515552,
+  "name": "El Metouia Sud",
+  "nameAr": "المطورية الجنوبية"
+ },
+ {
+  "code": 515553,
+  "name": "Ouedhref Nord",
+  "nameAr": "وذرف الشمالية"
+ },
+ {
+  "code": 515554,
+  "name": "Ouedhref Sud",
+  "nameAr": "وذرف الجنوبية"
+ },
+ {
+  "code": 515555,
+  "name": "El Akarit",
+  "nameAr": "العكاريت"
+ },
+ {
+  "code": 515556,
+  "name": "El Hicha",
+  "nameAr": "الهيشة"
+ },
+ {
+  "code": 515557,
+  "name": "El Mida",
+  "nameAr": "الميدة"
+ },
+ {
+  "code": 515651,
+  "name": "Oued Ezzitoun",
+  "nameAr": "وادي الزيتون"
+ },
+ {
+  "code": 515652,
+  "name": "El Fejij",
+  "nameAr": "الفجيج"
+ },
+ {
+  "code": 515653,
+  "name": "El Mehemla",
+  "nameAr": "المهاملة"
+ },
+ {
+  "code": 515654,
+  "name": "Es Saki",
+  "nameAr": "السقي"
+ },
+ {
+  "code": 515655,
+  "name": "Rabiaa Ouali",
+  "nameAr": "ربيعة والي"
+ },
+ {
+  "code": 515656,
+  "name": "Zoughrata",
+  "nameAr": "زقراطة"
+ },
+ {
+  "code": 515657,
+  "name": "Menzel El Habib",
+  "nameAr": "منزل الحبيب"
+ },
+ {
+  "code": 515751,
+  "name": "Secteur Nord",
+  "nameAr": "المنطقة الشمالية"
+ },
+ {
+  "code": 515752,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 515755,
+  "name": "Secteur Sud",
+  "nameAr": "المنطقة القبلية"
+ },
+ {
+  "code": 515756,
+  "name": "Farhat Hached",
+  "nameAr": "فرحات حشاد"
+ },
+ {
+  "code": 515757,
+  "name": "Chanchou",
+  "nameAr": "شانشو"
+ },
+ {
+  "code": 515758,
+  "name": "El Behaïer",
+  "nameAr": "البحاير"
+ },
+ {
+  "code": 515759,
+  "name": "Bechima El Borj",
+  "nameAr": "بشيمة البرج"
+ },
+ {
+  "code": 515760,
+  "name": "Bechima El Kalb",
+  "nameAr": "بشيمة القلب"
+ },
+ {
+  "code": 515761,
+  "name": "Bou Attouch",
+  "nameAr": "بوعطوش"
+ },
+ {
+  "code": 515762,
+  "name": "Habib Thameur",
+  "nameAr": "الحبيب ثامر"
+ },
+ {
+  "code": 515763,
+  "name": "Secteur Ouest",
+  "nameAr": "المنطقة الغريبة"
+ },
+ {
+  "code": 515851,
+  "name": "Matmata",
+  "nameAr": "مطماطة"
+ },
+ {
+  "code": 515852,
+  "name": "Techine",
+  "nameAr": "تشين"
+ },
+ {
+  "code": 515853,
+  "name": "Tamazrat",
+  "nameAr": "طمزرط"
+ },
+ {
+  "code": 515951,
+  "name": "Nouvelle Matmata",
+  "nameAr": "مطماطة الجديدة"
+ },
+ {
+  "code": 515952,
+  "name": "Heddaj",
+  "nameAr": "هداج"
+ },
+ {
+  "code": 515953,
+  "name": "Ez Zeraoua",
+  "nameAr": "الزراوة"
+ },
+ {
+  "code": 515954,
+  "name": "Beni Aïssa",
+  "nameAr": "بني عيسى"
+ },
+ {
+  "code": 515955,
+  "name": "Beni Zalten",
+  "nameAr": "بني زلطن"
+ },
+ {
+  "code": 516051,
+  "name": "Mareth",
+  "nameAr": "مارث"
+ },
+ {
+  "code": 516052,
+  "name": "Mareth Nord",
+  "nameAr": "مارث الشمالية"
+ },
+ {
+  "code": 516053,
+  "name": "Sidi Touati",
+  "nameAr": "سيدي التواتي"
+ },
+ {
+  "code": 516054,
+  "name": "Ez Zerkine",
+  "nameAr": "الزركين"
+ },
+ {
+  "code": 516055,
+  "name": "Ayoun Ez Zerkine",
+  "nameAr": "عيون الزركين"
+ },
+ {
+  "code": 516056,
+  "name": "Ourafinine",
+  "nameAr": "واريفين"
+ },
+ {
+  "code": 516057,
+  "name": "Ezzarat",
+  "nameAr": "الزارات"
+ },
+ {
+  "code": 516058,
+  "name": "El Alaya",
+  "nameAr": "العالية"
+ },
+ {
+  "code": 516059,
+  "name": "Arram",
+  "nameAr": "عرام"
+ },
+ {
+  "code": 516060,
+  "name": "Ketana",
+  "nameAr": "كتانة"
+ },
+ {
+  "code": 516061,
+  "name": "Toujane",
+  "nameAr": "توجان"
+ },
+ {
+  "code": 516062,
+  "name": "Zemarten",
+  "nameAr": "زمرتن"
+ },
+ {
+  "code": 516063,
+  "name": "Zerig El Ghandri",
+  "nameAr": "زريق الغندري"
+ },
+ {
+  "code": 516064,
+  "name": "Aïn Tounine",
+  "nameAr": "عين تونين"
+ },
+ {
+  "code": 516065,
+  "name": "Dekhilet Toujane",
+  "nameAr": "دخيلة توجان"
+ },
+ {
+  "code": 525151,
+  "name": "Beni Ghezaïl",
+  "nameAr": "بني عزيل"
+ },
+ {
+  "code": 525153,
+  "name": "Mednine Ouest",
+  "nameAr": "مدنين الغربية"
+ },
+ {
+  "code": 525155,
+  "name": "Mednine Nord",
+  "nameAr": "مدنين الشمالية"
+ },
+ {
+  "code": 525156,
+  "name": "Oum Ettameur Ouest",
+  "nameAr": "أم التمر الغربية"
+ },
+ {
+  "code": 525157,
+  "name": "Oum Ettameur est",
+  "nameAr": "أم التمر الشرقية"
+ },
+ {
+  "code": 525158,
+  "name": "Koutine",
+  "nameAr": "كوتين"
+ },
+ {
+  "code": 525251,
+  "name": "Mednine Sud",
+  "nameAr": "مدنين الجنوبية"
+ },
+ {
+  "code": 525252,
+  "name": "Mednine Est",
+  "nameAr": "مدنين الشرقية"
+ },
+ {
+  "code": 525253,
+  "name": "El Labba",
+  "nameAr": "اللبة"
+ },
+ {
+  "code": 525254,
+  "name": "Hessi Amor",
+  "nameAr": "حسي عمر"
+ },
+ {
+  "code": 525255,
+  "name": "Oued Esseder",
+  "nameAr": "وادي السدر"
+ },
+ {
+  "code": 525256,
+  "name": "Hessi Mednine",
+  "nameAr": "حسي مدنين"
+ },
+ {
+  "code": 525257,
+  "name": "Darghoulia",
+  "nameAr": "الدرغولية"
+ },
+ {
+  "code": 525258,
+  "name": "Souitir",
+  "nameAr": "السويطير"
+ },
+ {
+  "code": 525259,
+  "name": "Nouvelle Amra",
+  "nameAr": "عمر الجديدة"
+ },
+ {
+  "code": 525260,
+  "name": "Bou Ghrara",
+  "nameAr": "بوغرارة"
+ },
+ {
+  "code": 525351,
+  "name": "Beni Khedech",
+  "nameAr": "بني خداش"
+ },
+ {
+  "code": 525352,
+  "name": "Rahala",
+  "nameAr": "رحالة"
+ },
+ {
+  "code": 525353,
+  "name": "Eddekhila",
+  "nameAr": "الدخيلة"
+ },
+ {
+  "code": 525354,
+  "name": "Ouarjijene",
+  "nameAr": "ورجيجن"
+ },
+ {
+  "code": 525355,
+  "name": "Oued El Khil",
+  "nameAr": "وادي الخيل"
+ },
+ {
+  "code": 525356,
+  "name": "Zghaya",
+  "nameAr": "الزغاية"
+ },
+ {
+  "code": 525357,
+  "name": "El Benaina",
+  "nameAr": "البنية"
+ },
+ {
+  "code": 525358,
+  "name": "El Fejij",
+  "nameAr": "الفجيج"
+ },
+ {
+  "code": 525359,
+  "name": "El Menzela",
+  "nameAr": "المنزلة"
+ },
+ {
+  "code": 525360,
+  "name": "Zammour",
+  "nameAr": "زمور"
+ },
+ {
+  "code": 525361,
+  "name": "El Hamaïma",
+  "nameAr": "الحميمة"
+ },
+ {
+  "code": 525362,
+  "name": "El Behira",
+  "nameAr": "البحيرة"
+ },
+ {
+  "code": 525363,
+  "name": "Ksar El Jedid",
+  "nameAr": "القصر الجديد"
+ },
+ {
+  "code": 525451,
+  "name": "Ben Guerdane Nord",
+  "nameAr": "بن قردان الشمالية"
+ },
+ {
+  "code": 525452,
+  "name": "Ben Guerdane Sud",
+  "nameAr": "بن قردان الجنوبية"
+ },
+ {
+  "code": 525453,
+  "name": "Essayah",
+  "nameAr": "الصياح"
+ },
+ {
+  "code": 525454,
+  "name": "Jamila",
+  "nameAr": "جميلة"
+ },
+ {
+  "code": 525455,
+  "name": "El Mâamerat",
+  "nameAr": "المعمرات"
+ },
+ {
+  "code": 525456,
+  "name": "El Amria",
+  "nameAr": "العامرية"
+ },
+ {
+  "code": 525457,
+  "name": "Ettabaï",
+  "nameAr": "الطابعي"
+ },
+ {
+  "code": 525458,
+  "name": "Ourasnia",
+  "nameAr": "الوراسنية"
+ },
+ {
+  "code": 525459,
+  "name": "Jallel",
+  "nameAr": "جالل"
+ },
+ {
+  "code": 525460,
+  "name": "Neffatia",
+  "nameAr": "النفاتية"
+ },
+ {
+  "code": 525461,
+  "name": "Chahbania",
+  "nameAr": "الشهبانية"
+ },
+ {
+  "code": 525462,
+  "name": "Chareb Errajel",
+  "nameAr": "شارب الراجل"
+ },
+ {
+  "code": 525551,
+  "name": "zarzis",
+  "nameAr": "جرجيس"
+ },
+ {
+  "code": 525553,
+  "name": "Tahar Sfar",
+  "nameAr": "الطاهر صفر"
+ },
+ {
+  "code": 525554,
+  "name": "Ejdaria",
+  "nameAr": "الجدارية"
+ },
+ {
+  "code": 525555,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 525556,
+  "name": "Essouihel",
+  "nameAr": "السويحل"
+ },
+ {
+  "code": 525557,
+  "name": "Oued Ettieb",
+  "nameAr": "واد التياب"
+ },
+ {
+  "code": 525558,
+  "name": "Hassi El Jerbi",
+  "nameAr": "حسي الجربي"
+ },
+ {
+  "code": 525559,
+  "name": "Khaoui El Ghedir",
+  "nameAr": "خوي الغدير"
+ },
+ {
+  "code": 525560,
+  "name": "Hamadi",
+  "nameAr": "حمادي"
+ },
+ {
+  "code": 525561,
+  "name": "Hichem E l Hamadi",
+  "nameAr": "هشام الحمادي"
+ },
+ {
+  "code": 525562,
+  "name": "El Ghorabet",
+  "nameAr": "الغرابات"
+ },
+ {
+  "code": 525563,
+  "name": "El Grebis",
+  "nameAr": "القريبيس"
+ },
+ {
+  "code": 525564,
+  "name": "Hamadi Boutoufaha",
+  "nameAr": "حمادي بو تفاحة"
+ },
+ {
+  "code": 525565,
+  "name": "El Ogla",
+  "nameAr": "العقلة"
+ },
+ {
+  "code": 525566,
+  "name": "Chammakh",
+  "nameAr": "شماخ"
+ },
+ {
+  "code": 525651,
+  "name": "Taourit",
+  "nameAr": "طاوريت"
+ },
+ {
+  "code": 525652,
+  "name": "Bou Melel",
+  "nameAr": "بومالل"
+ },
+ {
+  "code": 525653,
+  "name": "El Jouamâa",
+  "nameAr": "الجوامع"
+ },
+ {
+  "code": 525654,
+  "name": "Fatou",
+  "nameAr": "فاطو"
+ },
+ {
+  "code": 525655,
+  "name": "Mazraïa",
+  "nameAr": "مزراية"
+ },
+ {
+  "code": 525656,
+  "name": "Sedghaiane",
+  "nameAr": "صدغيان"
+ },
+ {
+  "code": 525657,
+  "name": "Oualeg",
+  "nameAr": "والغ"
+ },
+ {
+  "code": 525658,
+  "name": "Essouani",
+  "nameAr": "السواني"
+ },
+ {
+  "code": 525659,
+  "name": "Erriadh",
+  "nameAr": "الرياض"
+ },
+ {
+  "code": 525660,
+  "name": "El Hachene",
+  "nameAr": "الحشان"
+ },
+ {
+  "code": 525661,
+  "name": "Mellita",
+  "nameAr": "مليتة"
+ },
+ {
+  "code": 525751,
+  "name": "Midoun",
+  "nameAr": "ميدون"
+ },
+ {
+  "code": 525752,
+  "name": "Arkou",
+  "nameAr": "اركو"
+ },
+ {
+  "code": 525753,
+  "name": "El Mahboubine",
+  "nameAr": "المحبوبين"
+ },
+ {
+  "code": 525754,
+  "name": "Beni Mâaguel",
+  "nameAr": "بني معقل"
+ },
+ {
+  "code": 525755,
+  "name": "Sedouikèch",
+  "nameAr": "صدويكش"
+ },
+ {
+  "code": 525756,
+  "name": "El May",
+  "nameAr": "الماي"
+ },
+ {
+  "code": 525757,
+  "name": "Robbana",
+  "nameAr": "ربانة"
+ },
+ {
+  "code": 525851,
+  "name": "Ajim",
+  "nameAr": "اجيم"
+ },
+ {
+  "code": 525852,
+  "name": "El Khenensa",
+  "nameAr": "الخنانسة"
+ },
+ {
+  "code": 525853,
+  "name": "Mezrene",
+  "nameAr": "مزران"
+ },
+ {
+  "code": 525854,
+  "name": "Guellala",
+  "nameAr": "قاللة"
+ },
+ {
+  "code": 525855,
+  "name": "Oued Ezzebib",
+  "nameAr": "وادي الزبيب"
+ },
+ {
+  "code": 525856,
+  "name": "El Groa",
+  "nameAr": "القرع"
+ },
+ {
+  "code": 525951,
+  "name": "Sidi Makhlouf",
+  "nameAr": "سيدي مخلوف"
+ },
+ {
+  "code": 525952,
+  "name": "El Grine",
+  "nameAr": "القرين"
+ },
+ {
+  "code": 525953,
+  "name": "El Maghzaouia",
+  "nameAr": "المغزاوية"
+ },
+ {
+  "code": 525954,
+  "name": "El Jourf",
+  "nameAr": "الجرف"
+ },
+ {
+  "code": 525955,
+  "name": "Bedoui",
+  "nameAr": "بدوي"
+ },
+ {
+  "code": 525956,
+  "name": "Amra",
+  "nameAr": "عمرة"
+ },
+ {
+  "code": 525957,
+  "name": "Er Ragouba Est",
+  "nameAr": "الراقوبة الشرقية"
+ },
+ {
+  "code": 525958,
+  "name": "Er Ragouba Ouest",
+  "nameAr": "الراقوبة الغربية"
+ },
+ {
+  "code": 525959,
+  "name": "El Ghabai",
+  "nameAr": "الغباي"
+ },
+ {
+  "code": 525960,
+  "name": "El Gosba",
+  "nameAr": "القصبة"
+ },
+ {
+  "code": 525961,
+  "name": "Darjaoua",
+  "nameAr": "الدرجاوة"
+ },
+ {
+  "code": 535151,
+  "name": "En Nozha",
+  "nameAr": "النزهة"
+ },
+ {
+  "code": 535152,
+  "name": "Ettadhamen",
+  "nameAr": "التضامن"
+ },
+ {
+  "code": 535153,
+  "name": "En Nasr",
+  "nameAr": "النصر"
+ },
+ {
+  "code": 535154,
+  "name": "Oued El Gemah",
+  "nameAr": "وادي القمح"
+ },
+ {
+  "code": 535155,
+  "name": "Berourmet",
+  "nameAr": "برورمت"
+ },
+ {
+  "code": 535156,
+  "name": "Telelt",
+  "nameAr": "تاللت"
+ },
+ {
+  "code": 535157,
+  "name": "Oued El Ghar",
+  "nameAr": "وادي الغار"
+ },
+ {
+  "code": 535158,
+  "name": "El Maouna",
+  "nameAr": "المعونة"
+ },
+ {
+  "code": 535159,
+  "name": "Ezzahra",
+  "nameAr": "الزهراء"
+ },
+ {
+  "code": 535160,
+  "name": "Gattoufa",
+  "nameAr": "قطوفة"
+ },
+ {
+  "code": 535161,
+  "name": "Khetma",
+  "nameAr": "جاتمة"
+ },
+ {
+  "code": 535162,
+  "name": "Essâada",
+  "nameAr": "السعادة"
+ },
+ {
+  "code": 535163,
+  "name": "El Galâa Est",
+  "nameAr": "القلعة الشرقية"
+ },
+ {
+  "code": 535164,
+  "name": "El Galâa Ouest",
+  "nameAr": "القلعة الغربية"
+ },
+ {
+  "code": 535165,
+  "name": "Beni Belal",
+  "nameAr": "بني بالل"
+ },
+ {
+  "code": 535251,
+  "name": "Tataouine Ville",
+  "nameAr": "تطاوين المدينة"
+ },
+ {
+  "code": 535252,
+  "name": "Tataouine Superieure",
+  "nameAr": "تطاوين العليا"
+ },
+ {
+  "code": 535253,
+  "name": "El Maztouria Sud",
+  "nameAr": "المزطورية الجنوبية"
+ },
+ {
+  "code": 535254,
+  "name": "El Maztouria Nord",
+  "nameAr": "المزطورية الشمالية"
+ },
+ {
+  "code": 535255,
+  "name": "Gharghar",
+  "nameAr": "غرغار"
+ },
+ {
+  "code": 535256,
+  "name": "Cité El Barr",
+  "nameAr": "حي البر"
+ },
+ {
+  "code": 535257,
+  "name": "Ksar El Moukabala",
+  "nameAr": "قصر المقابلة"
+ },
+ {
+  "code": 535258,
+  "name": "Nouvelle Chnini",
+  "nameAr": "شنني الجديدة"
+ },
+ {
+  "code": 535259,
+  "name": "Chenini",
+  "nameAr": "شنني"
+ },
+ {
+  "code": 535260,
+  "name": "Eddouiret",
+  "nameAr": "الدويرات"
+ },
+ {
+  "code": 535261,
+  "name": "El Mesreb",
+  "nameAr": "المسرب"
+ },
+ {
+  "code": 535262,
+  "name": "Erroghba",
+  "nameAr": "الرقبة"
+ },
+ {
+  "code": 535263,
+  "name": "Ras El Ouedi",
+  "nameAr": "رأس الوادي"
+ },
+ {
+  "code": 535264,
+  "name": "Bir Thalathine",
+  "nameAr": "بئر الثالثين"
+ },
+ {
+  "code": 535265,
+  "name": "Beni Barka   Tounket",
+  "nameAr": "بني بركة - تونكت"
+ },
+ {
+  "code": 535351,
+  "name": "Kerchaou",
+  "nameAr": "كرشاو"
+ },
+ {
+  "code": 535352,
+  "name": "Smar",
+  "nameAr": "الصمار"
+ },
+ {
+  "code": 535353,
+  "name": "El Ghariani",
+  "nameAr": "الغر ياني"
+ },
+ {
+  "code": 535354,
+  "name": "Errahech",
+  "nameAr": "الرهاش"
+ },
+ {
+  "code": 535355,
+  "name": "El Morra",
+  "nameAr": "المرة"
+ },
+ {
+  "code": 535356,
+  "name": "Ksar Aoun",
+  "nameAr": "قصر عون"
+ },
+ {
+  "code": 535357,
+  "name": "Ksar Mehira",
+  "nameAr": "قصر مهيرة"
+ },
+ {
+  "code": 535358,
+  "name": "Beni Mehira Est",
+  "nameAr": "بني مهيرة الشرقية"
+ },
+ {
+  "code": 535451,
+  "name": "Bir Lahmar Est",
+  "nameAr": "بئر االحمر الشرقية"
+ },
+ {
+  "code": 535452,
+  "name": "Bir Lahmar Ouest",
+  "nameAr": "بئر االحمر الغربية"
+ },
+ {
+  "code": 535453,
+  "name": "Sened",
+  "nameAr": "السند"
+ },
+ {
+  "code": 535454,
+  "name": "El Argoub",
+  "nameAr": "العرقوب"
+ },
+ {
+  "code": 535455,
+  "name": "Grager",
+  "nameAr": "قراقر"
+ },
+ {
+  "code": 535456,
+  "name": "El Medina",
+  "nameAr": "المدينة"
+ },
+ {
+  "code": 535457,
+  "name": "El Bassatine",
+  "nameAr": "البساتين"
+ },
+ {
+  "code": 535551,
+  "name": "Ghomrassen",
+  "nameAr": "غمراسن"
+ },
+ {
+  "code": 535552,
+  "name": "El Ouaha",
+  "nameAr": "الواحة"
+ },
+ {
+  "code": 535553,
+  "name": "Ezzouhour",
+  "nameAr": "الزهور"
+ },
+ {
+  "code": 535554,
+  "name": "El Ghordhab",
+  "nameAr": "القرضاب"
+ },
+ {
+  "code": 535555,
+  "name": "El Ferch",
+  "nameAr": "الفرش"
+ },
+ {
+  "code": 535556,
+  "name": "Guermassa",
+  "nameAr": "قرماسة"
+ },
+ {
+  "code": 535557,
+  "name": "Ksar El Haddada",
+  "nameAr": "قصر الحدادة"
+ },
+ {
+  "code": 535558,
+  "name": "Nouvelle Medina",
+  "nameAr": "المدينة الجديدة"
+ },
+ {
+  "code": 535559,
+  "name": "Ksar El Mourabitine",
+  "nameAr": "قصر المرابطين"
+ },
+ {
+  "code": 535560,
+  "name": "Oued El Khil",
+  "nameAr": "وادي الخيل"
+ },
+ {
+  "code": 535651,
+  "name": "Dhehbia Est",
+  "nameAr": "ذهبية الشرقية"
+ },
+ {
+  "code": 535652,
+  "name": "Dhehbia Ouest",
+  "nameAr": "ذهبية الغربية"
+ },
+ {
+  "code": 535751,
+  "name": "Rémada Est",
+  "nameAr": "رمادة الشرقية"
+ },
+ {
+  "code": 535752,
+  "name": "Rémada Ouest",
+  "nameAr": "رمادة الغربية"
+ },
+ {
+  "code": 535753,
+  "name": "Nekrif",
+  "nameAr": "نكريف"
+ },
+ {
+  "code": 535754,
+  "name": "Kenbout",
+  "nameAr": "كنبوت"
+ },
+ {
+  "code": 535755,
+  "name": "Bir Amir",
+  "nameAr": "بئر عمير"
+ },
+ {
+  "code": 535756,
+  "name": "Borj El Khadhra",
+  "nameAr": "برج الخضراء"
+ },
+ {
+  "code": 535757,
+  "name": "Meghani",
+  "nameAr": "مغنى"
+ },
+ {
+  "code": 615151,
+  "name": "Guetis",
+  "nameAr": "قطيس"
+ },
+ {
+  "code": 615152,
+  "name": "Er Rahiba",
+  "nameAr": "الرحيبة"
+ },
+ {
+  "code": 615153,
+  "name": "Er Rahiba Sud",
+  "nameAr": "الرحيبة الجنوبية"
+ },
+ {
+  "code": 615154,
+  "name": "Ksour El Akhoua",
+  "nameAr": "قصور األخوة"
+ },
+ {
+  "code": 615155,
+  "name": "El Mouthidès",
+  "nameAr": "المتكيدس"
+ },
+ {
+  "code": 615156,
+  "name": "Fej",
+  "nameAr": "الفج"
+ },
+ {
+  "code": 615157,
+  "name": "Menzel Mimoun",
+  "nameAr": "منزل ميمون"
+ },
+ {
+  "code": 615251,
+  "name": "Sidi Aïch",
+  "nameAr": "سيدي عيش"
+ },
+ {
+  "code": 615252,
+  "name": "Sidi Aïch Est",
+  "nameAr": "سيدي عيش الشرقية"
+ },
+ {
+  "code": 615253,
+  "name": "El Amaïma",
+  "nameAr": "العمايمة"
+ },
+ {
+  "code": 615254,
+  "name": "Menzel Gamoudi",
+  "nameAr": "منزل القمودي"
+ },
+ {
+  "code": 615255,
+  "name": "El Karia",
+  "nameAr": "القربة"
+ },
+ {
+  "code": 615256,
+  "name": "Es Souinia",
+  "nameAr": "السوينية"
+ },
+ {
+  "code": 615351,
+  "name": "El Ksar",
+  "nameAr": "القصر"
+ },
+ {
+  "code": 615352,
+  "name": "El Ksar Est",
+  "nameAr": "القصر الشرقية"
+ },
+ {
+  "code": 615353,
+  "name": "Lala",
+  "nameAr": "اللة"
+ },
+ {
+  "code": 615354,
+  "name": "Cité Hached",
+  "nameAr": "حي حشاد"
+ },
+ {
+  "code": 615355,
+  "name": "Amra",
+  "nameAr": "عمرة"
+ },
+ {
+  "code": 615356,
+  "name": "El Matar",
+  "nameAr": "المطار"
+ },
+ {
+  "code": 615451,
+  "name": "Gafsa Ville",
+  "nameAr": "قفصة المدينة"
+ },
+ {
+  "code": 615452,
+  "name": "Gafsa Est",
+  "nameAr": "قفصة الشرقية"
+ },
+ {
+  "code": 615453,
+  "name": "Cité Essourour",
+  "nameAr": "حي السرور"
+ },
+ {
+  "code": 615454,
+  "name": "El Assala",
+  "nameAr": "العسالة"
+ },
+ {
+  "code": 615455,
+  "name": "Sidi Ahmed Zarrouk",
+  "nameAr": "سيدي أحمد زروق"
+ },
+ {
+  "code": 615456,
+  "name": "Oued Ailou",
+  "nameAr": "واد أيلو"
+ },
+ {
+  "code": 615457,
+  "name": "El Moula",
+  "nameAr": "المولي"
+ },
+ {
+  "code": 615458,
+  "name": "Cité Ennour",
+  "nameAr": "حي النور"
+ },
+ {
+  "code": 615459,
+  "name": "Cité Ech Chabab",
+  "nameAr": "حي الشباب"
+ },
+ {
+  "code": 615460,
+  "name": "EL Aguila",
+  "nameAr": "العقيلة"
+ },
+ {
+  "code": 615461,
+  "name": "Kef Derbi",
+  "nameAr": "كاف دربي"
+ },
+ {
+  "code": 615462,
+  "name": "En Nadhour",
+  "nameAr": "الناظور"
+ },
+ {
+  "code": 615551,
+  "name": "Oum El Aksab",
+  "nameAr": "أم األقصاب"
+ },
+ {
+  "code": 615552,
+  "name": "Sidi Boubaker",
+  "nameAr": "سيدي بوبكر"
+ },
+ {
+  "code": 615553,
+  "name": "Oum El Araies Centre",
+  "nameAr": "أم العرايس المركزية"
+ },
+ {
+  "code": 615554,
+  "name": "Oum El Araies Gare",
+  "nameAr": "أم العرايس المحطة"
+ },
+ {
+  "code": 615555,
+  "name": "Ech Channoufia",
+  "nameAr": "الشنوفية"
+ },
+ {
+  "code": 615556,
+  "name": "Es Souitir",
+  "nameAr": "السويطير"
+ },
+ {
+  "code": 615557,
+  "name": "Daouara",
+  "nameAr": "الدوارة"
+ },
+ {
+  "code": 615651,
+  "name": "Redeyef Centre",
+  "nameAr": "الرديف المركز"
+ },
+ {
+  "code": 615652,
+  "name": "Redeyef Nord",
+  "nameAr": "الرديف الشمالية"
+ },
+ {
+  "code": 615653,
+  "name": "Redeyef Sud",
+  "nameAr": "الرديف الجنوبية"
+ },
+ {
+  "code": 615654,
+  "name": "Redeyef Gare",
+  "nameAr": "الرديف المحطة"
+ },
+ {
+  "code": 615655,
+  "name": "Tabdit",
+  "nameAr": "تابديت"
+ },
+ {
+  "code": 615751,
+  "name": "Metlaoui Centre",
+  "nameAr": "المتلوي المركز"
+ },
+ {
+  "code": 615752,
+  "name": "Metlaoui Gare",
+  "nameAr": "المتلوي المحطة"
+ },
+ {
+  "code": 615753,
+  "name": "El Mzirâa",
+  "nameAr": "المزيرعة"
+ },
+ {
+  "code": 615754,
+  "name": "Krichet Nâam",
+  "nameAr": "كريشة النعام"
+ },
+ {
+  "code": 615755,
+  "name": "Cité El Amel Ouest",
+  "nameAr": "حي االمل الغربي"
+ },
+ {
+  "code": 615756,
+  "name": "Cité El Amel Est",
+  "nameAr": "حي االمل الشرقي"
+ },
+ {
+  "code": 615757,
+  "name": "Thalja",
+  "nameAr": "الثالجة"
+ },
+ {
+  "code": 615758,
+  "name": "Oued El Arta",
+  "nameAr": "وادي األرطة"
+ },
+ {
+  "code": 615759,
+  "name": "El Magroun",
+  "nameAr": "المقرون"
+ },
+ {
+  "code": 615760,
+  "name": "Segui Sud",
+  "nameAr": "السقي القبلي"
+ },
+ {
+  "code": 615851,
+  "name": "Mdhila Centre",
+  "nameAr": "المظيلة المركز"
+ },
+ {
+  "code": 615852,
+  "name": "Cité Des Travailleurs",
+  "nameAr": "الحي العمالي"
+ },
+ {
+  "code": 615853,
+  "name": "Sahib",
+  "nameAr": "صهيب"
+ },
+ {
+  "code": 615854,
+  "name": "El Segui",
+  "nameAr": "السقي"
+ },
+ {
+  "code": 615951,
+  "name": "El Guetar Ouest",
+  "nameAr": "القطار الغربية"
+ },
+ {
+  "code": 615952,
+  "name": "El Ortos",
+  "nameAr": "األرطس"
+ },
+ {
+  "code": 615953,
+  "name": "El Guetar Est",
+  "nameAr": "القطار الشرقية"
+ },
+ {
+  "code": 615954,
+  "name": "El Ongue",
+  "nameAr": "العنق"
+ },
+ {
+  "code": 615955,
+  "name": "Es Saket",
+  "nameAr": "الساكت"
+ },
+ {
+  "code": 615956,
+  "name": "Bir Sâad",
+  "nameAr": "بئر سعد"
+ },
+ {
+  "code": 616051,
+  "name": "El Ayaïcha",
+  "nameAr": "العيايشة"
+ },
+ {
+  "code": 616052,
+  "name": "Belkhir",
+  "nameAr": "بلخير"
+ },
+ {
+  "code": 616053,
+  "name": "Et Talh Est",
+  "nameAr": "الطلح الشرقية"
+ },
+ {
+  "code": 616054,
+  "name": "Et Talh Ouest",
+  "nameAr": "الطلح الغربية"
+ },
+ {
+  "code": 616055,
+  "name": "Jbilet Ouest",
+  "nameAr": "جبيلة الوسط"
+ },
+ {
+  "code": 616056,
+  "name": "Ouled El Hadj",
+  "nameAr": "أوالد الحاج"
+ },
+ {
+  "code": 616151,
+  "name": "Sned",
+  "nameAr": "السند"
+ },
+ {
+  "code": 616152,
+  "name": "Sned Nord",
+  "nameAr": "السند الشمالية"
+ },
+ {
+  "code": 616153,
+  "name": "Sanouche",
+  "nameAr": "صانوش"
+ },
+ {
+  "code": 616154,
+  "name": "Djedida",
+  "nameAr": "الجديدة"
+ },
+ {
+  "code": 616155,
+  "name": "Abdessadok",
+  "nameAr": "عبد الصادق"
+ },
+ {
+  "code": 616156,
+  "name": "Majoura",
+  "nameAr": "ماجورة"
+ },
+ {
+  "code": 616157,
+  "name": "Alim",
+  "nameAr": "عليم"
+ },
+ {
+  "code": 625151,
+  "name": "Masghouna",
+  "nameAr": "مسغونة"
+ },
+ {
+  "code": 625152,
+  "name": "Ez Zebda",
+  "nameAr": "الزبدة"
+ },
+ {
+  "code": 625153,
+  "name": "El Habaïla",
+  "nameAr": "الهبائلة"
+ },
+ {
+  "code": 625154,
+  "name": "El Haouadef",
+  "nameAr": "الهوادف"
+ },
+ {
+  "code": 625155,
+  "name": "El Keitna",
+  "nameAr": "القيطنة"
+ },
+ {
+  "code": 625156,
+  "name": "Ras Drâa Helba",
+  "nameAr": "رأس الذراع حلبة"
+ },
+ {
+  "code": 625157,
+  "name": "El Ezdihar",
+  "nameAr": "اإلزدهار"
+ },
+ {
+  "code": 625158,
+  "name": "Cité aeroport’l",
+  "nameAr": "حي المطار"
+ },
+ {
+  "code": 625159,
+  "name": "Ech Chabia",
+  "nameAr": "الشابية"
+ },
+ {
+  "code": 625160,
+  "name": "EL Hadher",
+  "nameAr": "الحضر"
+ },
+ {
+  "code": 625251,
+  "name": "Degach Nord",
+  "nameAr": "دقاش الشمالية"
+ },
+ {
+  "code": 625252,
+  "name": "Degach Sud",
+  "nameAr": "دقاش الجنوبية"
+ },
+ {
+  "code": 625253,
+  "name": "Sebâa Abar",
+  "nameAr": "سبع أبار"
+ },
+ {
+  "code": 625254,
+  "name": "El Mahassen",
+  "nameAr": "المحاسن"
+ },
+ {
+  "code": 625255,
+  "name": "Bou Helal",
+  "nameAr": "بوهالل"
+ },
+ {
+  "code": 625256,
+  "name": "El Hamma",
+  "nameAr": "الحامة"
+ },
+ {
+  "code": 625257,
+  "name": "Chakmou",
+  "nameAr": "شاكمو"
+ },
+ {
+  "code": 625258,
+  "name": "Dghoumès",
+  "nameAr": "دغومس"
+ },
+ {
+  "code": 625259,
+  "name": "En Namlat",
+  "nameAr": "النمالت"
+ },
+ {
+  "code": 625351,
+  "name": "Tameghza",
+  "nameAr": "تمغزة"
+ },
+ {
+  "code": 625352,
+  "name": "Chebika",
+  "nameAr": "الشبيكة"
+ },
+ {
+  "code": 625353,
+  "name": "Midas",
+  "nameAr": "ميداس"
+ },
+ {
+  "code": 625354,
+  "name": "Aïn El Karma",
+  "nameAr": "عين الكرمة"
+ },
+ {
+  "code": 625355,
+  "name": "Foum El Khangua",
+  "nameAr": "قم الحنقة"
+ },
+ {
+  "code": 625356,
+  "name": "Er Remitha",
+  "nameAr": "الرميثة"
+ },
+ {
+  "code": 625451,
+  "name": "Chafaï Ech Cherif",
+  "nameAr": "الشافعي الشريف"
+ },
+ {
+  "code": 625452,
+  "name": "1er Juin",
+  "nameAr": "غرة جوان"
+ },
+ {
+  "code": 625453,
+  "name": "El Ouaha",
+  "nameAr": "الواحة"
+ },
+ {
+  "code": 625454,
+  "name": "Es Seni",
+  "nameAr": "السني"
+ },
+ {
+  "code": 625455,
+  "name": "El Ayoun",
+  "nameAr": "العيون"
+ },
+ {
+  "code": 625456,
+  "name": "Ettahir",
+  "nameAr": "التحرير"
+ },
+ {
+  "code": 625457,
+  "name": "El Assil",
+  "nameAr": "األصيل"
+ },
+ {
+  "code": 625458,
+  "name": "El Khadar Ben Houssine",
+  "nameAr": "الخضر بن حسين"
+ },
+ {
+  "code": 625551,
+  "name": "Hazoua",
+  "nameAr": "حزوة"
+ },
+ {
+  "code": 625552,
+  "name": "Hattem",
+  "nameAr": "حطام"
+ },
+ {
+  "code": 625553,
+  "name": "Ain Ouled El Ggerissi",
+  "nameAr": "عين أوالد اللغريسي"
+ },
+ {
+  "code": 635151,
+  "name": "Kébili Sud",
+  "nameAr": "قبلي الجنوبية"
+ },
+ {
+  "code": 635152,
+  "name": "Bazma",
+  "nameAr": "بازمة"
+ },
+ {
+  "code": 635153,
+  "name": "Jemna Nord",
+  "nameAr": "جمنة الشمالية"
+ },
+ {
+  "code": 635154,
+  "name": "jemna Sud",
+  "nameAr": "جمنة الجنوبية"
+ },
+ {
+  "code": 635155,
+  "name": "Bechelli",
+  "nameAr": "بشلى"
+ },
+ {
+  "code": 635156,
+  "name": "Jersine",
+  "nameAr": "جرسين"
+ },
+ {
+  "code": 635157,
+  "name": "El Blidete",
+  "nameAr": "البليدات"
+ },
+ {
+  "code": 635158,
+  "name": "Beni Mehemed",
+  "nameAr": "ّ بني محمد"
+ },
+ {
+  "code": 635159,
+  "name": "Janoura",
+  "nameAr": "جنعورة"
+ },
+ {
+  "code": 635251,
+  "name": "Kébeli nord",
+  "nameAr": "قبلي الشمالية"
+ },
+ {
+  "code": 635252,
+  "name": "El Mansoura",
+  "nameAr": "المنصورة"
+ },
+ {
+  "code": 635253,
+  "name": "Errabta",
+  "nameAr": "الرابطة"
+ },
+ {
+  "code": 635254,
+  "name": "Tonbar",
+  "nameAr": "طنبار"
+ },
+ {
+  "code": 635255,
+  "name": "Limagues Estiffimia",
+  "nameAr": "ليماقس اسفطميمية"
+ },
+ {
+  "code": 635256,
+  "name": "Telmine",
+  "nameAr": "تلمين"
+ },
+ {
+  "code": 635257,
+  "name": "Tenbib",
+  "nameAr": "تنبيب"
+ },
+ {
+  "code": 635258,
+  "name": "Saïdane",
+  "nameAr": "سعيدان"
+ },
+ {
+  "code": 635259,
+  "name": "El Gattaya",
+  "nameAr": "القطعاية"
+ },
+ {
+  "code": 635260,
+  "name": "Kebeli Est",
+  "nameAr": "قبلي الشرقية"
+ },
+ {
+  "code": 635351,
+  "name": "El Menchia",
+  "nameAr": "المنشية"
+ },
+ {
+  "code": 635352,
+  "name": "Bou Abdellah",
+  "nameAr": "بو عبد هللا"
+ },
+ {
+  "code": 635353,
+  "name": "Oum Essoumâa",
+  "nameAr": "ام الصمعة"
+ },
+ {
+  "code": 635354,
+  "name": "Ezzaouaïa",
+  "nameAr": "الزاوية"
+ },
+ {
+  "code": 635355,
+  "name": "Bèchri",
+  "nameAr": "بشري"
+ },
+ {
+  "code": 635356,
+  "name": "Fatnassa",
+  "nameAr": "فطناسة"
+ },
+ {
+  "code": 635357,
+  "name": "Negga",
+  "nameAr": "نقة"
+ },
+ {
+  "code": 635451,
+  "name": "Douz Est",
+  "nameAr": "دوز الشرقية"
+ },
+ {
+  "code": 635452,
+  "name": "El Golaa",
+  "nameAr": "القلعة"
+ },
+ {
+  "code": 635553,
+  "name": "El Aouina Nord",
+  "nameAr": "العوينة الشمالية"
+ },
+ {
+  "code": 635454,
+  "name": "El Aouina Sud",
+  "nameAr": "العوينة الجنوبية"
+ },
+ {
+  "code": 635455,
+  "name": "El Abadla",
+  "nameAr": "العبادلة"
+ },
+ {
+  "code": 635551,
+  "name": "Douz Ouest",
+  "nameAr": "دوز الغربية"
+ },
+ {
+  "code": 635552,
+  "name": "El Adhara",
+  "nameAr": "العذارة"
+ },
+ {
+  "code": 635553,
+  "name": "Ghelissia",
+  "nameAr": "غليسية"
+ },
+ {
+  "code": 635554,
+  "name": "Nouil Nord",
+  "nameAr": "نويل الشمالية"
+ },
+ {
+  "code": 635555,
+  "name": "Nouil Sud",
+  "nameAr": "نويل الجنوبية"
+ },
+ {
+  "code": 635651,
+  "name": "Sabria Ouest",
+  "nameAr": "الصابرية الغربية"
+ },
+ {
+  "code": 635652,
+  "name": "Sabria Est",
+  "nameAr": "الصابرية الشرقية"
+ },
+ {
+  "code": 635653,
+  "name": "Gharib",
+  "nameAr": "غريب"
+ },
+ {
+  "code": 635654,
+  "name": "Gueïdma",
+  "nameAr": "غيدمة"
+ },
+ {
+  "code": 635655,
+  "name": "Rejim Mâatoug",
+  "nameAr": "رجيم معتوق"
+ },
+ {
+  "code": 635656,
+  "name": "El Matrouha",
+  "nameAr": "المطروحة"
+ },
+ {
+  "code": 635657,
+  "name": "Bechni Eddorjine",
+  "nameAr": "بشني - الدرجين"
+ }
+]
