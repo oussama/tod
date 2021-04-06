@@ -1,0 +1,270 @@
+قرطاج 51 11 Carthage
+المدينة 52 11 Medina La
+باب البحر 53 11 Bhar El Bab
+باب سويقة 54 11 Souika Bab
+العمران 55 11 Omrane El
+العمران االعلى 56 11 Supérieur Omrane El
+التحرير 57 11 Ettahrir
+المنزه 58 11 Menzah El
+حي الخضراء 59 11 Khadhra El Cité
+باردو 60 11 Bardo Le
+السيجومي 61 11 Sijoumi
+الزهور 62 11 Ezzouhour
+الحرائرية 63 11 Hrairia El
+سيدي حسين 64 11 Hassine Sidi
+الوردية 65 11 Ouardia El
+الكبارية 66 11 Kabaria El
+سيدي البشير 67 11 Béchir El Sidi
+جبل الجلود 68 11 Djelloud Djebel
+حلق الوادي 69 11 Goulette La
+الكرم 70 11 Kram Le
+المرسى 71 11 Marsa La
+اريانةالمدينة 51 12 Ville Ariana’L
+سكرة 52 12 Soukra
+ّرواد 53 12 Raoued
+قلعة األندلس 54 12 Andalous El Kalaât
+سيدي ثابت 55 12 Thabet Sidi
+حي التضامن 56 12 Ettadhamen Cité
+المنيهلة 57 12 Mnihla El
+والية بن عروس Arous Ben de Gouvernorat
+بن عروس 51 13 Arous Ben
+المدينة الجديدة 52 13 Medina Nouvelle La
+المروج 53 13 Mourouj El
+حمام األنف 54 13 Lif Hammam
+حمام الشط 55 13 Chôtt Hammam
+بومهل البساتين 56 13 Bassatine El Mhel Bou
+الزهراء 57 13 Ezzahra
+رادس 58 13 Radès
+مقرين 59 13 Megrine
+المحمدية 60 13 Mohamedia
+فوشانة 61 13 Fouchana
+مرناق 62 13 Mornag
+منوبة 51 14 Mannouba
+دوار هيشر 52 14 Hicher Douar
+وادي الليل 53 14 Ellil Oued
+المرناقية 54 14 Mornaguia
+برج العامري 55 14 Amri Borj
+الجديدة 56 14 Djedeida
+طبربة 57 14 Tebourba
+البطان 58 14 Battane El
+نابل 51 15 Nabeul
+دار شعبان الفهري 52 15 Fehri El Châabane Dar
+بني خيار 53 15 khiar Beni
+قربة 54 15 Korba
+منزل تميم 55 15 Temime Menzel
+الميدة 56 15 Mida El
+قليببية 57 15 Kelibia
+حمام األغزاز 58 15 Guezaz El Hammam
+الهوارية 59 15 Haouaria El
+تاكلسة 60 15 Takelsa
+سليمان 61 15 Soliman
+منزل بوزلفة 62 15 Bouzelfa Menzel
+بني خالد 63 15 Khalled Beni
+قرمبالية 64 15 Grombalia
+بوعرقوب 65 15 Argoub Bou
+الحمامات 66 15 Hammamet
+زغوان 51 16 Zaghouan
+الزريبة 52 16 Zeriba-Ez
+بئر مشارقة 53 16 Mchergua Bir
+الفحص 54 16 Fahs El
+الناظور 55 16 Nadhour-En
+صواف 56 16 Saouaf
+بنزرت الشمالية 51 17 Nord Bizerte
+جرزونة 52 17 Zarzouna
+بنزرت الجنوبية 53 17 Sud Bizerte
+سجنان 54 17 Sedjnane
+جومين 55 17 Djoumine
+ماطر 56 17 Mateur
+غزالة 57 17 Ghezala
+منزل بورقيبة 58 17 Bourguiba Menzel
+تينجة 59 17 Tinja
+أوتيك 60 17 Utique
+غار الملح 61 17 Meleh El Ghar
+منزل جميل 62 17 Djemil Menzel
+العالية 63 17 Alia El
+راس الجبل 64 17 Djebel Ras
+باجة الشمالية 51 21 Nord Béja
+باجة الجنوبية 52 21 Sud Béja
+عمدون 53 21 Amdoun
+نفزة 54 21 Nefza
+تبرسق 55 21 Teboursouk
+تيبار 56 21 Tibar
+تستور 57 21 Testour
+قبالط 58 21 Goubellat
+مجاز الباب 59 21 Bab El Medjez
+جندوبة 51 22 Jendouba
+جندوبة الشمالية 52 22 Nord Jendouba
+بوسالم 53 22 Salem Bou
+طبرقة 54 22 Tabarka
+عين دراهم 55 22 Draham Ain
+فرنانة 56 22 Fernana
+غار الدماء 57 22 Ghardimaou
+وادي مليز 58 22 Meliz Oued
+بلطة بوعوان 59 22 Aouane Bou - Balta
+الكاف الغربية 51 23 Ouest Kef
+الكاف الشرقية 52 23 Est Kef
+نبر 53 23 Nebeur
+ساقية سيدي يوسف 54 23 Youssef Sidi Sakiet
+تاجروين 55 23 Tajerouine
+قلعة سنان 56 23 Snan Kalâat
+القلعة الخصباء 57 23 Khasbah Kalâat
+الجريصة 58 23 Djerissa
+القصور 59 23 Ksour El
+الدهماني 60 23 Dahmani
+السرس 61 23 Sers-Es
+سليانة الشمالية 51 24 Nord Siliana
+سليانة الجنوبية 52 24 Sud Siliana
+بوعرادة 53 24 Arada Bou
+قعفور 54 24 Gaâfour
+الكريب 55 24 Krib El
+بورويس 56 24 Bourouis
+مكثر 57 24 Makthar
+الروحية 58 24 Rouhia-Er
+كسرى 59 24 Kesra
+برقو 60 24 Bargou
+العروسة 61 24 Aroussa El
+سوسة المدينة 51 31 Medina Sousse
+سوسة الرياض 52 31 Riadh Sousse
+سوسة جوهرة 53 31 Jawhara Sousse
+سوسة سيدي عبد الحميد 54 31 Abdelhamid Sidi Sousse
+حمام سوسة 55 31 Sousse Hammam
+اكودة 56 31 Akouda
+القلعة الكبرى 57 31 Kebira Kalaâ
+سيدي بوعلي 58 31 Ali Bou Sidi
+هرقلة 59 31 Hergla
+النفيضة 60 31 Enfidha
+بوفيشة 61 31 Bouficha
+كندار 62 31 Kondar
+سيدي الهاني 63 31 Héni El Sidi
+مساكن 64 31 saken’M
+القلعة الصغرى 65 31 Seghira Kalaâ
+الزاوية - القصيبة - الثريات 66 31 Thrayet - Ksiba - Zaouia
+المنستير 51 32 Monastir
+الوردانين 52 32 Ouerdanine
+الساحلين 53 32 Sahline
+زرمدين 54 32 Zermadine
+بني حسان 55 32 Hassen Beni
+جمال 56 32 Jammel
+بنبلة 57 32 Bembla
+المكنين 58 32 Moknine
+البقالطة 59 32 Bekalta
+طبلبة 60 32 Teboulba
+قصر هالل 61 32 Helal Ksar
+قصيبة المديوني 62 32 Mediouni El Ksibet
+صيادة - لمطة - بوحجر 63 32 Hjar-Bou Lamta-Sayada
+المهدية 51 33 Mahdia
+بومرداس 52 33 Merdès Bou
+أوالد شامخ 53 33 Chamekh Ouled
+شربان 54 33 Chorbane
+هبيرة 55 33 Hebira
+السواسي 56 33 Essouassi
+الجم 57 33 Djem El
+الشابة 58 33 Chebba
+ملولش 59 33 Melloulech
+سيدي علوان 60 33 Alouane Sidi
+قصور الساف 61 33 Essef Ksour
+صفاقس المدينة 51 34 Ville Sfax
+صفاقس الغريبة 52 34 Ouest Sfax
+ساقية الزيت 53 34 Ezzit Sakiet
+ساقية الدائر 54 34 Eddaïer Sakiet
+صفاقس الجنوبية 55 34 Sud Sfax
+طينة 56 34 Tina
+عقارب 57 34 Agareb
+جبنيانة 58 34 Djebeniana
+العامرة 59 34 Amra El
+الحنشة 60 34 Hencha El
+منزل شاكر 61 34 Chaker Menzel
+الغريبة 62 34 Ghraiba
+بئر علي بن خليفة 63 34 Kelifa Ben ali Bir
+الصخيرة 64 34 Skhira
+المحرس 65 34 Mahres
+قرقنة 66 34 Kerkenah
+القيروان الشمالية 51 41 Nord Kairouan
+القيروان الجنوبية 52 41 Sud Kairouan
+الشبيكة 53 41 Echebika
+السبيخة 54 41 Sbikha
+الوسالتية 55 41 Ouslatia EL
+حفوز 56 41 Haffouz
+العالء 57 41 Alâa El
+حاجب العيون 58 41 Ayoun el Hajeb
+نصر للا 4159 Nasrallah
+الشراردة 60 41 Echrarda
+بوحجلة 61 41 Bouhajla
+القصرين الشمالية 51 42 Nord Kasserine
+القصرين الجنوبية 52 42 Sud Kasserine
+الزهور 53 42 Ezzouhour
+حاسي الفريد 54 42 Ferid Hassi
+سبيطلة 55 42 Sbeitla
+سبيبة 56 42 Sbiba
+جدليان 57 42 Djedeliane
+العيون 58 42 Ayoun El
+تالة 59 42 Thala
+حيدرة 60 42 Hidra
+فوسانة 61 42 Foussana
+فريانة 62 42 Feriana
+ماجل بالعباس 63 42 Abbès Bel Majel
+سيدي بوزيد الغربية 51 43 Ouest Bouzid Sidi
+سيدي بوزيد الشرقية 52 43 Est Bouzid Sidi
+جلمة 53 43 Jilma
+سبالة أوالد عسكر 54 43 Asker Ouled Cebalet
+بئر الحفي 55 43 Hafey El Bir
+سيدي علي بن عون 56 43 Aoûn Ben Ali Sidi
+منزل بوزيان 57 43 Bouzaïenne Menzel
+المكناسي 58 43 Meknassy
+سوق الجديد 59 43 Jedid Souk
+المزونة 60 43 Mezzouna
+الرقاب 61 43 Regueb
+أوالد حفوز 62 43 Haffouz Ouled
+قابس المدينة 51 51 Medina Gabes
+قابس الغربية 52 51 Ouest Gabes
+قابس الجنوبية 53 51 Sud Gabes
+غنوش 54 51 Ghanouch
+المطوية 55 51 Metouia El
+منزل الحبيب 56 51 Habib El Menzel
+الحامة 57 51 Hamma El
+مطماطة 58 51 Matmata
+مطماطة الجديدة 59 51 Matmata Nouvelle
+مارث 60 51 Mareth
+مدنين الشمالية 51 52 Nord Medenine
+مدنين الجنوبية 52 52 Sud Medenine
+بني خداش 53 52 Khedech Beni
+بنقردان 54 52 Guerdane Ben
+جرجيس 55 52 Zarzis
+جربة حومة السوق 56 52 Souk Houmet Djerba
+جربة ميدون 57 52 Midoun Djerba
+جربة أجيم 58 52 Ajim Djerba
+سيدي مخلوف 59 52 Makhloulf Sidi
+تطاوين الشمالية 51 53 Nord Tataouine
+تطاوين الجنوبية 52 53 Sud Tataouine
+الصمار 53 53 Smâr
+بئر األحمر 54 53 Lahmar Bir
+غمراسن 55 53 Ghomrassen
+ذهيبة 56 53 Dhehiba
+رمادة 57 53 Remada
+قفصة الشمالية 51 61 Nord Gafsa
+سيدي عيش 52 61 Aïch Sidi
+القصر 53 61 Ksar El
+قفصة الجنوبية 54 61 Sud Gafsa
+أم العرائس 55 61 Araies El Oum
+الرديف 56 61 Redeyef
+المتلوي 57 61 Metlaoui
+المضيلة 58 61 Mdhila
+القطار 59 61 Guetar EL
+بلخير 60 61 Belkhir
+السند 61 61 Sned
+توزر 51 62 Tozeur
+دقاش 52 62 Degach
+تمغزة 53 62 Tameghza
+نفطة 54 62 Nefta
+حزوة 55 62 Hazoua
+قبلي الجنوبية 51 63 Sud Kebili
+قبلي الشمالية 52 63 Nord Kebeli
+سوق األحد 53 63 Ahed El Souk
+دوز الشمالية 54 63 Nord Douz
+دوز الجنوبية 55 63 Sud Douz
+فوار 56 63 Faouar
+
+
+References
+Tunisian Geocode 2013
+
